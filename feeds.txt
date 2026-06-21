@@ -1,0 +1,32 @@
+# 一行一個 RSS 來源。
+# 格式：來源名稱（用途：用途說明） | RSS網址
+# 只使用免費公開 RSS；不加入需要登入或付費 API 的來源。
+
+# 聚合搜尋：用來補足跨媒體、跨地區的即時趨勢
+Google News Business（用途：全球商業、企業與財經頭條） | https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en
+Google News Technology（用途：全球科技產業頭條） | https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-US&gl=US&ceid=US:en
+Google News AI（用途：AI、OpenAI、生成式 AI 趨勢追蹤） | https://news.google.com/rss/search?q=AI%20OR%20%22artificial%20intelligence%22%20OR%20OpenAI%20when%3A1d&hl=en-US&gl=US&ceid=US:en
+Google News Semiconductors（用途：半導體、晶片、TSMC、Nvidia 快訊） | https://news.google.com/rss/search?q=semiconductor%20OR%20chip%20OR%20TSMC%20OR%20Nvidia%20when%3A1d&hl=en-US&gl=US&ceid=US:en
+Google News Markets（用途：股市、債市、匯率、油價與黃金快訊） | https://news.google.com/rss/search?q=stocks%20OR%20bonds%20OR%20oil%20OR%20dollar%20OR%20yen%20when%3A1d&hl=en-US&gl=US&ceid=US:en
+
+# 國際財經與市場
+BBC Business（用途：全球商業、公司與宏觀經濟新聞） | https://feeds.bbci.co.uk/news/business/rss.xml
+CNBC Markets（用途：美股、金融市場與投資人情緒） | https://www.cnbc.com/id/100003114/device/rss/rss.html
+Yahoo Finance News（用途：美股、企業財報、市場消息） | https://finance.yahoo.com/news/rss
+MarketWatch Top Stories（用途：市場頭條、投資與美國金融新聞） | https://feeds.marketwatch.com/marketwatch/topstories/
+Investing.com News（用途：全球市場、商品、外匯與宏觀消息） | https://www.investing.com/rss/news.rss
+
+# 科技、AI、半導體
+BBC Technology（用途：全球科技政策、平台與產品新聞） | https://feeds.bbci.co.uk/news/technology/rss.xml
+CNBC Technology（用途：大型科技公司、美國科技股與產業動態） | https://www.cnbc.com/id/19854910/device/rss/rss.html
+TechCrunch（用途：新創、AI 公司、科技投融資與產品發布） | https://techcrunch.com/feed/
+VentureBeat AI（用途：AI 產業、企業 AI 與模型應用） | https://venturebeat.com/category/ai/feed/
+The Verge（用途：消費科技、平台公司、AI 產品與監管動態） | https://www.theverge.com/rss/index.xml
+Ars Technica（用途：硬體、晶片、資安、科技政策與深度科技） | https://feeds.arstechnica.com/arstechnica/index
+MIT Technology Review（用途：AI、半導體、深科技與長期科技趨勢） | https://www.technologyreview.com/feed/
+
+# 央行、宏觀與金融穩定
+Federal Reserve Press Releases（用途：美國聯準會政策、監管與官方聲明） | https://www.federalreserve.gov/feeds/press_all.xml
+BIS Press Releases（用途：國際清算銀行、全球央行與金融穩定消息） | https://www.bis.org/doclist/all_pressrels.rss
+BIS Central Bank Speeches（用途：央行官員演說、貨幣政策訊號） | https://www.bis.org/doclist/cbspeeches.rss
+BIS Statistics（用途：國際金融、銀行與市場統計發布） | https://www.bis.org/doclist/all_statistics.rss

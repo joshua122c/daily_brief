@@ -1,0 +1,50 @@
+name: Daily Research Brief
+
+on:
+  schedule:
+    # 香港/台灣時間 06:30 = UTC 22:30
+    - cron: "30 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-brief:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate daily brief
+        run: python fetch_news.py
+
+      - name: Commit generated brief files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daily_brief.md ai_candidates.md
+          if git diff --cached --quiet; then
+            echo "No brief changes to commit."
+          else
+            git commit -m "Update daily research brief"
+            git push
+          fi
+
+      - name: Email daily brief
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          SMTP_USE_SSL: ${{ secrets.SMTP_USE_SSL }}
+          SMTP_USE_STARTTLS: ${{ secrets.SMTP_USE_STARTTLS }}
+        run: python send_email.py
