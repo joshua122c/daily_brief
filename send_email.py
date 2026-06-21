@@ -22,7 +22,7 @@ def env_value(name: str, default: str | None = None) -> str:
 
 def env_bool(name: str, default: bool) -> bool:
     value = os.environ.get(name)
-    if value is None:
+    if value is None or not value.strip():
         return default
     return value.strip().lower() in {"1", "true", "yes", "y", "on"}
 
