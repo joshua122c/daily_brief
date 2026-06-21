@@ -59,6 +59,8 @@ python fetch_news.py --output my_brief.md
 python fetch_news.py --candidates-output my_candidates.md
 ```
 
+預設每個分類最多顯示 5 條新聞，避免簡報過長。
+
 ## GitHub Actions 自動執行
 
 專案已加入：
@@ -192,4 +194,16 @@ IMPORTANT_KEYWORDS = {
 }
 ```
 
-之後你只要改這兩個 dictionary，就能調整分類與重要性評分。
+來源權重在：
+
+```python
+SOURCE_WEIGHT_RULES = {
+    30: [...],
+    15: [...],
+    -20: [...],
+}
+```
+
+數字越高，越容易進入 Top 10；負數代表低權重來源或聚合／行情頁。
+
+之後你只要改這幾個 dictionary，就能調整分類、重要性評分和來源排序。
