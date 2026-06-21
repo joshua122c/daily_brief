@@ -1,6 +1,6 @@
 # 繁體中文記者研究分析
 
-更新時間：2026-06-21 21:26
+更新時間：2026-06-21 21:31
 
 入選新聞：20 / 最多 20 則
 
@@ -70,7 +70,40 @@ NVIDIA相關消息顯示，AI投資與產品競爭持續升溫。
 
 ---
 
-## 3. Anthropic、DeepMind：AI競爭出現新動向
+## 3. NVIDIA、Intel：半導體供應鏈出現新動向
+
+原文標題：
+After Nvidia And Tesla, Trump Confirms Apple Has Agreed To Build Chips With Intel Amid US Manufacturing Push: 'When Was The Last Time...'
+
+中文標題：
+NVIDIA、Intel：半導體供應鏈出現新動向
+
+中文摘要：
+NVIDIA、Intel動向牽動晶片供應鏈與AI運算需求。
+
+為什麼重要：
+這則新聞可能影響晶片供需、先進製程與AI伺服器供應鏈。
+
+可能影響：
+- NVIDIA
+- Intel
+- Apple
+- Tesla
+- 晶片供應鏈
+- AI伺服器供應鏈
+
+建議追蹤：
+- 下一季財報
+- 出貨與庫存變化
+- 供應鏈產能調整
+
+來源：Benzinga
+時間：2026-06-20 20:02
+連結：https://finance.yahoo.com/technology/articles/nvidia-tesla-trump-confirms-apple-120206149.html
+
+---
+
+## 4. Anthropic、DeepMind：AI競爭出現新動向
 
 原文標題：
 CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7
@@ -103,7 +136,7 @@ Anthropic、DeepMind相關消息顯示，AI投資與產品競爭持續升溫。
 
 ---
 
-## 4. OpenAI、Anthropic：AI競爭出現新動向
+## 5. OpenAI、Anthropic：AI競爭出現新動向
 
 原文標題：
 Amazon has lagged OpenAI and Anthropic, but AI chief sees path to catch up in 'coming year'
@@ -136,7 +169,7 @@ OpenAI、Anthropic相關消息顯示，AI投資與產品競爭持續升溫。
 
 ---
 
-## 5. Microsoft、Google：美國科技股走勢受到關注
+## 6. Microsoft、Google：美國科技股走勢受到關注
 
 原文標題：
 Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI
@@ -168,7 +201,7 @@ Microsoft、Google消息可能影響大型科技股與Nasdaq走勢。
 
 ---
 
-## 6. Anthropic：推出新產品或服務
+## 7. Anthropic：推出新產品或服務
 
 原文標題：
 Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required
@@ -200,7 +233,7 @@ Anthropic相關消息顯示，AI投資與產品競爭持續升溫。
 
 ---
 
-## 7. NVIDIA：創下新高或重要紀錄
+## 8. NVIDIA：創下新高或重要紀錄
 
 原文標題：
 Is NVIDIA’s Record US$25 Billion AI Bond Deal Altering The Investment Case For NVDA? - simplywall.st
@@ -232,7 +265,7 @@ NVIDIA動向牽動晶片供應鏈與AI運算需求。
 
 ---
 
-## 8. DeepMind、Google：AI競爭出現新動向
+## 9. DeepMind、Google：AI競爭出現新動向
 
 原文標題：
 Google DeepMind prepares for risk of AI agents going rogue - thestreet.com
@@ -264,7 +297,7 @@ DeepMind、Google相關消息顯示，AI投資與產品競爭持續升溫。
 
 ---
 
-## 9. SK Hynix：半導體供應鏈出現新動向
+## 10. SK Hynix：半導體供應鏈出現新動向
 
 原文標題：
 Samsung and SK hynix bonuses for chip workers flagged as a national inflation risk — Bank of Korea projects full-year inflation significantly above its 2% target - Tom's Hardware
@@ -295,7 +328,7 @@ SKHynix動向牽動晶片供應鏈與AI運算需求。
 
 ---
 
-## 10. ChatGPT、Gemini：AI競爭出現新動向
+## 11. ChatGPT、Gemini：AI競爭出現新動向
 
 原文標題：
 This AI Tool Puts ChatGPT, Claude, and Gemini Under One Roof for Only $55 - PCMag
@@ -327,7 +360,7 @@ ChatGPT、Gemini相關消息顯示，AI投資與產品競爭持續升溫。
 
 ---
 
-## 11. OpenAI：AI競爭出現新動向
+## 12. OpenAI：AI競爭出現新動向
 
 原文標題：
 OpenAI's Massive Losses Strengthen the Bull Case for These 2 Artificial Intelligence (AI) Stocks - Yahoo Finance
@@ -358,7 +391,7 @@ OpenAI相關消息顯示，AI投資與產品競爭持續升溫。
 
 ---
 
-## 12. 中國：AI競爭出現新動向
+## 13. 中國：AI競爭出現新動向
 
 原文標題：
 Japan's chip equipment giants are losing China and betting on AI to fill the gap - Startup Fortune
@@ -389,7 +422,7 @@ Japan's chip equipment giants are losing China and betting on AI to fill the gap
 
 ---
 
-## 13. Intel、Apple：半導體供應鏈出現新動向
+## 14. Intel、Apple：半導體供應鏈出現新動向
 
 原文標題：
 Apple Intel Chip Deal: Impact on iPhones and Macs - Memeburn
@@ -421,7 +454,7 @@ Intel、Apple動向牽動晶片供應鏈與AI運算需求。
 
 ---
 
-## 14. Intel、Apple：半導體供應鏈出現新動向
+## 15. Intel、Apple：半導體供應鏈出現新動向
 
 原文標題：
 Why Intel (INTC) Is Up 7.6% After Prospective Apple U.S. Chip Foundry Partnership News - Yahoo Finance
@@ -453,7 +486,7 @@ Intel、Apple動向牽動晶片供應鏈與AI運算需求。
 
 ---
 
-## 15. NVIDIA、AMD：半導體供應鏈出現新動向
+## 16. NVIDIA、AMD：半導體供應鏈出現新動向
 
 原文標題：
 The AntSDR T510 AI Puts an AMD RFSoC and an NVIDIA Jetson on One Board - Hackster.io
@@ -485,7 +518,7 @@ NVIDIA、AMD動向牽動晶片供應鏈與AI運算需求。
 
 ---
 
-## 16. NVIDIA：AI競爭出現新動向
+## 17. NVIDIA：AI競爭出現新動向
 
 原文標題：
 This Company Could Become the Nvidia of AI Inference - Yahoo Finance
@@ -516,7 +549,7 @@ NVIDIA相關消息顯示，AI投資與產品競爭持續升溫。
 
 ---
 
-## 17. 宏觀經濟：宏觀政策訊號受到關注
+## 18. 宏觀經濟：宏觀政策訊號受到關注
 
 原文標題：
 Massive bonuses for South Korea's chip workers puts central bank on inflation alert
@@ -546,7 +579,7 @@ Massive bonuses for South Korea's chip workers puts central bank on inflation al
 
 ---
 
-## 18. ASML、中國：半導體供應鏈出現新動向
+## 19. ASML、中國：半導體供應鏈出現新動向
 
 原文標題：
 The US says ASML’s top chip tool may be in China, but how?
@@ -578,7 +611,7 @@ ASML、中國動向牽動晶片供應鏈與AI運算需求。
 
 ---
 
-## 19. Intel、Apple：半導體供應鏈出現新動向
+## 20. Intel、Apple：半導體供應鏈出現新動向
 
 原文標題：
 Intel gains 10% after Trump says company will partner with Apple on U.S. chip design
@@ -607,36 +640,5 @@ Intel、Apple動向牽動晶片供應鏈與AI運算需求。
 來源：Tech
 時間：2026-06-19 00:51
 連結：https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html
-
----
-
-## 20. Apple：AI競爭出現新動向
-
-原文標題：
-Apple to raise prices as AI boom pushes up chip costs
-
-中文標題：
-Apple：AI競爭出現新動向
-
-中文摘要：
-Apple相關消息顯示，AI投資與產品競爭持續升溫。
-
-為什麼重要：
-這則新聞有助判斷AI投資、產品化與企業採用速度。
-
-可能影響：
-- Apple
-- AI基礎設施
-- 企業AI應用
-- 雲端服務
-
-建議追蹤：
-- 產品採用速度
-- 企業客戶名單
-- 資本支出指引
-
-來源：BBC News
-時間：2026-06-18 22:03
-連結：https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss
 
 ---

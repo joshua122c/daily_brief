@@ -61,6 +61,36 @@ https://news.google.com/rss/articles/CBMinwFBVV95cUxOZERnajJIa2xfTnFqOGs0RnE4YVp
 ---
 
 原文標題：
+After Nvidia And Tesla, Trump Confirms Apple Has Agreed To Build Chips With Intel Amid US Manufacturing Push: 'When Was The Last Time...'
+
+中文標題：
+NVIDIA、Intel：半導體供應鏈出現新動向
+
+中文摘要：
+NVIDIA、Intel動向牽動晶片供應鏈與AI運算需求。
+
+為什麼重要：
+這則新聞可能影響晶片供需、先進製程與AI伺服器供應鏈。
+
+可能影響：
+- NVIDIA
+- Intel
+- Apple
+- Tesla
+- 晶片供應鏈
+- AI伺服器供應鏈
+
+建議追蹤：
+- 下一季財報
+- 出貨與庫存變化
+- 供應鏈產能調整
+
+原文連結：
+https://finance.yahoo.com/technology/articles/nvidia-tesla-trump-confirms-apple-120206149.html
+
+---
+
+原文標題：
 CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7
 
 中文標題：
@@ -264,37 +294,20 @@ https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHBOMWp4bU53aU4xOVJtWldXZ08
 
 ---
 
-原文標題：
-This AI Tool Puts ChatGPT, Claude, and Gemini Under One Roof for Only $55 - PCMag
-
-中文標題：
-ChatGPT、Gemini：AI競爭出現新動向
-
-中文摘要：
-ChatGPT、Gemini相關消息顯示，AI投資與產品競爭持續升溫。
-
-為什麼重要：
-這則新聞有助判斷AI投資、產品化與企業採用速度。
-
-可能影響：
-- ChatGPT
-- Gemini
-- AI基礎設施
-- 企業AI應用
-- 雲端服務
-
-建議追蹤：
-- 產品採用速度
-- 企業客戶名單
-- 資本支出指引
-
-原文連結：
-https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2ppVTgybFN2cnh2Tl9ubUNnN1cwbHhCOUdEQWJnMUFVUjM2SGRmU2lwWEpXSzdLeUxYNENZb0tlc0NuSDBGT3FUaWRiaXRiR2o2RFduS3dXUzQ2OXZMbXhiSk4wQ0tyR2tuZ2FfQW1tNFVGV0VRSzlXeTJmLTR0U19zRFNGWTJSaTNHOFdVWHpDdzk0TmVaU2Z5RkZlZFE?oc=5
-
----
-
 ## AI
 
+- 中文標題：AI：AI競爭出現新動向
+  - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
+  - 原文來源：Forbes
+  - 原文連結：https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU1pBT3hoUkRZY2xHOEM4SDZPblNZalRkVG5iS1pKZ2J2ak9qcE1wSUQ1ZFNwTW9WYW1MQllVUWhReGRTcVVKZDJNcUVrbWxrUWdFSEVmZnl3dlZ3Z1dTc25YQWFGSFZncFUxUU11MGRZaDlHNE5DSUNFVld0WXRUai1MVXA0UnZiRXlTcnhReHJMWGVVeHAydVNiSWQ4amowT09XcUtUc0xGbFNnV0xnQm01eEc5bXktLTRlaDZLekdZVjJ2ZjNYNFdPLU90YmE3NHJObmJzVTZSUHVnZGc?oc=5
+- 中文標題：AI：AI競爭出現新動向
+  - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
+  - 原文來源：Business Insider
+  - 原文連結：https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzR0NnZqOXM3YVZkNU42bGhnZHN4VFR6OUNkN0x5Y0hteEFVRGlXVUgzVlkzRWpMWm4yZmJnWFRqZEZaMDlmQzhjazN0Z3l6Q1VBeW14YTJiY0RsRG90V2VfX045RzNGcmY2X0tubzVfald2Mm5uTzdMR2RuU2tsZm5uSG5ES3FvU3U5YkhZUldocHJKRHJrazl4MWdxblk?oc=5
+- 中文標題：AI：AI競爭出現新動向
+  - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
+  - 原文來源：Kiowa County Press
+  - 原文連結：https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHM5OWVrSWlqemM5N0thZ1pOVEZKdXZISDZEdDZWMzc3VkhONzQ2NWpIaE4zdGhISXNTelB4dVFHNXJqUUFRcmRQZFJJVXJkdnNUaHFudHU3UlhhRWJOaXBRVE5QMnJXWFhOcmRUWTg2RTVXUXQ0YzdWNjZGRzR3M0dNMF96ejh1VWFudjRteVpFWGZTSG9HREI0bWhqRGtEenNIeGdjbDNuMURSVDlDdC1yd0oxM0o1SXc?oc=5
 - 中文標題：AI：AI競爭出現新動向
   - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
   - 原文來源：The Motley Fool
@@ -331,18 +344,6 @@ https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2ppVTgybFN2cnh2Tl9ubUNnN1c
   - 中文摘要：中國相關消息顯示，AI投資與產品競爭持續升溫。
   - 原文來源：South China Morning Post
   - 原文連結：https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkZQa1AzRG9qcVhPTF9vbHRGRWc5YURaYW5JVlhFdW5FSTRJOGVXNm93NDV0WHBhVFJsUmQ5a0s4dUtVbUxZdjlid1JjSDNZbXdybUNKM19MYXVCbzRfc1N0bXN1WXRMVlVZajFjYmNvQk5MQ3g5WmdJNG1KeFg5Ykh5bWpEVEJsRl9sU25OWFlIbGwtejlCT0J6Zld4LXVUSkRrUHFnc9IBpwFBVV95cUxOUUc4U19URE9ydnc5UEpCNnJ3UEt0cXh5cFpLM1VtSFpOd1hQZEJDbnVTd0k2T1RJLXpSazRla0R5LWltWks0aWJtN3B6VGdBa2RiclBHRTV0eWxadGxWRVhqR2MzMHluRXk5OHZpTU1ObUpwRVdfeU1Fcm5zdG9oR3FaeVFrN1Z5UUU2aEhrRy0zWkVuTWpzZTFVbTJ5akN4cjRIeWhOQQ?oc=5
-- 中文標題：AI：AI競爭出現新動向
-  - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
-  - 原文來源：How-To Geek
-  - 原文連結：https://news.google.com/rss/articles/CBMiakFVX3lxTE1zTG0zeEZoVnJfd3NkZ3hDRE1YXzZUM1U0X2FZSTNwblo5QTVabFM0YWw4OTAzdlZtSkZRRzFBWGtOX1VfT19JeldDUldnUExzYy1fRXlTQWJKSGpRQy1TRXduQ1ZIdV9rdnc?oc=5
-- 中文標題：AI：AI競爭出現新動向
-  - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
-  - 原文來源：Futurism
-  - 原文連結：https://news.google.com/rss/articles/CBMigAFBVV95cUxQd19UVlBCbWZLRlduNWVRQmQzR0JicUU5SS1jTE1tSWtWTDRDZVNSRkNBTVJGNW1VRk40anRYQm1PSEpvMXRFam5oakVyMHIxUG9oUGNnd3lJVEFMc2xtRWR2NHQxTGdZNHEzWEliY3psczRYdHQ0MFZYQzZlZEZQeQ?oc=5
-- 中文標題：AI：AI競爭出現新動向
-  - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
-  - 原文來源：simplywall.st
-  - 原文連結：https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWpQRmEzcTFmWkdpRXpqZTFjbG8xVXhFRFpVYVdESjRHUU43SVJyQmJZUDIzVjRsa0ZOV1pLNHBBSDlPUTdoQWFULUc5MTI1YndVRHkyN2JqcTdWSXA0dHQ4VFU0cE1CWk96RzZCaUNLR3o4VTVLRUNHUDZPUGtLSjZDaVF1YnFJR0VCd25Gd2FQYmNHYU8xcVhhTkl4dlU3UkVkYkhFRXFjOVQ4bk14X2Q5bGZtZGY0djlCZ2xHOE93bXJqVmJrWNIBzgFBVV95cUxNaExNZVFmaEVsMXFPck83ZGw5UzRXNFh5OXg4ajhjdHVSTzJ4ODlSa1dvaXh6Ulgta2ZHb3pMbkh1am1Ydi1WZVZZRGo1ZUZLQVVBVlNFRXVlVC1fY2hWLVp5ZU9KTzFCdTg1UTMtNEVWdzEzX1VKMzI2SmJWMGxIaWdRVXJyQXU1WFQ5UUc5RTFWU1ZxaElMZHk3alZ1UFFlU25KZHNWQzE4QUMzemR6RlJfaE53N0dkdUp4LWktMGluWGtLU2lwRXNfcWJUZw?oc=5
 
 ## 半導體
 
@@ -413,6 +414,10 @@ https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2ppVTgybFN2cnh2Tl9ubUNnN1c
   - 中文摘要：Tesla消息可能影響大型科技股與Nasdaq走勢。
   - 原文來源：Yahoo! Finance Canada
   - 原文連結：https://news.google.com/rss/articles/CBMif0FVX3lxTE9IZ1hWMDJLaWl4SzhMTTJhRXN2eW50YWVpclJ2d0U5WWxqZ2xCWUtXQ1A5Qmg5dm4zZldWVXpTTkVlTGFJTUVWczhNNC1VQ0YtWk1RMXp2aXRncHlZbklVdHoxbm1pUGxfWEpBUHh3d1V5aVFqWWlsM1QwdjFsRjQ?oc=5
+- 中文標題：Google：美國科技股走勢受到關注
+  - 中文摘要：Google消息可能影響大型科技股與Nasdaq走勢。
+  - 原文來源：PhoneArena
+  - 原文連結：https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ19VeHA3WExsX0RiZHdRcFBWelpvZWh0VXJ3ZHlET1JJa0J0TWE3Nm5LaFF5REgtVnZsQnd4ajRHZnZnZFNPa1Z4RXRIZnRKbVNtQlJkQjRQbk94aC1aR2JXRms2SDBWVUFYcUxIQlZid1JyOURnV09HLTZWaElaTlFsYmlqaVg0Y2h5WnAyNEhLal83QlQyV3JaUQ?oc=5
 - 中文標題：Tesla：美國科技股走勢受到關注
   - 中文摘要：Tesla消息可能影響大型科技股與Nasdaq走勢。
   - 原文來源：Electrek
@@ -441,10 +446,6 @@ https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2ppVTgybFN2cnh2Tl9ubUNnN1c
   - 中文摘要：美國科技股消息可能影響大型科技股與Nasdaq走勢。
   - 原文來源：Insider Monkey
   - 原文連結：https://finance.yahoo.com/markets/stocks/articles/why-palantir-technologies-inc-pltr-120948256.html
-- 中文標題：Apple：美國科技股走勢受到關注
-  - 中文摘要：Apple消息可能影響大型科技股與Nasdaq走勢。
-  - 原文來源：Forbes
-  - 原文連結：https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaG1lNlh2WXRpczFvX1hsMlJ4MlNweUhjRXFNdVhhZzY5NjlVR3VBMUZ3aEhTeHVmUi12azBEejE4RUxjTm1ncGxpa25GX0kyWHB0ZTd1ckI5NVRVYXppZThuWDVYUnZUcUpCbjJ2UjhYN2JpOXFDVnIxOFZMV1kxa3g2MHVLaGRXazVRODM1Nk5fWmg1Y0xjbDZEdjd5SmdIVG9USHNsQS1DNVR1bTlHYWREaEVVTDB2MXJDSzZlU2dxNkxHdG51aWxNTzVlRHhBV1E?oc=5
 
 ## 中國科技
 
@@ -516,8 +517,16 @@ https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2ppVTgybFN2cnh2Tl9ubUNnN1c
   - 原文連結：https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaVZtMlVxVkVuVWg4Ymhtd0g1bEVZWW5QeTZxOXd4bEdJZm1melFIdnkzbWt6SlFQRFhJd0dSZWlIQmVnbXU2dHRMdUJhQTFYZTFXY0RQLWEwT09nQkJTd3NZcXhDSjRzQk1JVHNUOTIwWG5JZTRNSndyZFFvZ29EOG1fcmloQUhaRkJxYnZDdmMxUDJTRHZtVVBTR2dkazhkRktjdkYxd0xYcTc3RktPSzRDNHQ4VUdEVG5zd3Q0TndQdmNIOFNOXzNWdVF5cE5yNEVN?oc=5
 - 中文標題：金融市場：金融市場波動受到關注
   - 中文摘要：金融市場消息牽動股債匯與商品市場情緒。
+  - 原文來源：MarketBeat
+  - 原文連結：https://news.google.com/rss/articles/CBMimgFBVV95cUxNRENYMzlHQUdxakV6dnNBVlh0cWVhZGtLWDEwUFpfQ2ZxMHRPaUxoV2IxS3FRYnNYcjZnVE5ld0pud09RR3ZkY05SY210VDZWd2tMZllVeW5UaGxyZU01bUMxZm1oR2dla2g4QWc4ZHRMei1JZjl3bzZsdFRyODBibHl6YnpWN1JkX0RGVUpxOHljXzNMM2x0bXRn?oc=5
+- 中文標題：金融市場：金融市場波動受到關注
+  - 中文摘要：金融市場消息牽動股債匯與商品市場情緒。
   - 原文來源：Seeking Alpha
   - 原文連結：https://news.google.com/rss/articles/CBMitAFBVV95cUxObXRGalVmWGx3bXN1d2ZFR3ZfdFI3U0VxQUtIRl9vSi1tUXhlN2EwZ2Y4cFZmbTR5SEhlZW43cmlYc2NjTkYzdFI4d0FVM0RvMkM3a1FMcW1IQU0yUDV1aDBuQ3g3SHI1NkhoTHdMdjI5aEVUQlJjRkNBZ2ZuVHVURmdsdEktbUdCY1JHUTBoalVQRWpaaUZUcUpMcDBVZE1TZndBT2VmM3RoeXVxUjlhbmNJS08?oc=5
+- 中文標題：金融市場：金融市場波動受到關注
+  - 中文摘要：金融市場消息牽動股債匯與商品市場情緒。
+  - 原文來源：TradingView
+  - 原文連結：https://news.google.com/rss/articles/CBMixAFBVV95cUxNZHhubVpIQlI2aXh5cjEzNktXb1FVYVR0a0dMOFA5MV9mUnQxQUJyZGNPcXd2blYwTXpGOUtBY1NpRkYwdFlob1ZRSHBaNkJrZHJsRjNEVGxoeGc5ODNsRS1feFlzcC1zdlUxVTQ0bE5sTEEwWF9XdnJLVU5FdnRLOFJ4UWZhMFBMZG5HNDVxX3ZWNWVEZlpvZVp6MDhNOEtsajhBdHAxZ2t2OXdycThQMWlFNmx0ZTFUOTNWZTJtcUVHZ2V4?oc=5
 - 中文標題：金融市場：貿易政策風險升溫
   - 中文摘要：金融市場消息牽動股債匯與商品市場情緒。
   - 原文來源：Investing.com
@@ -550,14 +559,6 @@ https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2ppVTgybFN2cnh2Tl9ubUNnN1c
   - 中文摘要：金融市場消息牽動股債匯與商品市場情緒。
   - 原文來源：Insider Monkey
   - 原文連結：https://news.google.com/rss/articles/CBMixAFBVV95cUxNb3l0MFhzRVJlblhYN2FrZmdURDhXNGRTTFFockhLelNlV09sWHMzRWFTckVLUjd5Ump4cC16WDdRMkFkSzh4dW5EQmxQVEZQQ2FlZnJJc0NWcjhWLUNVTHBHbmNuMlowSFRXeHBSVExIeTNONWc0QllUU0VnR1JGTU45QTh5N29mM1UyMFlfbm1RajJRakdFOU5BQ1NxUHRDQm5KS2pYZFF0NnRqRFNudDVJR1MxNjAyNkliamdWamYwcDBJ0gHMAUFVX3lxTE1Gd3JpYXEzdlE1TnpsdzNwcHZDSWtVQ1Z5b0NsSzY2NGpITC0waG5FVENydFY2eXJIWWRqWWRvU3dibmgta0lpRWhGUmRTNUNhMXZSWkZEcHF0NTlKWjh5OXhLcXBmdmFwaVJMSmZ6aDd3MGRVWkFXTUpRVGtxRkFKVk9mNC1QYkp0SXl3R1BDVWlMU2N0YUQ2QmNLS2NwcEtTZUprZEVuYmpVUjI5MkFtMXhOR0Yzb3FyTFFrb1lBTDJDdUQ5QlRSQjl1Qg?oc=5
-- 中文標題：金融市場：金融市場波動受到關注
-  - 中文摘要：金融市場消息牽動股債匯與商品市場情緒。
-  - 原文來源：Yahoo Finance
-  - 原文連結：https://news.google.com/rss/articles/CBMikwFBVV95cUxQTFNJZlJlM1VqOUpNckdsMDhJWnNUOWtvbm5mbTVjd2RJS2E3ZjhvN2hPejdISjhDeU9YVE1LQl9hSzViRks1VXZsRmkyU010T0RsdDRYRk81dmpTdl9aUkFpMUEzMXhtdW1ZbUpjR3F6NEZsenlhV0wtYkF1b2toamgxT1lLd0FZVDlMLWxod2pMQ0E?oc=5
-- 中文標題：金融市場：財報成為市場焦點
-  - 中文摘要：金融市場消息牽動股債匯與商品市場情緒。
-  - 原文來源：simplywall.st
-  - 原文連結：https://news.google.com/rss/articles/CBMiywFBVV95cUxObVEwTHo0bjlIMW5USmE2MDIzQWZWT2FtbThOZXQ4aWF2bmZYbDVJNERmM1g0NVpGRm1uc1dPR2FJWlVVZm9iSEhSUzJRU0pIVklvc0drZEZIYy1lNWt4Y1dXS2h0Tms1NHRfb2lfcmZJUjhnUjM0TVpQV2lKa2hBVlRIQ09YWnRScTdSZ1J4Y3Q3bEpaeUl4TzdneHZVU1FDaks0eUNtelFWSWVwSUpaMGZpUVp0ejd0X0lUYlUzdWpfdGZYWUJPeGw4UdIB0AFBVV95cUxPLWJkOUNFRW1vbHhDQ3lQZEYyanpJYU1ZbWlvdlFoX0pfcUZWRGdxVzVxYWJuMC1OelZ0dE5DclNCZHFVanFFSy01UjNmek1NZno4Nmd4Qzl5S2p6b1Q5eVVhNWpEM3Joa2xyS3ZUdUJrRXBWakxOT0p4b1RIYWtIQ1I0X29GenQ2RXFtMl9jSHJjSUNibFVRS013dlBQX0hrUU1mZWI2cWxOM2FTUk5hQTh1OGNHZXdYTThkb0Rod2xiSnAxS082MzFfSWtuUkZI?oc=5
 
 ## 其他
 
@@ -613,7 +614,7 @@ https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2ppVTgybFN2cnh2Tl9ubUNnN1c
 # 今日趨勢觀察
 
 1. 今日最重要科技趨勢
-AI、半導體是今日科技主線，Google、Anthropic、NVIDIA相關消息牽動算力、產品發布與供應鏈。
+AI、半導體是今日科技主線，Google、NVIDIA、Anthropic相關消息牽動算力、產品發布與供應鏈。
 
 2. 今日最重要財經趨勢
 宏觀經濟、金融市場是今日財經主線，利率、通膨、財報與貿易政策牽動市場情緒。
