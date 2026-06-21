@@ -43,7 +43,7 @@ def send_email() -> None:
     smtp_host = env_value("SMTP_HOST")
     smtp_port = int(env_value("SMTP_PORT", "587"))
     smtp_username = env_value("SMTP_USERNAME")
-    smtp_password = env_value("SMTP_PASSWORD")
+    smtp_password = re.sub(r"\s+", "", env_value("SMTP_PASSWORD"))
     email_from = env_value("EMAIL_FROM", smtp_username)
     email_to = env_value("EMAIL_TO")
     use_ssl = env_bool("SMTP_USE_SSL", smtp_port == 465)
