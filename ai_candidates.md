@@ -1,6 +1,6 @@
 # 繁體中文記者研究分析
 
-更新時間：2026-06-21 21:40
+更新時間：2026-06-21 21:53
 
 入選新聞：20 / 最多 20 則
 
@@ -39,38 +39,7 @@ Intel、Amazon動向牽動晶片供應鏈與AI運算需求。
 
 ---
 
-## 2. NVIDIA：發出風險警訊
-
-原文標題：
-Nvidia, Oracle, and Now SpaceX Are Borrowing Billions Amid the AI Boom. Is This a Warning Sign? - Yahoo Finance
-
-中文標題：
-NVIDIA：發出風險警訊
-
-中文摘要：
-NVIDIA相關消息顯示，AI投資與產品競爭持續升溫。
-
-為什麼重要：
-這則新聞有助判斷AI投資、產品化與企業採用速度。 多家媒體同時報導，代表市場或產業關注度較高。
-
-可能影響：
-- NVIDIA
-- AI基礎設施
-- 企業AI應用
-- 雲端服務
-
-建議追蹤：
-- 產品採用速度
-- 企業客戶名單
-- 資本支出指引
-
-來源：Yahoo Finance
-時間：2026-06-21 10:33
-連結：https://news.google.com/rss/articles/CBMinwFBVV95cUxOZERnajJIa2xfTnFqOGs0RnE4YVpWNUFFd1JBV0dfSVBRSWlrWjBvRWtKa1NZUGRYeUNBeWgwVG9FMWVjekw5U2ItaXpFZEVYZER5RVUtNFJEemo3cDFwbldkejc3OTk2c3JUWG5ubENBQy1JTEwtWTlldVRIOFBNaEZXOWNZT1lsZjVCZ3o4a3pkWFlUd0F6MGlfbmtfUGM?oc=5
-
----
-
-## 3. NVIDIA、Intel：半導體供應鏈出現新動向
+## 2. NVIDIA、Intel：半導體供應鏈出現新動向
 
 原文標題：
 After Nvidia And Tesla, Trump Confirms Apple Has Agreed To Build Chips With Intel Amid US Manufacturing Push: 'When Was The Last Time...'
@@ -103,7 +72,7 @@ NVIDIA、Intel動向牽動晶片供應鏈與AI運算需求。
 
 ---
 
-## 4. Anthropic、DeepMind：AI競爭出現新動向
+## 3. Anthropic、DeepMind：AI競爭出現新動向
 
 原文標題：
 CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7
@@ -136,7 +105,7 @@ Anthropic、DeepMind相關消息顯示，AI投資與產品競爭持續升溫。
 
 ---
 
-## 5. OpenAI、Anthropic：AI競爭出現新動向
+## 4. OpenAI、Anthropic：AI競爭出現新動向
 
 原文標題：
 Amazon has lagged OpenAI and Anthropic, but AI chief sees path to catch up in 'coming year'
@@ -169,7 +138,7 @@ OpenAI、Anthropic相關消息顯示，AI投資與產品競爭持續升溫。
 
 ---
 
-## 6. Microsoft、Google：美國科技股走勢受到關注
+## 5. Microsoft、Google：美國科技股走勢受到關注
 
 原文標題：
 Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI
@@ -198,6 +167,37 @@ Microsoft、Google消息可能影響大型科技股與Nasdaq走勢。
 來源：AI | VentureBeat
 時間：2026-01-13 21:00
 連結：https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and
+
+---
+
+## 6. NVIDIA：發出風險警訊
+
+原文標題：
+Nvidia, Oracle, and Now SpaceX Are Borrowing Billions Amid the AI Boom. Is This a Warning Sign? - Yahoo Finance
+
+中文標題：
+NVIDIA：發出風險警訊
+
+中文摘要：
+NVIDIA相關消息顯示，AI投資與產品競爭持續升溫。
+
+為什麼重要：
+這則新聞有助判斷AI投資、產品化與企業採用速度。 多家媒體同時報導，代表市場或產業關注度較高。
+
+可能影響：
+- NVIDIA
+- AI基礎設施
+- 企業AI應用
+- 雲端服務
+
+建議追蹤：
+- 產品採用速度
+- 企業客戶名單
+- 資本支出指引
+
+來源：Yahoo Finance
+時間：2026-06-21 10:33
+連結：https://news.google.com/rss/articles/CBMinwFBVV95cUxOZERnajJIa2xfTnFqOGs0RnE4YVpWNUFFd1JBV0dfSVBRSWlrWjBvRWtKa1NZUGRYeUNBeWgwVG9FMWVjekw5U2ItaXpFZEVYZER5RVUtNFJEemo3cDFwbldkejc3OTk2c3JUWG5ubENBQy1JTEwtWTlldVRIOFBNaEZXOWNZT1lsZjVCZ3o4a3pkWFlUd0F6MGlfbmtfUGM?oc=5
 
 ---
 
