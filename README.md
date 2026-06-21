@@ -72,18 +72,27 @@ python fetch_news.py --candidates-output my_candidates.md
 排程時間：
 
 - 香港／台灣時間：每天早上 7:15
-- GitHub Actions 使用 UTC，所以設定為：`15 23 * * *`
+- GitHub Actions 使用 UTC，所以主排程設定為：`15 23 * * *`
 
 也就是 UTC 每天 23:15 執行，換算為香港／台灣時間隔天 07:15。
+
+另有一個備援排程：
+
+- 香港／台灣時間：每天早上 7:45
+- GitHub Actions UTC 設定：`45 23 * * *`
+
+若 7:15 那次未觸發，7:45 會補跑。若 7:15 已成功寄出，7:45 會看到 `.last_successful_brief_date`，自動跳過，避免同一天重複寄信。
 
 GitHub Actions 會做以下事情：
 
 1. 下載 repository。
 2. 安裝 Python 3.12。
-3. 執行 `python fetch_news.py`。
-4. 產生 `daily_brief.md` 和 `ai_candidates.md`。
-5. 把最新兩個 Markdown 檔 commit 回 repository。
+3. 檢查今天是否已成功寄出。
+4. 執行 `python fetch_news.py`。
+5. 產生 `daily_brief.md` 和 `ai_candidates.md`。
 6. 把 `daily_brief.md` 內容寄到你的 Email。
+7. 記錄今天已成功寄出。
+8. 把最新 Markdown 檔和寄送日期記錄 commit 回 repository。
 
 ## 設定 GitHub Actions 權限
 

@@ -4,6 +4,9 @@ on:
   schedule:
     # 香港/台灣時間 07:15 = UTC 23:15
     - cron: "15 23 * * *"
+    # 備援排程：香港/台灣時間 07:45 = UTC 23:45
+    # 若 07:15 未觸發，這次會補跑；若當天已成功寄出，會自動跳過。
+    - cron: "45 23 * * *"
   workflow_dispatch:
 
 permissions:
@@ -22,22 +25,35 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Check daily send guard
+        id: daily_guard
+        run: |
+          python - <<'PY'
+          import os
+          from datetime import datetime, timedelta, timezone
+          from pathlib import Path
+
+          today = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d")
+          stamp = Path(".last_successful_brief_date")
+          already_sent = stamp.exists() and stamp.read_text(encoding="utf-8").strip() == today
+          should_skip = os.environ.get("GITHUB_EVENT_NAME") == "schedule" and already_sent
+
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+              output.write(f"today={today}\n")
+              output.write(f"skip={'true' if should_skip else 'false'}\n")
+
+          if should_skip:
+              print(f"Daily brief for {today} was already sent; skipping backup schedule.")
+          else:
+              print(f"Daily brief will run for {today}.")
+          PY
+
       - name: Generate daily brief
+        if: steps.daily_guard.outputs.skip != 'true'
         run: python fetch_news.py
 
-      - name: Commit generated brief files
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add daily_brief.md ai_candidates.md
-          if git diff --cached --quiet; then
-            echo "No brief changes to commit."
-          else
-            git commit -m "Update daily research brief"
-            git push
-          fi
-
       - name: Email daily brief
+        if: steps.daily_guard.outputs.skip != 'true'
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
@@ -48,3 +64,20 @@ jobs:
           SMTP_USE_SSL: ${{ secrets.SMTP_USE_SSL }}
           SMTP_USE_STARTTLS: ${{ secrets.SMTP_USE_STARTTLS }}
         run: python send_email.py
+
+      - name: Mark successful send
+        if: steps.daily_guard.outputs.skip != 'true'
+        run: echo "${{ steps.daily_guard.outputs.today }}" > .last_successful_brief_date
+
+      - name: Commit generated brief files
+        if: steps.daily_guard.outputs.skip != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daily_brief.md ai_candidates.md .last_successful_brief_date
+          if git diff --cached --quiet; then
+            echo "No brief changes to commit."
+          else
+            git commit -m "Update daily research brief"
+            git push
+          fi
