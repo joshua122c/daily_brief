@@ -298,6 +298,14 @@ https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHBOMWp4bU53aU4xOVJtWldXZ08
 
 - 中文標題：AI：AI競爭出現新動向
   - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
+  - 原文來源：MedCity News
+  - 原文連結：https://news.google.com/rss/articles/CBMiogFBVV95cUxPWW8yQnVibEkwa3lhUFk3QU9sNk9NVW1ScXQwaUVydC0zSjRtM2tWTHNib0R4R2hmVmRXeFVrOExoQmRKT3RTNEFES3JEVmVFM0ZLY3RqN1NGMXd4aWhuckp0QlFmcExwVEhjLWstT1ZCZkdScmUyYjlCN04yc09TRGZRVFNlOVNielAtVW91Y3lTbnVfNC1wendZLVM0ZnFVSGc?oc=5
+- 中文標題：AI：AI競爭出現新動向
+  - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
+  - 原文來源：simplywall.st
+  - 原文連結：https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNzE4WlMtU1FESk15bTVZQ2dSY3ZPZHNhSHh4aUV2ZFBJaHNPQXZVeW1WbEtKTHJWa2pMWkE3MW0tNFo0MzVlUWYxZURsLXlFbnNia1FBRDV6STBZR2h1Tk9NS3FtcXRXaUxFQ085WF9qcVlzbGR3WU05U05QT1J0QU9EazcyaWtZRnZyUFVYekVTYTZSSXZaZG5Dd3lxSnlHeVJKeENQcnV2OFlRekpHQmJ4NW93V3JpVTdtSkt1UkVuTkRkWUFIc9IBzgFBVV95cUxNQ0xYcFJWemk2VVFwRFByMU52YUJzUTM1TV84YzFrWmR1bVU2N2thQkZZMVMzZFUzUzBYUVpSWHYxbDNkRzFOR2RGZnJSOG1ud1ZHZU5tdXRleHFLSnY5alhQNlFXRTlQMkVOaktlNHlGTWdvYmlJekxUNU5pS2xZTUNVblVJSGdTOVdYZ0FBMWJqZG1RWjRXVUNmZGd4SU1wbUVqTHlGY0tkRGg5X2NqUnlWQ2Y0bVktT0VIUlhDQ0QxYjcyeGhjZGh5WW1qUQ?oc=5
+- 中文標題：AI：AI競爭出現新動向
+  - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
   - 原文來源：Forbes
   - 原文連結：https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU1pBT3hoUkRZY2xHOEM4SDZPblNZalRkVG5iS1pKZ2J2ak9qcE1wSUQ1ZFNwTW9WYW1MQllVUWhReGRTcVVKZDJNcUVrbWxrUWdFSEVmZnl3dlZ3Z1dTc25YQWFGSFZncFUxUU11MGRZaDlHNE5DSUNFVld0WXRUai1MVXA0UnZiRXlTcnhReHJMWGVVeHAydVNiSWQ4amowT09XcUtUc0xGbFNnV0xnQm01eEc5bXktLTRlaDZLekdZVjJ2ZjNYNFdPLU90YmE3NHJObmJzVTZSUHVnZGc?oc=5
 - 中文標題：AI：AI競爭出現新動向
@@ -308,10 +316,22 @@ https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHBOMWp4bU53aU4xOVJtWldXZ08
   - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
   - 原文來源：Kiowa County Press
   - 原文連結：https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHM5OWVrSWlqemM5N0thZ1pOVEZKdXZISDZEdDZWMzc3VkhONzQ2NWpIaE4zdGhISXNTelB4dVFHNXJqUUFRcmRQZFJJVXJkdnNUaHFudHU3UlhhRWJOaXBRVE5QMnJXWFhOcmRUWTg2RTVXUXQ0YzdWNjZGRzR3M0dNMF96ejh1VWFudjRteVpFWGZTSG9HREI0bWhqRGtEenNIeGdjbDNuMURSVDlDdC1yd0oxM0o1SXc?oc=5
+- 中文標題：NVIDIA：AI競爭出現新動向
+  - 中文摘要：NVIDIA相關消息顯示，AI投資與產品競爭持續升溫。
+  - 原文來源：Let's Data Science
+  - 原文連結：https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWp3OWdfRVZvREk2TFZ3RkpnOFU4ZTV0V3kxOEgyWGNYVVhNenR2NWZYSmlZM2I5UEF6UFhTc3RGaHlIT3JWWi04X1VqdkpLRFgza241YTBtMUNrRVdzcmt4Y1JCbXNmRFA2R1k0YTZNUDZkeVJMMDdfbXBwLThBbGNQTEczYXlKWjV4Z3pLbGkxOWdfUkxjM2ZiOGNuMC1F?oc=5
 - 中文標題：AI：AI競爭出現新動向
   - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
   - 原文來源：The Motley Fool
   - 原文連結：https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWN6THBFUjdyQmVCNmtXZ1RQZGpxU2ExN05RYjlZeG1nZmF3S1NiNjFFVWpieV93V1VUSGRGSmRaTHl4SDVHUUdRRTVCRTdrdHQ1Qm9BMzNtMF9hRE5LdjFwOVVkUFNrb0haWGowYktnOTUyNFEzMlNZa25rZl9CWTdoNnl6TzhhNDRIeTViNEx6dDhDZ3E3VQ?oc=5
+- 中文標題：AI：AI競爭出現新動向
+  - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
+  - 原文來源：Yahoo Finance
+  - 原文連結：https://news.google.com/rss/articles/CBMikwFBVV95cUxNLTc4d1dORk1QUGF0ejl5ZzhjbDRUVEZDZHNiNTBVNmhFYS1PX3lxZm8xeFNmaVl1RnAxSUNMZWNXLXNVODNKTHd6UHlzaTVvek9QWTIxd3lQQTlMNTcwMllsUTV5c1dGb0JlYVROTDdLaV9iNzY4TDQ0ZUdEOEJUQjZyNzE5T3RxZ3A0ZDkzREZBb2s?oc=5
+- 中文標題：AI：推出新產品或服務
+  - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
+  - 原文來源：Yahoo Finance
+  - 原文連結：https://news.google.com/rss/articles/CBMimgFBVV95cUxON21RaF9DOXJoRjlmc1F6MnhuX2xGakpra05tVFpFUkk5dnhMQXFTS3REWktTWHpoLUlxanloWTRtQ1pOWGc5cWswVUUxUk9uZTFBelF6WHRlM1VhOWVxOG1VaTRrckk5Mmk5LThpanRYa3Brb2M4dWphdUYyakFYamtqWXFxSXozZTZ1S1Zua04yYzJqdkk4MktR?oc=5
 - 中文標題：AI：AI競爭出現新動向
   - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
   - 原文來源：inc.com
@@ -324,29 +344,13 @@ https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHBOMWp4bU53aU4xOVJtWldXZ08
   - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
   - 原文來源：InvestorPlace
   - 原文連結：https://news.google.com/rss/articles/CBMimwFBVV95cUxONnJkYUNBSEdIeS1HNlpKQTJwV0VZV1IzQXJkY1k5M192VEE4dENHNDl1QVhRODBrdWxBblhpeHNJTnphLWFsVkVRanh1Y2szTmZFVFRScHc1X25DeFg3MGxXZmNiT1lrS25CdENSWHFKajlBSmdEQ0x6VmxFRUFlbWdGbkptbTZCcnViUW9XVWlSVTFLRVY0aXNldw?oc=5
-- 中文標題：NVIDIA：AI競爭出現新動向
-  - 中文摘要：NVIDIA相關消息顯示，AI投資與產品競爭持續升溫。
-  - 原文來源：The Korea Times
-  - 原文連結：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaC1nZldxYTJhRVdoc2hIa3ZwMlhqdWJqSV9zTWZVazRqOEdQVmlpRko5MW9XU0FNYnhFOEh3UlBzTHFuUkVpWHFUSERVdGRIRjlJdU9wcldWSW1HaVNvaUlrMUhCT2tydlFURUtxaWRQMmRpUnJDWUZtdVByYnRLMnlLTWNTZDlhcHdrZlY1RW81c2x3Qk5DZ2RZMjNzdlpTbTVQWGt3VUQ4RFRWMjZVR3cteG5JSlhwOFJHUmZLblLSAcYBQVVfeXFMTjhkc0VyY2hPdnZHbWx4Mkhnd1dpcFY4UmJSYzBURGFFbEFMSUppZGp5bU5BV3F4VXlHaVJaaFBrTDhDQzZVbWtVaVQybEVlQlg2d3ZGb3c0LVJya0Zib0wwVDlPaXloNDNNVUF6cG5kOXF4aWI4SDVvS0VyNHBxemZCcWxnWGRLWVdSLWlBSnZ6T2t1b3JHR25lVTNGanUyeURhZ0dLR3ZvU01oNFZIM1hMaUNHWGhmTDNtb2E3dWNGSGVCLUxR?oc=5
-- 中文標題：AI：AI競爭出現新動向
-  - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
-  - 原文來源：eciks.org
-  - 原文連結：https://news.google.com/rss/articles/CBMidkFVX3lxTE5YRUJfdlBsUHhta1VoNllWVmVkSzBVUlRYSlB5RDNSVmVLeE5DT0lKSDA4VEhqX1ZmZFdJa2xWU05yUk5KMDNHZlY5RDRMZlZtZ3d6T1RzNHE5UUd2VnNGLUR2TjJzS014dXRFcVZDbDRQMHlXaHc?oc=5
-- 中文標題：AI：AI競爭出現新動向
-  - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
-  - 原文來源：The Times
-  - 原文連結：https://news.google.com/rss/articles/CBMiqAFBVV95cUxNclZBX3lqa0JzVjdRMFNtbGNmVkRmWjBscm5oUGpsOTVGdEE2YWxMYnpZbHlfdDEzdVFkV0xPM0ZGZzV1ZFdZYkhqZWpTRTV6WVFFNzdrdWhfZVlPUjlOMERxcWN6bUR0R0N5RFVTSmt3ZnRicTlYSEdrM3FMSnJnWUFOUm9XOGw4R3ZFYTR3SmRMUTlxaXRGOWRQcV9La3N3QVJEOWRpVWI?oc=5
-- 中文標題：AI：AI競爭出現新動向
-  - 中文摘要：AI相關消息顯示，AI投資與產品競爭持續升溫。
-  - 原文來源：Decrypt
-  - 原文連結：https://news.google.com/rss/articles/CBMijgFBVV95cUxQSm01MGFiMk5DTmc1VE9SdFdhcVNISktPVUEzandDQ2FpR0laaG83ZHptbmNOa25HQTk3YW5ySzlpTXJUVVUxLXY0OVlIdWM4elZDaVFDVHd2cWJScEVzX1JjUV9UeTBvanUwNWp5S19wQlZkemZQM1ZDOHM1VUJHbktjT3JCSk9VNEpGaGdn0gGWAUFVX3lxTFBGTXB1akkwRmJqTU4wZ3F3WWFoSXZQV09FSWl4OVR3TURMSXc1R01ZZkFFdXRFUnNxVWxpSTJCUkxMVWV5eTY5SlgzX0pYLXJBeTRqNjVnN2lpUEZEOUowd1dsdzhUQ1M1eFdkZkVOdzQxa0ZIOThVTURuYVJkcXZmdlhsUzhmR1E2bGxSdzNKYkdiMlpaUQ?oc=5
-- 中文標題：中國：AI競爭出現新動向
-  - 中文摘要：中國相關消息顯示，AI投資與產品競爭持續升溫。
-  - 原文來源：South China Morning Post
-  - 原文連結：https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkZQa1AzRG9qcVhPTF9vbHRGRWc5YURaYW5JVlhFdW5FSTRJOGVXNm93NDV0WHBhVFJsUmQ5a0s4dUtVbUxZdjlid1JjSDNZbXdybUNKM19MYXVCbzRfc1N0bXN1WXRMVlVZajFjYmNvQk5MQ3g5WmdJNG1KeFg5Ykh5bWpEVEJsRl9sU25OWFlIbGwtejlCT0J6Zld4LXVUSkRrUHFnc9IBpwFBVV95cUxOUUc4U19URE9ydnc5UEpCNnJ3UEt0cXh5cFpLM1VtSFpOd1hQZEJDbnVTd0k2T1RJLXpSazRla0R5LWltWks0aWJtN3B6VGdBa2RiclBHRTV0eWxadGxWRVhqR2MzMHluRXk5OHZpTU1ObUpwRVdfeU1Fcm5zdG9oR3FaeVFrN1Z5UUU2aEhrRy0zWkVuTWpzZTFVbTJ5akN4cjRIeWhOQQ?oc=5
 
 ## 半導體
 
+- 中文標題：NVIDIA：半導體供應鏈出現新動向
+  - 中文摘要：NVIDIA動向牽動晶片供應鏈與AI運算需求。
+  - 原文來源：Yahoo Finance
+  - 原文連結：https://news.google.com/rss/articles/CBMinAFBVV95cUxQSDlSSkR6bFVvZldDOW9INGowWkNkdnd0b2l2NmcwOWVkTnIxTXlabTdQTkZMQWRBYXFQcEtiZFUtR1RZT0s3S1dyc2JWNklYbkdEQ1BJaThWZi1hU21GdnVfMHUxZ2ttN0g3c1QxMHB0RnhrcHN4TlBLQjhDRXpJLWgxY0o1UmdoWmR1dWVDemNXN1B1Y3lmTnFVbGQ?oc=5
 - 中文標題：Intel、Amazon：半導體供應鏈出現新動向
   - 中文摘要：Intel、Amazon動向牽動晶片供應鏈與AI運算需求。
   - 原文來源：Benzinga
@@ -355,6 +359,10 @@ https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHBOMWp4bU53aU4xOVJtWldXZ08
   - 中文摘要：TSMC動向牽動晶片供應鏈與AI運算需求。
   - 原文來源：Seeking Alpha
   - 原文連結：https://news.google.com/rss/articles/CBMinAFBVV95cUxNLTlfVndmRG5MeENSeFhia0NfTlIzVmRoemdQMm9Xd3FIMXFKbEdkLVdOeEM4REpUdG9zOGU4T0xtbVhpLWpUUjNxMElCWUJtNXBLTC0xLUR6MEhJbll1bUV2LVpVNk1ENmZmRHByT0hpX2lxZ2l2THFxby1UV1M0MlVVaE4wVDJtNzdqeVpqR19YOFJBYTh4QTV4YzA?oc=5
+- 中文標題：半導體：貿易政策風險升溫
+  - 中文摘要：半導體動向牽動晶片供應鏈與AI運算需求。
+  - 原文來源：Yahoo Finance
+  - 原文連結：https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOWp2M0syUXFfdUFZZ21FbjdSTjlCN2cteVJEMi1EMm1iUzB5MnN3WWV1WGUzd3JXeWFoZVlDVXpILWZHN3VkS1pkdXlJS20zNUxQck1IOWhhU0haOVF3R2NhaEtNcjJLLWlsTGI1dDFMM29WWGJEQVZuWG5Rc1hhcFEzZlJfSFltMlBsVFNqY3p6SU91bmxUb1N0Y1NaTGM5aW1ocEhMTGZYOEk?oc=5
 - 中文標題：半導體：半導體供應鏈出現新動向
   - 中文摘要：半導體動向牽動晶片供應鏈與AI運算需求。
   - 原文來源：Yahoo Finance UK
@@ -387,14 +395,6 @@ https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHBOMWp4bU53aU4xOVJtWldXZ08
   - 中文摘要：半導體動向牽動晶片供應鏈與AI運算需求。
   - 原文來源：Yahoo Finance
   - 原文連結：https://news.google.com/rss/articles/CBMipwFBVV95cUxOTDkwMDFzcHhYbnIzdURUcHNMVVJRcWVWVFhSWV92Uk9CN3VZbGxQOVktQnAyc21aSGVmX3pKaE5hcTJXQ1RjZUxQU0pCcTVJcXBTRGY5TXU0dE5LYUZ4ZWxWQk9QQVZBVmJsRVN3ak1rR1M3N0loV3hOQUViNzlaU09qWE1yYmpScDRoN3NRdmxIbmlSNFVMZFJ0dC1xTGctSmZDSlE0NA?oc=5
-- 中文標題：半導體：半導體供應鏈出現新動向
-  - 中文摘要：半導體動向牽動晶片供應鏈與AI運算需求。
-  - 原文來源：富途牛牛
-  - 原文連結：https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWd1WU1EaV9qSDJVN3UxTHVwT1JRbVNETWpKSGVXQ1VaSnlQZDlQSGI0bG03N2lLZ09NNEJLZjVTV2pWQ2JRc2txS3JZbjRsZDItQU1hMk9saUtydnNUcTllbG1JQTh5aFZGVEhacndMaWlSTXQyYTY1Q3BBQ0U2bko0SHp5ems5Njdkcm9DTEViWTNRNkFHM0ZpdThxNW5RVnB4WVowZw?oc=5
-- 中文標題：NVIDIA、Google：半導體供應鏈出現新動向
-  - 中文摘要：NVIDIA、Google動向牽動晶片供應鏈與AI運算需求。
-  - 原文來源：Latest news from Azerbaijan
-  - 原文連結：https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM0ZwV3B0ZnpBcVl0dUJUUTZUQzduc1dEakdEV1lWRXBzQmZaMFU0bDBEOTlCMk5DSy1KZWpzd0tsTUlsZnRlcXFYaEVfUTZlLXlMXzd2WXJCdkpSRVkzb3R3YjgzOW40aF9SR1oxSlE0bXI1X2JvTGxWNUNrdW9PcmlQX0ZubW9VTzM0?oc=5
 
 ## 美國科技股
 
@@ -466,10 +466,6 @@ https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHBOMWp4bU53aU4xOVJtWldXZ08
   - 原文連結：https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories
 - 中文標題：Fed：宏觀政策訊號受到關注
   - 中文摘要：Fed訊號可能影響利率預期與風險資產。
-  - 原文來源：24/7 Wall St.
-  - 原文連結：https://news.google.com/rss/articles/CBMitgFBVV95cUxQUWZtOERyNE0zMkw5RjBZRFBaZ0JCUjVJYS1UVjFsQ3VkNHBfV2dzeEpYWDJMcE9VNEJ5VTZJb2V6TnhJMFJadmtlLW44OTg2Y2pOVmFfWjlXSlJIS0loUlVsem41Mko0YklhVXl6WENnb3NCZmdadzF6X2ZTSndQS3lVcWlheFhfOXh6Q2I2NmxLc2pQQlNROTBrNFdTNlQzd1BZZGhUTWtxT013aTcyN2IwWXNCQQ?oc=5
-- 中文標題：Fed：宏觀政策訊號受到關注
-  - 中文摘要：Fed訊號可能影響利率預期與風險資產。
   - 原文來源：CNBC
   - 原文連結：https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDd6RFBjRnNkT05BQm0tWnRYd3Mtakg5TExfQmpleVFrLUxDdkR1OFhhT043UU5LVFVsYXBaT2FIaXJxSmJfT21Cd2szYTFaMkx1M2ZaWUNYbnVwZF8yUGpUU2NlOHYyc3hUQzdXX3UyTVptRW9ib3p1WVlweHZRY3hXMkVVUm5kT0HSAY8BQVVfeXFMTzNTa3Zqc1RMS05RTlZ3Y0hOWUZDZ21tU080QTNHOFJ1dEtxcHUyRU9oR0paMDhqZHkwSEx2VThwRHpXMmNLeFJLNkJpUDJBMEhheFlzaWVTMVhRN1B1ZVFWSHJCdXVfZUllMzBaMS1JdFdMaFBlV1RUSzZQRUlHdkNIeVQwYUpaY2lmUnQ3djA?oc=5
 - 中文標題：Fed：宏觀政策訊號受到關注
@@ -494,10 +490,6 @@ https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHBOMWp4bU53aU4xOVJtWldXZ08
   - 原文連結：https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDZ3a3VVY1dvQkxJbUZnSk9VT3p4QlcyMDlteUJqdzlXbkFBMlJtSHY4SVU0dmhXYXJvSlZGeWROdkI1RG5ObXRlMnM0NDMtQ3B5ZHFwancwT3VCa1JDMUp5azBwYkxBTWFxWk9jdHd5UGtKMGJRYkU5VlJhXzNKVjJfak1WYU9aWXpKeDFieTQycVVTOU5yMTlrUWdMcHhVU19FUWxBQ25hQjlmaHRlZS12cC15UQ?oc=5
 - 中文標題：Fed：宏觀政策訊號受到關注
   - 中文摘要：Fed訊號可能影響利率預期與風險資產。
-  - 原文來源：Benzinga
-  - 原文連結：https://finance.yahoo.com/economy/policy/articles/no-dot-plot-no-forward-113128646.html
-- 中文標題：Fed：宏觀政策訊號受到關注
-  - 中文摘要：Fed訊號可能影響利率預期與風險資產。
   - 原文來源：Yahoo Finance
   - 原文連結：https://finance.yahoo.com/markets/article/the-feds-warsh-era-clearly-has-a-new-vibe--and-thats-not-all-bad-for-investors-110147708.html
 - 中文標題：Fed：宏觀政策訊號受到關注
@@ -508,17 +500,29 @@ https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHBOMWp4bU53aU4xOVJtWldXZ08
   - 中文摘要：宏觀經濟訊號可能影響利率預期與風險資產。
   - 原文來源：US Top News and Analysis
   - 原文連結：https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html
+- 中文標題：Fed：宏觀政策訊號受到關注
+  - 中文摘要：Fed訊號可能影響利率預期與風險資產。
+  - 原文來源：The Washington Post
+  - 原文連結：https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFFLbHVheHhPeWRnTXMxRDU1bUxDbVUyYVk3dFNiODJpanh0OTNvSW1SNTRLd3NkU2dBekhWbXJaUkdHS0ZfN2NZR2ZlbXRUQk80S2ZFcERPWWNjdlBCRjl6YTljU01pWnZ0SXRaaVloS2ZHV3A0RkRjTkdFWmhyOXRUZUJrd2lQZkVORGo4WWhRdnVfMU1JRE4yRFpaeE15N3pkQmtBbE1EVHVQTHUxT2ljS28?oc=5
+- 中文標題：宏觀經濟：貿易政策風險升溫
+  - 中文摘要：宏觀經濟訊號可能影響利率預期與風險資產。
+  - 原文來源：US Top News and Analysis
+  - 原文連結：https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html
 
 ## 金融市場
 
 - 中文標題：金融市場：金融市場波動受到關注
   - 中文摘要：金融市場消息牽動股債匯與商品市場情緒。
-  - 原文來源：Investing.com
-  - 原文連結：https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaVZtMlVxVkVuVWg4Ymhtd0g1bEVZWW5QeTZxOXd4bEdJZm1melFIdnkzbWt6SlFQRFhJd0dSZWlIQmVnbXU2dHRMdUJhQTFYZTFXY0RQLWEwT09nQkJTd3NZcXhDSjRzQk1JVHNUOTIwWG5JZTRNSndyZFFvZ29EOG1fcmloQUhaRkJxYnZDdmMxUDJTRHZtVVBTR2dkazhkRktjdkYxd0xYcTc3RktPSzRDNHQ4VUdEVG5zd3Q0TndQdmNIOFNOXzNWdVF5cE5yNEVN?oc=5
+  - 原文來源：MARCA
+  - 原文連結：https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMWpNZmFXVnU1MEtEblRGRmJxdWd3YkI3ZmZqcXFGOTFlRXRhbndCY2IyTWZnT0FfRUtFQU5sZmEtU0Y5dEFxU2VfS1R0MmRYZUROZ210WHM3Z2UxOVZXVThuR1RzX2NJRGNfcEV2RktWb1N0SUFDcFBJOUxRSmxyVmdjNHhZa0laN0p1RFgxOHJWU1g1bWZaeHh5NDMtUDVIX2Jad3FHMlZPcV9SNFVwUFA0SGhJM1FDTnBsY1BCRnJjWXBsSDZCUmppNGVXVWlMNUJxZDRBb0FOTFNtb0FV0gHfAUFVX3lxTFA3Q01kdlJFblVEaGJtQjhCWWRJSXl1Wi11R3BxTFd2c0c2T241N3hBdXJCa3RjNkRrbHc2QTUyN01RTy00U2NjWGVOZDc5Y2c5ZmFIUnpyd0dSeHh3Q0JxczF4QVpyeDVSS0FiYjhpR09uM1Flck5ZckZkYXAxbjN1RmlWb2VfWVhldWVuTzJIZGlvaEZObVFmOEVKQklXUFZGSElzdll4alpQZnBOWnBQWjBLdTRMNVY0NXdMX2IxMXpRT1hlNVRqUWZQWmdEWFZPdTNzUW5yTnpienFIMmc?oc=5
 - 中文標題：金融市場：金融市場波動受到關注
   - 中文摘要：金融市場消息牽動股債匯與商品市場情緒。
-  - 原文來源：MarketBeat
-  - 原文連結：https://news.google.com/rss/articles/CBMimgFBVV95cUxNRENYMzlHQUdxakV6dnNBVlh0cWVhZGtLWDEwUFpfQ2ZxMHRPaUxoV2IxS3FRYnNYcjZnVE5ld0pud09RR3ZkY05SY210VDZWd2tMZllVeW5UaGxyZU01bUMxZm1oR2dla2g4QWc4ZHRMei1JZjl3bzZsdFRyODBibHl6YnpWN1JkX0RGVUpxOHljXzNMM2x0bXRn?oc=5
+  - 原文來源：Seeking Alpha
+  - 原文連結：https://news.google.com/rss/articles/CBMihwFBVV95cUxNSnh1WWsxdTdST0Y2NkVoQ2FBR3o2Q3Fscl9CTEpxLTdvYVdGZ28xekI5dWpzM0Y2Uk0tRi1YWmlZaFhWZjZjbndjU2d2T0RMRFFNUmZnR2QtUXJ6T3J2aUVNenZJT0dkQzRfYXFoaHpocEZwT2FYRFhlQjNtc3ZqS3JyMWYzZHc?oc=5
+- 中文標題：金融市場：金融市場波動受到關注
+  - 中文摘要：金融市場消息牽動股債匯與商品市場情緒。
+  - 原文來源：Investing.com
+  - 原文連結：https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaVZtMlVxVkVuVWg4Ymhtd0g1bEVZWW5QeTZxOXd4bEdJZm1melFIdnkzbWt6SlFQRFhJd0dSZWlIQmVnbXU2dHRMdUJhQTFYZTFXY0RQLWEwT09nQkJTd3NZcXhDSjRzQk1JVHNUOTIwWG5JZTRNSndyZFFvZ29EOG1fcmloQUhaRkJxYnZDdmMxUDJTRHZtVVBTR2dkazhkRktjdkYxd0xYcTc3RktPSzRDNHQ4VUdEVG5zd3Q0TndQdmNIOFNOXzNWdVF5cE5yNEVN?oc=5
 - 中文標題：金融市場：金融市場波動受到關注
   - 中文摘要：金融市場消息牽動股債匯與商品市場情緒。
   - 原文來源：Seeking Alpha
@@ -555,13 +559,13 @@ https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHBOMWp4bU53aU4xOVJtWldXZ08
   - 中文摘要：Fed消息牽動股債匯與商品市場情緒。
   - 原文來源：All News
   - 原文連結：https://www.investing.com/news/commodities-news/gold-faces-hurdle-on-path-to-5200-as-hawkish-fed-dampens-etf-demand-ms-says-4751667
-- 中文標題：金融市場：金融市場波動受到關注
-  - 中文摘要：金融市場消息牽動股債匯與商品市場情緒。
-  - 原文來源：Insider Monkey
-  - 原文連結：https://news.google.com/rss/articles/CBMixAFBVV95cUxNb3l0MFhzRVJlblhYN2FrZmdURDhXNGRTTFFockhLelNlV09sWHMzRWFTckVLUjd5Ump4cC16WDdRMkFkSzh4dW5EQmxQVEZQQ2FlZnJJc0NWcjhWLUNVTHBHbmNuMlowSFRXeHBSVExIeTNONWc0QllUU0VnR1JGTU45QTh5N29mM1UyMFlfbm1RajJRakdFOU5BQ1NxUHRDQm5KS2pYZFF0NnRqRFNudDVJR1MxNjAyNkliamdWamYwcDBJ0gHMAUFVX3lxTE1Gd3JpYXEzdlE1TnpsdzNwcHZDSWtVQ1Z5b0NsSzY2NGpITC0waG5FVENydFY2eXJIWWRqWWRvU3dibmgta0lpRWhGUmRTNUNhMXZSWkZEcHF0NTlKWjh5OXhLcXBmdmFwaVJMSmZ6aDd3MGRVWkFXTUpRVGtxRkFKVk9mNC1QYkp0SXl3R1BDVWlMU2N0YUQ2QmNLS2NwcEtTZUprZEVuYmpVUjI5MkFtMXhOR0Yzb3FyTFFrb1lBTDJDdUQ5QlRSQjl1Qg?oc=5
 
 ## 其他
 
+- 中文標題：其他：新聞事件值得留意
+  - 中文摘要：其他新聞值得列入今日觀察清單。
+  - 原文來源：All News
+  - 原文連結：https://www.investing.com/news/economy-news/bolivia-crisis-begins-to-ease-after-lawmakers-back-state-of-emergency-4751671
 - 中文標題：中國：新聞事件值得留意
   - 中文摘要：中國新聞值得列入今日觀察清單。
   - 原文來源：Grand Forks Herald
@@ -606,10 +610,6 @@ https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHBOMWp4bU53aU4xOVJtWldXZ08
   - 中文摘要：其他新聞值得列入今日觀察清單。
   - 原文來源：Horse Racing Nation
   - 原文連結：https://news.google.com/rss/articles/CBMirwFBVV95cUxNakl6b181bXRmMENtakpYU1hMTHh2NlJoRENIRVBYdUxtX09sMEpBbE5GWGJMWjBnN1FBTHZsbmhSM3JldU9RMklJcVJfSlpJZC1IN09ic3p6VFZFZFdpM1ZPalRUVHRPQ051dy1nWmwzNHQ0aUVYNkxyT2ZBeFVRc2lzbVRZeFJ3clVZSGtzNVI4V09wcHQwZ0ZFN0VpeFFRQ3FyMWVId0tLNEwxVXRZ0gGvAUFVX3lxTE1qSXpvXzVtdGYwQ21qSlhTWExMeHY2UmhEQ0hFUFh1TG1fT2wwSkFsTkZYYkxaMGc3UUFMdmxuaFIzcmV1T1EySUlxUl9KWklkLUg3T2JzenpUVkVkV2kzVk9qVFRUdE9DTnV3LWdabDM0dDRpRVg2THJPZkF4VVFzaXNtVFl4UndyVVlIa3M1UjhXT3BwdDBnRkU3RWl4UVFDcXIxZUh3S0s0TDFVdFk?oc=5
-- 中文標題：其他：新聞事件值得留意
-  - 中文摘要：其他新聞值得列入今日觀察清單。
-  - 原文來源：US Top News and Analysis
-  - 原文連結：https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html
 
 # 今日趨勢觀察
 
