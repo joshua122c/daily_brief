@@ -69,10 +69,10 @@ python fetch_news.py --candidates-output my_candidates.md
 
 排程時間：
 
-- 香港／台灣時間：每天早上 6:30
-- GitHub Actions 使用 UTC，所以設定為：`30 22 * * *`
+- 香港／台灣時間：每天早上 7:15
+- GitHub Actions 使用 UTC，所以設定為：`15 23 * * *`
 
-也就是 UTC 每天 22:30 執行，換算為香港／台灣時間隔天 06:30。
+也就是 UTC 每天 23:15 執行，換算為香港／台灣時間隔天 07:15。
 
 GitHub Actions 會做以下事情：
 

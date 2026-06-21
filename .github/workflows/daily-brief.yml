@@ -2,8 +2,8 @@ name: Daily Research Brief
 
 on:
   schedule:
-    # 香港/台灣時間 06:30 = UTC 22:30
-    - cron: "30 22 * * *"
+    # 香港/台灣時間 07:15 = UTC 23:15
+    - cron: "15 23 * * *"
   workflow_dispatch:
 
 permissions:
