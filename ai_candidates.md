@@ -1,12 +1,45 @@
 # 繁體中文記者研究分析
 
-更新時間：2026-06-21 20:56
+更新時間：2026-06-21 21:26
 
 入選新聞：20 / 最多 20 則
 
 說明：本檔案以本機規則篩選與改寫，不使用 OpenAI API；中文標題與摘要是研究提示，不是逐字翻譯。
 
-## 1. NVIDIA：發出風險警訊
+## 1. Intel、Amazon：半導體供應鏈出現新動向
+
+原文標題：
+Amazon's AI Chip Expansion, Intel's New Hire And Google's Loss: This Week In Tech - Benzinga
+
+中文標題：
+Intel、Amazon：半導體供應鏈出現新動向
+
+中文摘要：
+Intel、Amazon動向牽動晶片供應鏈與AI運算需求。
+
+為什麼重要：
+這則新聞可能影響晶片供需、先進製程與AI伺服器供應鏈。
+
+可能影響：
+- Intel
+- Amazon
+- Google
+- 晶片供應鏈
+- AI伺服器供應鏈
+- 先進製程
+
+建議追蹤：
+- 下一季財報
+- 出貨與庫存變化
+- 供應鏈產能調整
+
+來源：Benzinga
+時間：2026-06-21 21:01
+連結：https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTVZWM3hvSkphUXhFVDFVTjNaaW9YRVRueXc0VGVTYncxTnZ3V1J0dFdmdmRvamhpa09WeXh4Q3JaUkdHelVXbHMzQWJJekFZQThtTWVBLUdsbVN6S3R3dm9tWDVwRHpDVHhhek01TUp5SFR2QnpSemJqcGpZY0lGRmpXZ0d3cW9QNzZCcVZ2OGdLWV9LcGlNT2oteFNfMWk2VG5LbUVwVFB5d3RRSFV6T2ZVTTNTOFBhZzB6N1Faazd6YlpfY1ROXw?oc=5
+
+---
+
+## 2. NVIDIA：發出風險警訊
 
 原文標題：
 Nvidia, Oracle, and Now SpaceX Are Borrowing Billions Amid the AI Boom. Is This a Warning Sign? - Yahoo Finance
@@ -34,37 +67,6 @@ NVIDIA相關消息顯示，AI投資與產品競爭持續升溫。
 來源：Yahoo Finance
 時間：2026-06-21 10:33
 連結：https://news.google.com/rss/articles/CBMinwFBVV95cUxOZERnajJIa2xfTnFqOGs0RnE4YVpWNUFFd1JBV0dfSVBRSWlrWjBvRWtKa1NZUGRYeUNBeWgwVG9FMWVjekw5U2ItaXpFZEVYZER5RVUtNFJEemo3cDFwbldkejc3OTk2c3JUWG5ubENBQy1JTEwtWTlldVRIOFBNaEZXOWNZT1lsZjVCZ3o4a3pkWFlUd0F6MGlfbmtfUGM?oc=5
-
----
-
-## 2. OpenAI：AI競爭出現新動向
-
-原文標題：
-OpenAI's Massive Losses Strengthen the Bull Case for These 2 Artificial Intelligence (AI) Stocks - Yahoo Finance
-
-中文標題：
-OpenAI：AI競爭出現新動向
-
-中文摘要：
-OpenAI相關消息顯示，AI投資與產品競爭持續升溫。
-
-為什麼重要：
-這則新聞有助判斷AI投資、產品化與企業採用速度。 多家媒體同時報導，代表市場或產業關注度較高。
-
-可能影響：
-- OpenAI
-- AI基礎設施
-- 企業AI應用
-- 雲端服務
-
-建議追蹤：
-- 產品採用速度
-- 企業客戶名單
-- 資本支出指引
-
-來源：Yahoo Finance
-時間：2026-06-21 15:35
-連結：https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlZBNHVyNDZQZ3N4dms2eS1QY0paT3FuR1hnRnVlNGdINzBUM29EMFN1NXRNTFJwQkY4aURCM1owMF9hVE5pRktRTzhrYzB1Nm1kS0VqM3AxRXkwX1E5MThEMG44SHNaNEwtWWVLYkRKdzBVLU9LTFNRY052dlFQQ0piSlM3VFp1dFhfMTIxVlpfTHA1Zm15VVkxcURSd1hKTmI1Tw?oc=5
 
 ---
 
@@ -293,40 +295,7 @@ SKHynix動向牽動晶片供應鏈與AI運算需求。
 
 ---
 
-## 10. OpenAI、Microsoft：AI競爭出現新動向
-
-原文標題：
-Microsoft Is Making Money From OpenAI's Models in China - Memeburn
-
-中文標題：
-OpenAI、Microsoft：AI競爭出現新動向
-
-中文摘要：
-OpenAI、Microsoft相關消息顯示，AI投資與產品競爭持續升溫。
-
-為什麼重要：
-這則新聞有助判斷AI投資、產品化與企業採用速度。
-
-可能影響：
-- OpenAI
-- Microsoft
-- 中國
-- AI基礎設施
-- 企業AI應用
-- 雲端服務
-
-建議追蹤：
-- 產品採用速度
-- 企業客戶名單
-- 資本支出指引
-
-來源：Memeburn
-時間：2026-06-21 19:43
-連結：https://news.google.com/rss/articles/CBMiggFBVV95cUxQaU55Y2d6U00xX3lCUkIwQk5vU3BTNzdkNFdCNUlYaHl5eFZqdXdEcWJQdUhxQjRCbWNRNnc2SUNmellKN1ltSEszbWtpZVJ0MG5UV3RDOVJVeE5kY2VWSEhyWXFGNUtwVUYyazB5cU5hQjBoMkJjNXgtZDA1cUFrR0pB?oc=5
-
----
-
-## 11. ChatGPT、Gemini：AI競爭出現新動向
+## 10. ChatGPT、Gemini：AI競爭出現新動向
 
 原文標題：
 This AI Tool Puts ChatGPT, Claude, and Gemini Under One Roof for Only $55 - PCMag
@@ -358,40 +327,38 @@ ChatGPT、Gemini相關消息顯示，AI投資與產品競爭持續升溫。
 
 ---
 
-## 12. NVIDIA、Micron：財報成為市場焦點
+## 11. OpenAI：AI競爭出現新動向
 
 原文標題：
-Week Ahead | Memory giant Micron reports earnings! NVIDIA holds its annual shareholder meeting; U.S. PCE price index released on Thursday - 富途牛牛
+OpenAI's Massive Losses Strengthen the Bull Case for These 2 Artificial Intelligence (AI) Stocks - Yahoo Finance
 
 中文標題：
-NVIDIA、Micron：財報成為市場焦點
+OpenAI：AI競爭出現新動向
 
 中文摘要：
-NVIDIA、Micron動向牽動晶片供應鏈與AI運算需求。
+OpenAI相關消息顯示，AI投資與產品競爭持續升溫。
 
 為什麼重要：
-這則新聞可能影響晶片供需、先進製程與AI伺服器供應鏈。
+這則新聞有助判斷AI投資、產品化與企業採用速度。 多家媒體同時報導，代表市場或產業關注度較高。
 
 可能影響：
-- NVIDIA
-- Micron
-- 晶片供應鏈
-- AI伺服器供應鏈
-- 先進製程
+- OpenAI
+- AI基礎設施
+- 企業AI應用
+- 雲端服務
 
 建議追蹤：
-- 下一季財報
-- 出貨與庫存變化
-- 供應鏈產能調整
-- 下一季財報指引
+- 產品採用速度
+- 企業客戶名單
+- 資本支出指引
 
-來源：富途牛牛
-時間：2026-06-21 15:57
-連結：https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX1pIX25Kc1pVZ01xVjFoQlZoWG9neHd5a2xyd2lPN0pCbGlTOTRUeHhGNFA2c3hlUDh2Q3Y0WXNNSDJLbjRrVzkycnllbHdHTFFOSEdVN3k2b0thLWhGbmV1eGF6UDJmcEFhcmpJRlYwdUcwc2QxZW1tUUFZcXZOaGM2Q1gwbHhJbnlRdGFBa1d5RWJlZWU4VkpjVHNteHBUT1Fxd3FQMFU?oc=5
+來源：Yahoo Finance
+時間：2026-06-21 15:35
+連結：https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlZBNHVyNDZQZ3N4dms2eS1QY0paT3FuR1hnRnVlNGdINzBUM29EMFN1NXRNTFJwQkY4aURCM1owMF9hVE5pRktRTzhrYzB1Nm1kS0VqM3AxRXkwX1E5MThEMG44SHNaNEwtWWVLYkRKdzBVLU9LTFNRY052dlFQQ0piSlM3VFp1dFhfMTIxVlpfTHA1Zm15VVkxcURSd1hKTmI1Tw?oc=5
 
 ---
 
-## 13. 中國：AI競爭出現新動向
+## 12. 中國：AI競爭出現新動向
 
 原文標題：
 Japan's chip equipment giants are losing China and betting on AI to fill the gap - Startup Fortune
@@ -422,7 +389,7 @@ Japan's chip equipment giants are losing China and betting on AI to fill the gap
 
 ---
 
-## 14. Intel、Apple：半導體供應鏈出現新動向
+## 13. Intel、Apple：半導體供應鏈出現新動向
 
 原文標題：
 Apple Intel Chip Deal: Impact on iPhones and Macs - Memeburn
@@ -454,7 +421,7 @@ Intel、Apple動向牽動晶片供應鏈與AI運算需求。
 
 ---
 
-## 15. Intel、Apple：半導體供應鏈出現新動向
+## 14. Intel、Apple：半導體供應鏈出現新動向
 
 原文標題：
 Why Intel (INTC) Is Up 7.6% After Prospective Apple U.S. Chip Foundry Partnership News - Yahoo Finance
@@ -486,7 +453,7 @@ Intel、Apple動向牽動晶片供應鏈與AI運算需求。
 
 ---
 
-## 16. NVIDIA、AMD：半導體供應鏈出現新動向
+## 15. NVIDIA、AMD：半導體供應鏈出現新動向
 
 原文標題：
 The AntSDR T510 AI Puts an AMD RFSoC and an NVIDIA Jetson on One Board - Hackster.io
@@ -518,7 +485,7 @@ NVIDIA、AMD動向牽動晶片供應鏈與AI運算需求。
 
 ---
 
-## 17. NVIDIA：AI競爭出現新動向
+## 16. NVIDIA：AI競爭出現新動向
 
 原文標題：
 This Company Could Become the Nvidia of AI Inference - Yahoo Finance
@@ -549,7 +516,7 @@ NVIDIA相關消息顯示，AI投資與產品競爭持續升溫。
 
 ---
 
-## 18. 宏觀經濟：宏觀政策訊號受到關注
+## 17. 宏觀經濟：宏觀政策訊號受到關注
 
 原文標題：
 Massive bonuses for South Korea's chip workers puts central bank on inflation alert
@@ -579,7 +546,7 @@ Massive bonuses for South Korea's chip workers puts central bank on inflation al
 
 ---
 
-## 19. ASML、中國：半導體供應鏈出現新動向
+## 18. ASML、中國：半導體供應鏈出現新動向
 
 原文標題：
 The US says ASML’s top chip tool may be in China, but how?
@@ -611,7 +578,7 @@ ASML、中國動向牽動晶片供應鏈與AI運算需求。
 
 ---
 
-## 20. Intel、Apple：半導體供應鏈出現新動向
+## 19. Intel、Apple：半導體供應鏈出現新動向
 
 原文標題：
 Intel gains 10% after Trump says company will partner with Apple on U.S. chip design
@@ -640,5 +607,36 @@ Intel、Apple動向牽動晶片供應鏈與AI運算需求。
 來源：Tech
 時間：2026-06-19 00:51
 連結：https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html
+
+---
+
+## 20. Apple：AI競爭出現新動向
+
+原文標題：
+Apple to raise prices as AI boom pushes up chip costs
+
+中文標題：
+Apple：AI競爭出現新動向
+
+中文摘要：
+Apple相關消息顯示，AI投資與產品競爭持續升溫。
+
+為什麼重要：
+這則新聞有助判斷AI投資、產品化與企業採用速度。
+
+可能影響：
+- Apple
+- AI基礎設施
+- 企業AI應用
+- 雲端服務
+
+建議追蹤：
+- 產品採用速度
+- 企業客戶名單
+- 資本支出指引
+
+來源：BBC News
+時間：2026-06-18 22:03
+連結：https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss
 
 ---
