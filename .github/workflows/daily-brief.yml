@@ -2,11 +2,18 @@ name: Daily Research Brief
 
 on:
   schedule:
-    # 香港/台灣時間 07:15 = UTC 23:15
+    # 早段探測排程：若 GitHub 延遲約 1-2 小時，仍有機會在 07:10 後補跑。
+    # guard 會阻止 07:10 前寄出，並確保同一天只寄一次。
+    - cron: "0 21 * * *"   # 香港/台灣時間 05:00
+    - cron: "30 21 * * *"  # 香港/台灣時間 05:30
+    - cron: "0 22 * * *"   # 香港/台灣時間 06:00
+    - cron: "30 22 * * *"  # 香港/台灣時間 06:30
+    # 目標排程：香港/台灣時間 07:15 = UTC 23:15
     - cron: "15 23 * * *"
-    # 備援排程：香港/台灣時間 07:45 = UTC 23:45
-    # 若 07:15 未觸發，這次會補跑；若當天已成功寄出，會自動跳過。
+    # 備援排程
     - cron: "45 23 * * *"
+    - cron: "15 0 * * *"   # 香港/台灣時間 08:15
+    - cron: "45 0 * * *"   # 香港/台灣時間 08:45
   workflow_dispatch:
 
 permissions:
@@ -34,18 +41,25 @@ jobs:
           from pathlib import Path
 
           today = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d")
+          now = datetime.now(timezone(timedelta(hours=8)))
+          minutes = now.hour * 60 + now.minute
+          earliest_send = 7 * 60 + 10
           stamp = Path(".last_successful_brief_date")
           already_sent = stamp.exists() and stamp.read_text(encoding="utf-8").strip() == today
-          should_skip = os.environ.get("GITHUB_EVENT_NAME") == "schedule" and already_sent
+          is_schedule = os.environ.get("GITHUB_EVENT_NAME") == "schedule"
+          too_early = is_schedule and minutes < earliest_send
+          should_skip = is_schedule and (already_sent or too_early)
 
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
               output.write(f"today={today}\n")
               output.write(f"skip={'true' if should_skip else 'false'}\n")
 
-          if should_skip:
+          if too_early:
+              print(f"Local time is {now:%H:%M}; too early to send daily brief.")
+          elif already_sent and is_schedule:
               print(f"Daily brief for {today} was already sent; skipping backup schedule.")
           else:
-              print(f"Daily brief will run for {today}.")
+              print(f"Daily brief will run for {today} at local time {now:%H:%M}.")
           PY
 
       - name: Generate daily brief

@@ -71,17 +71,25 @@ python fetch_news.py --candidates-output my_candidates.md
 
 排程時間：
 
-- 香港／台灣時間：每天早上 7:15
-- GitHub Actions 使用 UTC，所以主排程設定為：`15 23 * * *`
+- 目標寄出時間：香港／台灣時間每天早上 7:15
+- GitHub Actions 使用 UTC，所以目標排程設定為：`15 23 * * *`
 
 也就是 UTC 每天 23:15 執行，換算為香港／台灣時間隔天 07:15。
 
-另有一個備援排程：
+為了應對 GitHub schedule 延遲或漏跑，workflow 另設早段探測與備援排程：
 
-- 香港／台灣時間：每天早上 7:45
-- GitHub Actions UTC 設定：`45 23 * * *`
+```text
+21:00 UTC = 香港／台灣 05:00
+21:30 UTC = 香港／台灣 05:30
+22:00 UTC = 香港／台灣 06:00
+22:30 UTC = 香港／台灣 06:30
+23:15 UTC = 香港／台灣 07:15
+23:45 UTC = 香港／台灣 07:45
+00:15 UTC = 香港／台灣 08:15
+00:45 UTC = 香港／台灣 08:45
+```
 
-若 7:15 那次未觸發，7:45 會補跑。若 7:15 已成功寄出，7:45 會看到 `.last_successful_brief_date`，自動跳過，避免同一天重複寄信。
+guard 會阻止香港／台灣時間 7:10 前寄出。若同一天已成功寄出，後續 scheduled run 會看到 `.last_successful_brief_date`，自動跳過，避免重複寄信。
 
 GitHub Actions 會做以下事情：
 
