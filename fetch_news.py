@@ -8,7 +8,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -21,11 +21,6 @@ DEFAULT_CANDIDATES_FILE = BASE_DIR / "ai_candidates.md"
 LOCAL_TIMEZONE = timezone(timedelta(hours=8), "Asia/Hong_Kong")
 
 
-def local_now() -> datetime:
-    return datetime.now(LOCAL_TIMEZONE)
-
-# 修改分類時，主要改這個 dictionary 就好。
-# 程式會依照這裡的順序判斷；若同一則新聞命中多個分類，命中較多關鍵字者優先。
 CATEGORY_KEYWORDS = {
     "AI": [
         "ai",
@@ -33,94 +28,52 @@ CATEGORY_KEYWORDS = {
         "openai",
         "anthropic",
         "claude",
+        "chatgpt",
         "gemini",
         "deepmind",
-        "chatgpt",
-        "copilot",
         "llm",
-        "llms",
         "large language model",
         "generative ai",
-        "machine learning",
-        "foundation model",
         "agent",
-        "agents",
         "agentic",
-        "ai model",
-        "ai startup",
-        "人工智能",
-        "人工智慧",
-        "大模型",
-        "生成式 ai",
-        "生成式人工智能",
+        "machine learning",
     ],
     "半導體": [
         "semiconductor",
-        "semiconductors",
         "chip",
         "chips",
-        "tsmc",
         "nvidia",
-        "nvda",
+        "tsmc",
+        "asml",
         "amd",
         "intel",
-        "asml",
-        "qualcomm",
-        "broadcom",
         "micron",
-        "samsung electronics",
         "sk hynix",
-        "arm",
-        "fab",
-        "foundry",
-        "wafer",
+        "samsung electronics",
         "hbm",
         "gpu",
-        "gpus",
-        "chipmaking",
-        "chipmaker",
+        "foundry",
+        "wafer",
         "advanced packaging",
-        "半導體",
-        "晶片",
-        "台積電",
-        "英偉達",
-        "輝達",
-        "三星電子",
     ],
     "美國科技股": [
-        "nasdaq",
-        "nasdaq 100",
-        "magnificent seven",
-        "mag 7",
         "apple",
-        "aapl",
         "microsoft",
-        "msft",
+        "meta",
+        "amazon",
         "alphabet",
         "google",
-        "googl",
-        "goog",
-        "amazon",
-        "amzn",
-        "meta",
         "tesla",
-        "tsla",
-        "netflix",
-        "nflx",
-        "salesforce",
-        "palantir",
         "oracle",
-        "adobe",
-        "snowflake",
-        "美股",
-        "科技股",
-        "七巨頭",
+        "palantir",
+        "salesforce",
+        "nasdaq",
+        "magnificent seven",
     ],
     "中國科技": [
         "china tech",
         "chinese tech",
         "alibaba",
-        "baba",
         "tencent",
         "bytedance",
         "tiktok",
@@ -131,21 +84,8 @@ CATEGORY_KEYWORDS = {
         "jd.com",
         "pdd",
         "meituan",
-        "kuaishou",
         "deepseek",
         "china ai",
-        "chinese ai",
-        "hong kong tech",
-        "中國科技",
-        "阿里巴巴",
-        "騰訊",
-        "字節跳動",
-        "華為",
-        "百度",
-        "小米",
-        "中芯",
-        "美團",
-        "快手",
     ],
     "宏觀經濟": [
         "fed",
@@ -156,7 +96,6 @@ CATEGORY_KEYWORDS = {
         "boe",
         "pboc",
         "central bank",
-        "monetary policy",
         "interest rate",
         "rate cut",
         "rate hike",
@@ -165,121 +104,44 @@ CATEGORY_KEYWORDS = {
         "ppi",
         "gdp",
         "pmi",
-        "jobs report",
-        "nonfarm payrolls",
+        "employment",
         "payroll",
         "unemployment",
-        "recession",
-        "soft landing",
         "tariff",
         "trade war",
-        "fiscal policy",
-        "deficit",
-        "宏觀",
-        "通脹",
-        "通膨",
-        "利率",
-        "聯儲",
-        "聯準會",
-        "央行",
-        "貨幣政策",
-        "經濟成長",
     ],
     "金融市場": [
         "stock market",
         "stocks",
         "s&p 500",
-        "spx",
         "dow",
-        "dow jones",
-        "bond",
-        "bonds",
         "treasury",
-        "treasuries",
         "yield",
-        "yields",
+        "bond",
         "dollar",
-        "us dollar",
         "yen",
         "euro",
-        "crude oil",
-        "oil price",
-        "oil prices",
-        "oil trade",
+        "oil",
         "brent",
         "wti",
         "gold",
         "bitcoin",
         "crypto",
-        "cryptocurrency",
-        "forex",
-        "etf",
         "earnings",
         "ipo",
-        "vix",
+        "m&a",
+        "acquisition",
         "volatility",
-        "金融市場",
-        "股市",
-        "債券",
-        "美元",
-        "日圓",
-        "黃金",
-        "比特幣",
-        "加密貨幣",
+        "vix",
     ],
-    "其他": [],
 }
 
 IMPORTANT_KEYWORDS = {
-    "AI": [
-        "OpenAI",
-        "Anthropic",
-        "ChatGPT",
-        "Gemini",
-        "DeepMind",
-        "LLM",
-        "Agent",
-        "AI",
-    ],
-    "半導體": [
-        "NVIDIA",
-        "TSMC",
-        "ASML",
-        "AMD",
-        "Intel",
-        "Micron",
-        "SK Hynix",
-        "chip",
-        "semiconductor",
-        "GPU",
-    ],
-    "大型科技": [
-        "Apple",
-        "Microsoft",
-        "Meta",
-        "Amazon",
-        "Alphabet",
-        "Google",
-        "Tesla",
-    ],
-    "宏觀經濟": [
-        "Fed",
-        "Federal Reserve",
-        "ECB",
-        "interest rate",
-        "inflation",
-        "GDP",
-        "employment",
-    ],
-    "市場": [
-        "earnings",
-        "IPO",
-        "M&A",
-        "acquisition",
-        "tariff",
-        "China",
-        "trade",
-    ],
+    "AI": ["OpenAI", "Anthropic", "ChatGPT", "Gemini", "DeepMind", "LLM", "Agent", "AI"],
+    "半導體": ["NVIDIA", "TSMC", "ASML", "AMD", "Intel", "Micron", "SK Hynix", "chip", "semiconductor", "GPU"],
+    "大型科技": ["Apple", "Microsoft", "Meta", "Amazon", "Alphabet", "Google", "Tesla"],
+    "宏觀政策": ["Fed", "Federal Reserve", "ECB", "interest rate", "inflation", "GDP", "employment"],
+    "市場風險": ["earnings", "IPO", "M&A", "acquisition", "tariff", "China", "trade", "warning", "collapse"],
 }
 
 HEADLINE_TRIGGERS = [
@@ -293,6 +155,12 @@ HEADLINE_TRIGGERS = [
     "restriction",
     "launch",
     "investment",
+    "earnings",
+    "guidance",
+    "forecast",
+    "acquisition",
+    "tariff",
+    "export control",
 ]
 
 LOW_SIGNAL_TITLE_PATTERNS = [
@@ -307,6 +175,53 @@ LOW_SIGNAL_TITLE_PATTERNS = [
     "price today",
     "live price",
     "marketcap and chart",
+]
+
+HIGH_WEIGHT_SOURCES = [
+    "reuters",
+    "bloomberg",
+    "financial times",
+    "ft.com",
+    "wall street journal",
+    "wsj",
+    "cnbc",
+    "associated press",
+    "ap news",
+    "nikkei",
+    "the information",
+]
+
+MEDIUM_WEIGHT_SOURCES = [
+    "techcrunch",
+    "the verge",
+    "venturebeat",
+    "marketwatch",
+    "seeking alpha",
+    "mit technology review",
+    "ars technica",
+    "bbc",
+    "yahoo finance",
+    "investing.com",
+]
+
+LOW_WEIGHT_SOURCES = [
+    "benzinga",
+    "simply wall st",
+    "simplywallst",
+    "msn",
+    "aol",
+    "blog",
+    "substack",
+    "medium",
+    "motley fool",
+    "insider monkey",
+    "24/7 wall st",
+    "gurufocus",
+    "zacks",
+    "tipranks",
+    "investorplace",
+    "marketbeat",
+    "coinmarketcap",
 ]
 
 ENTITY_NAMES = {
@@ -334,72 +249,48 @@ ENTITY_NAMES = {
     "google": "Google",
     "tesla": "Tesla",
     "oracle": "Oracle",
-    "spacex": "SpaceX",
-    "coreweave": "CoreWeave",
-    "softbank": "SoftBank",
-    "alibaba": "阿里巴巴",
-    "tencent": "騰訊",
-    "huawei": "華為",
-    "baidu": "百度",
-    "xiaomi": "小米",
+    "palantir": "Palantir",
+    "alibaba": "Alibaba",
+    "tencent": "Tencent",
+    "bytedance": "ByteDance",
+    "tiktok": "TikTok",
+    "huawei": "Huawei",
+    "baidu": "Baidu",
+    "xiaomi": "Xiaomi",
+    "smic": "SMIC",
     "fed": "Fed",
     "federal reserve": "Fed",
     "ecb": "ECB",
     "china": "中國",
 }
 
-SOURCE_WEIGHT_RULES = {
-    30: [
-        "reuters",
-        "bloomberg",
-        "financial times",
-        "ft.com",
-        "wall street journal",
-        "wsj",
-        "cnbc",
-        "associated press",
-        "ap news",
-        "nikkei",
-        "the information",
-    ],
-    15: [
-        "techcrunch",
-        "the verge",
-        "venturebeat",
-        "marketwatch",
-        "seeking alpha",
-        "mit technology review",
-        "ars technica",
-        "bbc",
-    ],
-    -20: [
-        "benzinga",
-        "simply wall st",
-        "simplywallst",
-        "msn",
-        "aol",
-        "blog",
-        "substack",
-        "medium",
-        "motley fool",
-        "insider monkey",
-        "24/7 wall st",
-        "gurufocus",
-        "zacks",
-        "tipranks",
-        "investorplace",
-        "marketbeat",
-        "coinmarketcap",
-    ],
-}
-
-CRITICAL_TOPIC_KEYWORDS = {
-    "政策監管": ["fed", "federal reserve", "ecb", "regulation", "regulator", "probe", "investigation", "lawsuit", "ban", "restriction", "tariff", "export control", "antitrust"],
-    "財報財測": ["earnings", "revenue", "profit", "margin", "guidance", "forecast", "quarter", "results"],
-    "AI": ["ai", "openai", "anthropic", "chatgpt", "gemini", "llm", "agent", "data center"],
-    "半導體": ["nvidia", "tsmc", "asml", "amd", "intel", "micron", "sk hynix", "chip", "semiconductor", "gpu", "hbm"],
-    "利率宏觀": ["interest rate", "rate cut", "rate hike", "inflation", "cpi", "gdp", "employment", "payroll", "treasury yield"],
-    "市場風險": ["warning", "collapse", "plunge", "selloff", "debt", "borrowing", "default", "volatility", "vix", "bubble"],
+STOPWORDS = {
+    "the",
+    "a",
+    "an",
+    "and",
+    "or",
+    "to",
+    "of",
+    "in",
+    "on",
+    "for",
+    "with",
+    "as",
+    "by",
+    "from",
+    "after",
+    "before",
+    "at",
+    "is",
+    "are",
+    "be",
+    "will",
+    "may",
+    "new",
+    "says",
+    "said",
+    "update",
 }
 
 URL_RESOLVE_CACHE: dict[str, str] = {}
@@ -418,6 +309,33 @@ class NewsItem:
     published: str
     link: str
     category: str
+
+
+@dataclass
+class Story:
+    key: str
+    items: list[NewsItem] = field(default_factory=list)
+
+    @property
+    def main(self) -> NewsItem:
+        return sorted(self.items, key=item_rank_key, reverse=True)[0]
+
+    @property
+    def sources(self) -> list[str]:
+        result: list[str] = []
+        for item in sorted(self.items, key=item_rank_key, reverse=True):
+            source = display_source(item)
+            if source and source not in result:
+                result.append(source)
+        return result
+
+    @property
+    def links(self) -> list[str]:
+        return story_links(self, resolve_google=True, limit=3)
+
+
+def local_now() -> datetime:
+    return datetime.now(LOCAL_TIMEZONE)
 
 
 def read_feeds(path: Path) -> list[Feed]:
@@ -447,10 +365,16 @@ def fetch_xml(url: str, timeout: int = 20) -> bytes:
         return response.read()
 
 
+def clean_text(value: str) -> str:
+    value = re.sub(r"<[^>]+>", " ", value)
+    value = html.unescape(value)
+    return re.sub(r"\s+", " ", value).strip()
+
+
 def text_of(element: ET.Element | None, default: str = "") -> str:
     if element is None or element.text is None:
         return default
-    return html.unescape(element.text.strip())
+    return clean_text(element.text)
 
 
 def first_text(parent: ET.Element, paths: list[str], default: str = "") -> str:
@@ -472,12 +396,6 @@ def link_from_item(item: ET.Element) -> str:
     return ""
 
 
-def clean_text(value: str) -> str:
-    value = re.sub(r"<[^>]+>", " ", value)
-    value = html.unescape(value)
-    return re.sub(r"\s+", " ", value).strip()
-
-
 def parse_date(value: str) -> datetime | None:
     value = value.strip()
     if not value:
@@ -497,7 +415,7 @@ def parse_date(value: str) -> datetime | None:
 def format_date(value: str) -> str:
     parsed = parse_date(value)
     if not parsed:
-        return value.strip() or "時間不明"
+        return value.strip() or "時間未明"
     return parsed.astimezone(LOCAL_TIMEZONE).strftime("%Y-%m-%d %H:%M")
 
 
@@ -547,8 +465,16 @@ def parse_feed(xml_data: bytes, feed: Feed) -> list[dict[str, str]]:
     ]
 
 
+def keyword_matches(haystack: str, keyword: str) -> bool:
+    keyword = keyword.lower().strip()
+    if not keyword:
+        return False
+    pattern = r"(?<![a-z0-9])" + re.escape(keyword).replace(r"\ ", r"\s+") + r"(?![a-z0-9])"
+    return re.search(pattern, haystack) is not None
+
+
 def normalize_title(title: str) -> str:
-    title = title.lower()
+    title = strip_source_suffix(title).lower()
     title = re.sub(r"[^a-z0-9\u4e00-\u9fff]+", " ", title)
     return re.sub(r"\s+", " ", title).strip()
 
@@ -558,33 +484,116 @@ def normalize_link(link: str) -> str:
     return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path, "", "", ""))
 
 
+def strip_source_suffix(title: str) -> str:
+    return re.sub(r"\s+-\s+[^-]{2,80}$", "", title).strip()
+
+
 def source_name_from_title(title: str) -> str:
     match = re.search(r"\s+-\s+([^-]{2,80})$", title.strip())
     return match.group(1).strip() if match else ""
 
 
-def source_weight(item: NewsItem) -> int:
-    haystack = " ".join(
+def display_source(item: NewsItem) -> str:
+    suffix = source_name_from_title(item.title)
+    if suffix:
+        return suffix
+    source = clean_text(item.source)
+    if source:
+        return source
+    return urllib.parse.urlparse(item.link).netloc or "來源未明"
+
+
+def source_haystack(item: NewsItem) -> str:
+    return " ".join(
         [
             item.source,
             source_name_from_title(item.title),
             urllib.parse.urlparse(item.link).netloc,
         ]
     ).lower()
-    for weight, patterns in SOURCE_WEIGHT_RULES.items():
-        if any(pattern in haystack for pattern in patterns):
-            return weight
+
+
+def source_weight(item: NewsItem) -> int:
+    haystack = source_haystack(item)
+    if any(pattern in haystack for pattern in HIGH_WEIGHT_SOURCES):
+        return 35
+    if any(pattern in haystack for pattern in MEDIUM_WEIGHT_SOURCES):
+        return 18
+    if any(pattern in haystack for pattern in LOW_WEIGHT_SOURCES):
+        return -25
     return 0
 
 
-def matched_critical_topics(item: NewsItem) -> dict[str, list[str]]:
+def source_tier(item: NewsItem) -> str:
+    weight = source_weight(item)
+    if weight >= 35:
+        return "高權重"
+    if weight >= 18:
+        return "中權重"
+    if weight < 0:
+        return "低權重"
+    return "一般來源"
+
+
+def classify(title: str, source: str = "") -> str:
+    haystack = f"{title} {source}".lower()
+    scores: dict[str, int] = {}
+    for category, keywords in CATEGORY_KEYWORDS.items():
+        score = sum(1 for keyword in keywords if keyword_matches(haystack, keyword))
+        if score:
+            scores[category] = score
+    if not scores:
+        return "其他"
+    return max(scores, key=lambda category: (scores[category], -list(CATEGORY_KEYWORDS).index(category)))
+
+
+def extract_entities(item: NewsItem) -> list[str]:
+    haystack = f"{item.title} {item.source}".lower()
+    entities: list[str] = []
+    for keyword, display in ENTITY_NAMES.items():
+        if keyword_matches(haystack, keyword) and display not in entities:
+            entities.append(display)
+    return entities
+
+
+def matched_groups(item: NewsItem) -> dict[str, list[str]]:
     haystack = f"{item.title} {item.source}".lower()
     matches: dict[str, list[str]] = {}
-    for topic, keywords in CRITICAL_TOPIC_KEYWORDS.items():
-        topic_matches = [keyword for keyword in keywords if keyword_matches(haystack, keyword)]
-        if topic_matches:
-            matches[topic] = topic_matches
+    for group, keywords in IMPORTANT_KEYWORDS.items():
+        group_matches = [keyword for keyword in keywords if keyword_matches(haystack, keyword)]
+        if group_matches:
+            matches[group] = group_matches
     return matches
+
+
+def matched_triggers(title: str) -> list[str]:
+    haystack = title.lower()
+    return [trigger for trigger in HEADLINE_TRIGGERS if keyword_matches(haystack, trigger)]
+
+
+def low_signal_penalty(title: str) -> int:
+    haystack = title.lower()
+    return -30 if any(pattern in haystack for pattern in LOW_SIGNAL_TITLE_PATTERNS) else 0
+
+
+def item_score(item: NewsItem, coverage: int = 1) -> int:
+    group_hits = sum(len(values) for values in matched_groups(item).values())
+    trigger_hits = len(matched_triggers(item.title))
+    entity_hits = len(extract_entities(item))
+    score = source_weight(item)
+    score += min(group_hits, 9) * 5
+    score += min(trigger_hits, 5) * 5
+    score += min(entity_hits, 5) * 4
+    score += min(max(coverage - 1, 0), 5) * 7
+    score += 5 if item.category != "其他" else 0
+    score += low_signal_penalty(item.title)
+    return score
+
+
+def item_rank_key(item: NewsItem) -> tuple[int, int, str]:
+    parsed = parse_date(item.published)
+    timestamp = int(parsed.timestamp()) if parsed else 0
+    return (item_score(item), timestamp, item.title)
 
 
 def is_google_news_link(link: str) -> bool:
@@ -596,10 +605,21 @@ def clean_resolved_url(url: str) -> str:
     parsed = urllib.parse.urlparse(html.unescape(url))
     if not parsed.scheme.startswith("http"):
         return ""
-    blocked_domains = ("google.", "googleusercontent.", "gstatic.", "schema.org", "w3.org", "facebook.com", "twitter.com")
+    blocked_domains = (
+        "google.",
+        "google-analytics.",
+        "googletagmanager.",
+        "doubleclick.",
+        "googleusercontent.",
+        "gstatic.",
+        "schema.org",
+        "w3.org",
+        "facebook.com",
+        "twitter.com",
+    )
     if any(domain in parsed.netloc for domain in blocked_domains):
         return ""
-    if re.search(r"\.(png|jpg|jpeg|gif|webp|svg)(?:$|\?)", parsed.path, re.IGNORECASE):
+    if re.search(r"\.(png|jpg|jpeg|gif|webp|svg|js|css)(?:$|\?)", parsed.path, re.IGNORECASE):
         return ""
     return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path, parsed.params, parsed.query, ""))
 
@@ -613,7 +633,7 @@ def resolve_article_link(link: str) -> str:
     resolved = link
     try:
         request = urllib.request.Request(link, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(request, timeout=8) as response:
+        with urllib.request.urlopen(request, timeout=3) as response:
             final_url = response.geturl()
             if final_url and not is_google_news_link(final_url):
                 resolved = final_url
@@ -632,396 +652,13 @@ def resolve_article_link(link: str) -> str:
     return resolved
 
 
-def classify(title: str, source: str = "") -> str:
-    haystack = f"{title} {source}".lower()
-    scores: dict[str, int] = {}
-    for category, keywords in CATEGORY_KEYWORDS.items():
-        if category == "其他":
-            continue
-        score = sum(1 for keyword in keywords if keyword_matches(haystack, keyword))
-        if score:
-            scores[category] = score
-    if not scores:
-        return "其他"
-    return max(scores, key=lambda category: (scores[category], -list(CATEGORY_KEYWORDS).index(category)))
-
-
-def keyword_matches(haystack: str, keyword: str) -> bool:
-    keyword = keyword.lower().strip()
-    if not keyword:
-        return False
-    if re.search(r"[\u4e00-\u9fff]", keyword):
-        return keyword in haystack
-    pattern = r"(?<![a-z0-9])" + re.escape(keyword).replace(r"\ ", r"\s+") + r"(?![a-z0-9])"
-    return re.search(pattern, haystack) is not None
-
-
-def strip_source_suffix(title: str) -> str:
-    return re.sub(r"\s+-\s+[^-]{2,80}$", "", title).strip()
-
-
-def coverage_key(title: str) -> str:
-    return normalize_title(strip_source_suffix(title))
-
-
-def build_coverage_counts(raw_items: list[dict[str, str]]) -> dict[str, int]:
-    sources_by_title: dict[str, set[str]] = {}
-    for item in raw_items:
-        title = item.get("title", "").strip()
-        if not title:
-            continue
-        key = coverage_key(title)
-        if not key:
-            continue
-        source = item.get("source", "").strip() or urllib.parse.urlparse(item.get("link", "")).netloc
-        sources_by_title.setdefault(key, set()).add(source or "Unknown")
-    return {key: len(sources) for key, sources in sources_by_title.items()}
-
-
-def matched_important_keywords(item: NewsItem) -> dict[str, list[str]]:
-    haystack = f"{item.title} {item.source}".lower()
-    matches: dict[str, list[str]] = {}
-    for group, keywords in IMPORTANT_KEYWORDS.items():
-        group_matches = [keyword for keyword in keywords if keyword_matches(haystack, keyword)]
-        if group_matches:
-            matches[group] = group_matches
-    return matches
-
-
-def matched_headline_triggers(title: str) -> list[str]:
-    haystack = title.lower()
-    return [trigger for trigger in HEADLINE_TRIGGERS if headline_trigger_matches(haystack, trigger)]
-
-
-def low_signal_title_penalty(title: str) -> int:
-    haystack = title.lower()
-    return -25 if any(pattern in haystack for pattern in LOW_SIGNAL_TITLE_PATTERNS) else 0
-
-
-def headline_trigger_matches(haystack: str, trigger: str) -> bool:
-    trigger = trigger.lower().strip()
-    if not trigger:
-        return False
-    suffixes = {
-        "surge": r"(?:s|d|ing)?",
-        "collapse": r"(?:s|d|ing)?",
-        "warning": r"s?",
-        "investigation": r"s?",
-        "lawsuit": r"s?",
-        "ban": r"(?:s|ned|ning)?",
-        "restriction": r"s?",
-        "launch": r"(?:es|ed|ing)?",
-        "investment": r"s?",
-        "record": r"s?",
-    }
-    suffix = suffixes.get(trigger, "")
-    pattern = r"(?<![a-z0-9])" + re.escape(trigger) + suffix + r"(?![a-z0-9])"
-    return re.search(pattern, haystack) is not None
-
-
-def importance_score(item: NewsItem, coverage_counts: dict[str, int]) -> int:
-    keyword_matches_count = sum(len(matches) for matches in matched_important_keywords(item).values())
-    trigger_count = len(matched_headline_triggers(item.title))
-    critical_topic_count = len(matched_critical_topics(item))
-    coverage_count = coverage_counts.get(coverage_key(item.title), 1)
-    entity_count = len(extract_entities(item))
-    score = source_weight(item)
-    score += min(keyword_matches_count, 8) * 5
-    score += min(entity_count, 4) * 4
-    score += critical_topic_count * 7
-    score += trigger_count * 3
-    score += min(max(coverage_count - 1, 0), 4) * 6
-    score += low_signal_title_penalty(item.title)
-    if item.category != "其他":
-        score += 2
-    return score
-
-
-def select_important_news(
-    items: list[NewsItem],
-    coverage_counts: dict[str, int],
-    max_count: int = 20,
-) -> list[NewsItem]:
-    scored_items = [
-        (importance_score(item, coverage_counts), item)
-        for item in items
-    ]
-    scored_items = [(score, item) for score, item in scored_items if score > 0]
-    preferred_items = [(score, item) for score, item in scored_items if source_weight(item) >= 0]
-    if len(preferred_items) >= max_count:
-        scored_items = preferred_items
-
-    def sort_key(scored_item: tuple[int, NewsItem]) -> tuple[int, int, str]:
-        score, item = scored_item
-        parsed = parse_date(item.published)
-        timestamp = int(parsed.timestamp()) if parsed else 0
-        return (score, source_weight(item), timestamp, item.title)
-
-    return [item for _, item in sorted(scored_items, key=sort_key, reverse=True)[:max_count]]
-
-
-def extract_entities(item: NewsItem) -> list[str]:
-    haystack = f"{item.title} {item.source}".lower()
-    entities: list[str] = []
-    for keyword, display_name in ENTITY_NAMES.items():
-        if keyword_matches(haystack, keyword) and display_name not in entities:
-            entities.append(display_name)
-    return entities
-
-
-def main_subject(item: NewsItem) -> str:
-    entities = extract_entities(item)
-    if entities:
-        return "、".join(entities[:3])
-    return item.category
-
-
-def event_focus(item: NewsItem) -> str:
-    title = item.title.lower()
-    checks = [
-        (["earnings", "revenue", "profit", "guidance", "quarter", "results"], "財報或財測變化"),
-        (["borrow", "borrowing", "debt", "loan", "bond"], "舉債與資本開支"),
-        (["investment", "invest", "funding", "raises", "financing"], "投資或融資計畫"),
-        (["launch", "unveil", "release", "introduce"], "產品或服務發布"),
-        (["production", "capacity", "shipment", "supply"], "產能、出貨與供應鏈"),
-        (["lawsuit", "sues", "court"], "訴訟與法律風險"),
-        (["investigation", "probe"], "監管調查"),
-        (["ban", "restriction", "export control"], "禁令、限制或出口管制"),
-        (["tariff", "trade"], "關稅與貿易政策"),
-        (["fed", "federal reserve", "ecb", "interest rate", "inflation"], "利率、通膨與央行訊號"),
-        (["surge", "jump", "rise", "record"], "價格、需求或估值急升"),
-        (["collapse", "plunge", "fall", "drop", "selloff"], "價格、需求或估值下挫"),
-        (["m&a", "acquisition", "merger", "buyout"], "併購交易"),
-        (["partnership", "deal", "contract"], "商業合作或訂單"),
-        (["warning", "risk", "bubble"], "風險警號"),
-        (["ipo", "listing"], "IPO或上市安排"),
-    ]
-    for keywords, phrase in checks:
-        if any(keyword_matches(title, keyword) or headline_trigger_matches(title, keyword) for keyword in keywords):
-            return phrase
-    return {
-        "AI": "模型、算力或企業採用",
-        "半導體": "晶片供需與先進製程",
-        "美國科技股": "大型科技股盈利與估值",
-        "中國科技": "中國科技競爭與監管",
-        "宏觀經濟": "利率、通膨與成長預期",
-        "金融市場": "資金流與風險定價",
-    }.get(item.category, "國際財經科技選題")
-
-
-def action_phrase(item: NewsItem) -> str:
-    title = item.title.lower()
-    checks = [
-        (["record"], "創下新高或重要紀錄"),
-        (["surge"], "出現明顯升勢"),
-        (["collapse"], "出現急跌或重大挫折"),
-        (["warning"], "發出風險警訊"),
-        (["investigation"], "面臨調查"),
-        (["lawsuit"], "捲入訴訟"),
-        (["ban", "restriction"], "面臨禁令或限制"),
-        (["launch"], "推出新產品或服務"),
-        (["investment"], "擴大投資"),
-        (["earnings"], "財報成為市場焦點"),
-        (["ipo"], "IPO成為選題線索"),
-        (["m&a", "acquisition"], "併購交易成為選題線索"),
-        (["tariff", "trade"], "貿易政策風險升高"),
-    ]
-    for keywords, phrase in checks:
-        if any(headline_trigger_matches(title, keyword) for keyword in keywords):
-            return phrase
-    return {
-        "AI": "AI資本開支或模型競爭有變化",
-        "半導體": "晶片供需與先進製程有變化",
-        "美國科技股": "盈利預期與估值有變化",
-        "中國科技": "監管或競爭格局有變化",
-        "宏觀經濟": "利率與成長預期有變化",
-        "金融市場": "資金流與風險定價有變化",
-    }.get(item.category, "新聞事件值得留意")
-
-
-def chinese_title(item: NewsItem) -> str:
-    return f"{main_subject(item)}：{action_phrase(item)}"
-
-
-def truncate_text(value: str, max_chars: int = 50) -> str:
-    value = re.sub(r"\s+", "", value.strip())
-    if len(value) <= max_chars:
-        return value
-    return value[: max_chars - 1].rstrip("，、；") + "…"
-
-
-def chinese_summary(item: NewsItem) -> str:
-    subject = main_subject(item)
-    focus = event_focus(item)
-    angles = {
-        "AI": "需追蹤資本開支、雲端需求與商業化速度",
-        "半導體": "重點看AI晶片訂單、庫存與先進製程產能",
-        "美國科技股": "可檢視估值、財測與大型科技股資金流",
-        "中國科技": "需留意監管、中美限制與本土AI競爭",
-        "宏觀經濟": "重點看利率預期、通膨數據與美元走勢",
-        "金融市場": "可追蹤股債匯聯動與避險資金流向",
-    }
-    summary = f"{subject}涉及{focus}，{angles.get(item.category, '可作為後續查證線索')}。"
-    return truncate_text(summary, 70)
-
-
-def why_important(item: NewsItem, coverage_counts: dict[str, int]) -> str:
-    base = {
-        "AI": "這則新聞可用來判斷AI基建支出、模型競爭或企業採用是否改變。",
-        "半導體": "這則新聞關乎晶片供需、先進製程或AI伺服器供應鏈。",
-        "美國科技股": "這則新聞會影響大型科技股盈利預期、估值或資金配置。",
-        "中國科技": "這則新聞有助追蹤中國科技公司、中美限制與監管取向。",
-        "宏觀經濟": "這則新聞可能改變利率、通膨、就業或經濟成長判斷。",
-        "金融市場": "這則新聞可能影響股市、債市、匯率、商品或波動率。",
-    }.get(item.category, "這則新聞可作為今日國際財經與科技選題線索。")
-
-    coverage_count = coverage_counts.get(coverage_key(item.title), 1)
-    weight = source_weight(item)
-    if weight >= 30:
-        quality_note = " 來源權重高，適合作為主線追蹤。"
-    elif weight >= 15:
-        quality_note = " 來源具一定參考價值，可作為交叉查證起點。"
-    else:
-        quality_note = ""
-    if coverage_count > 1:
-        return f"{base} 多家媒體同時報導，議題熱度較高。{quality_note}".strip()
-    if matched_headline_triggers(item.title):
-        return f"{base} 標題含重大變化或風險訊號，值得優先查證。{quality_note}".strip()
-    return f"{base}{quality_note}".strip()
-
-
-def story_potential(item: NewsItem, coverage_counts: dict[str, int]) -> str:
-    score = importance_score(item, coverage_counts)
-    if score >= 45 or (source_weight(item) >= 15 and len(matched_critical_topics(item)) >= 2):
-        return "高"
-    if score >= 25:
-        return "中"
-    return "低"
-
-
-def suggested_angle(item: NewsItem) -> str:
-    subject = main_subject(item)
-    topics = matched_critical_topics(item)
-    if "政策監管" in topics:
-        return f"從政策或監管變化切入，查證{subject}如何調整投資、供應鏈或市場策略。"
-    if "財報財測" in topics:
-        return f"用財報與財測檢驗{subject}的成長是否能支撐目前估值。"
-    if "市場風險" in topics:
-        return f"評估{subject}事件是否反映AI交易、債務或風險資產定價過熱。"
-    if "半導體" in topics:
-        return f"追蹤{subject}對AI晶片、先進製程與供應鏈議價能力的影響。"
-    if "利率宏觀" in topics:
-        return f"觀察利率與通膨訊號如何改變科技股估值和美元資產配置。"
-    if "AI" in topics:
-        return f"檢視{subject}是否能把AI投資轉化為收入、客戶或成本優勢。"
-    return f"把{subject}作為線索，追查公司回應、同業反應與市場定價。"
-
-
-def possible_impacts(item: NewsItem) -> list[str]:
-    impacts = extract_entities(item)
-    by_category = {
-        "AI": ["AI基礎設施", "企業AI應用", "雲端服務"],
-        "半導體": ["晶片供應鏈", "AI伺服器供應鏈", "先進製程"],
-        "美國科技股": ["美國科技股", "Nasdaq", "雲端與廣告市場"],
-        "中國科技": ["中國科技股", "中美科技監管", "AI應用市場"],
-        "宏觀經濟": ["美國公債", "美元", "風險資產"],
-        "金融市場": ["股市", "債市", "外匯與商品市場"],
-    }
-    for impact in by_category.get(item.category, ["相關公司", "相關產業", "金融市場"]):
-        if impact not in impacts:
-            impacts.append(impact)
-    return impacts[:6]
-
-
-def follow_up_items(item: NewsItem) -> list[str]:
-    items = {
-        "AI": ["產品採用速度", "企業客戶名單", "資本支出指引"],
-        "半導體": ["下一季財報", "出貨與庫存變化", "供應鏈產能調整"],
-        "美國科技股": ["管理層評論", "財測與資本支出", "監管政策"],
-        "中國科技": ["監管政策", "出口管制變化", "中國市場需求"],
-        "宏觀經濟": ["央行官員談話", "通膨與就業數據", "利率路徑預期"],
-        "金融市場": ["成交量與波動率", "資金流向", "美元與公債殖利率"],
-    }.get(item.category, ["後續官方說法", "相關公司回應", "市場反應"])
-
-    triggers = matched_headline_triggers(item.title)
-    if "lawsuit" in triggers or "investigation" in triggers:
-        items.append("法律或監管文件")
-    if "launch" in triggers:
-        items.append("產品上市時間表")
-    if "investment" in triggers:
-        items.append("投資金額與回收期")
-    if "earnings" in matched_important_keywords(item).get("市場", []):
-        items.append("下一季財報指引")
-
+def story_links(story: Story, resolve_google: bool, limit: int = 3) -> list[str]:
     result: list[str] = []
-    for follow_up in items:
-        if follow_up not in result:
-            result.append(follow_up)
-    return result[:5]
-
-
-def render_ai_candidates(
-    candidates: list[NewsItem],
-    coverage_counts: dict[str, int],
-    max_candidates: int,
-) -> str:
-    now = local_now().strftime("%Y-%m-%d %H:%M")
-    lines = [
-        "# 繁體中文記者研究分析",
-        "",
-        f"更新時間：{now}",
-        "",
-        f"入選新聞：{len(candidates)} / 最多 {max_candidates} 則",
-        "",
-        "說明：本檔案以本機規則篩選與改寫，不使用 OpenAI API；中文標題與摘要是研究提示，不是逐字翻譯。",
-        "",
-    ]
-
-    if not candidates:
-        lines.extend(["今日暫無符合條件的重要新聞。", ""])
-        return "\n".join(lines)
-
-    for index, item in enumerate(candidates, 1):
-        lines.extend(
-            [
-                f"## {index}. {chinese_title(item)}",
-                "",
-                "原文標題：",
-                item.title,
-                "",
-                "中文標題：",
-                chinese_title(item),
-                "",
-                "中文摘要：",
-                chinese_summary(item),
-                "",
-                "為什麼重要：",
-                why_important(item, coverage_counts),
-                "",
-                "可否成稿：",
-                story_potential(item, coverage_counts),
-                "",
-                "建議角度：",
-                suggested_angle(item),
-                "",
-                "可能影響：",
-            ]
-        )
-        lines.extend(f"- {impact}" for impact in possible_impacts(item))
-        lines.extend(["", "建議追蹤："])
-        lines.extend(f"- {follow_up}" for follow_up in follow_up_items(item))
-        lines.extend(
-            [
-                "",
-                f"來源：{item.source}",
-                f"時間：{item.published}",
-                f"連結：{resolve_article_link(item.link)}",
-                "",
-                "---",
-                "",
-            ]
-        )
-    return "\n".join(lines)
+    for item in sorted(story.items, key=item_rank_key, reverse=True)[:limit]:
+        link = resolve_article_link(item.link) if resolve_google else item.link
+        if link and link not in result:
+            result.append(link)
+    return result
 
 
 def deduplicate(raw_items: list[dict[str, str]]) -> list[NewsItem]:
@@ -1029,223 +666,368 @@ def deduplicate(raw_items: list[dict[str, str]]) -> list[NewsItem]:
     seen_links: set[str] = set()
     items: list[NewsItem] = []
     for raw in raw_items:
-        title = raw["title"].strip()
-        link = raw["link"].strip()
+        title = clean_text(raw.get("title", ""))
+        link = raw.get("link", "").strip()
         if not title or not link:
             continue
-        title_key = coverage_key(title)
+        title_key = normalize_title(title)
         link_key = normalize_link(link)
         if title_key in seen_titles or link_key in seen_links:
             continue
         seen_titles.add(title_key)
         seen_links.add(link_key)
+        source = clean_text(raw.get("source", "")) or urllib.parse.urlparse(link).netloc
         items.append(
             NewsItem(
                 title=title,
-                source=raw["source"] or urllib.parse.urlparse(link).netloc,
-                published=raw["published"],
+                source=source,
+                published=raw.get("published", "時間未明"),
                 link=link,
-                category=classify(title, raw["source"]),
+                category=classify(title, source),
             )
         )
     return items
 
 
-def sort_items(items: list[NewsItem]) -> list[NewsItem]:
-    def sort_key(item: NewsItem) -> tuple[int, str]:
-        parsed = parse_date(item.published)
-        timestamp = int(parsed.timestamp()) if parsed else 0
-        return (timestamp, item.title)
-
-    return sorted(items, key=sort_key, reverse=True)
-
-
-def most_common(values: list[str], limit: int) -> list[str]:
-    counts: dict[str, int] = {}
-    for value in values:
-        counts[value] = counts.get(value, 0) + 1
-    return [
-        value
-        for value, _ in sorted(counts.items(), key=lambda pair: (pair[1], pair[0]), reverse=True)[:limit]
+def story_signature(item: NewsItem) -> str:
+    title = normalize_title(item.title)
+    entities = extract_entities(item)
+    triggers = matched_triggers(item.title)
+    words = [
+        word
+        for word in title.split()
+        if len(word) > 2 and word not in STOPWORDS and not word.isdigit()
     ]
+    if entities:
+        entity_part = "-".join(sorted(entity.lower() for entity in entities[:3]))
+        trigger_part = "-".join(sorted(triggers[:2])) if triggers else ""
+        word_part = "-".join(words[:5])
+        return f"{item.category}|{entity_part}|{trigger_part}|{word_part}"
+
+    return f"{item.category}|{'-'.join(words[:7])}"
 
 
-def trend_observations(items: list[NewsItem], candidates: list[NewsItem]) -> tuple[str, str, str]:
-    focus_items = candidates or items[:20]
-    tech_categories = {"AI", "半導體", "美國科技股", "中國科技"}
-    finance_categories = {"宏觀經濟", "金融市場"}
-    tech_items = [item for item in focus_items if item.category in tech_categories]
-    finance_items = [item for item in focus_items if item.category in finance_categories]
+def merge_stories(items: list[NewsItem]) -> list[Story]:
+    stories_by_key: dict[str, Story] = {}
+    for item in items:
+        key = story_signature(item)
+        stories_by_key.setdefault(key, Story(key=key)).items.append(item)
+    stories = list(stories_by_key.values())
+    return sorted(stories, key=story_score, reverse=True)
 
-    tech_topics = most_common([item.category for item in tech_items], 2)
-    tech_entities = most_common(
-        [entity for item in tech_items for entity in extract_entities(item)],
-        3,
+
+def story_score(story: Story) -> int:
+    main = story.main
+    coverage = len(story.sources)
+    return item_score(main, coverage=coverage)
+
+
+def select_layers(stories: list[Story]) -> tuple[list[Story], list[Story], list[Story]]:
+    a_candidates = [
+        story
+        for story in stories
+        if is_a_level(story)
+    ]
+    a_stories: list[Story] = []
+    used: set[str] = set()
+
+    for story in a_candidates:
+        if story.key not in used:
+            a_stories.append(story)
+            used.add(story.key)
+        if len(a_stories) >= 5:
+            break
+
+    for story in stories:
+        if len(a_stories) >= 3:
+            break
+        if story.key not in used:
+            a_stories.append(story)
+            used.add(story.key)
+
+    b_stories: list[Story] = []
+    for story in stories:
+        if story.key in used:
+            continue
+        b_stories.append(story)
+        used.add(story.key)
+        if len(b_stories) >= 12:
+            break
+
+    c_stories: list[Story] = []
+    for story in stories:
+        if story.key in used:
+            continue
+        c_stories.append(story)
+        used.add(story.key)
+        if len(c_stories) >= 25:
+            break
+
+    return a_stories, b_stories, c_stories
+
+
+def is_a_level(story: Story) -> bool:
+    main = story.main
+    source_is_strong = source_weight(main) >= 35
+    has_core_topic = main.category in {"AI", "半導體", "美國科技股", "宏觀經濟", "金融市場"}
+    has_signal = bool(matched_groups(main) or matched_triggers(main.title))
+    return source_is_strong and has_core_topic and has_signal
+
+
+def subject_of(item: NewsItem) -> str:
+    entities = extract_entities(item)
+    if entities:
+        return "、".join(entities[:3])
+    return item.category
+
+
+def topic_phrase(item: NewsItem) -> str:
+    groups = list(matched_groups(item))
+    if groups:
+        return "、".join(groups[:3])
+    if item.category != "其他":
+        return item.category
+    return "國際財經與科技"
+
+
+def action_phrase(item: NewsItem) -> str:
+    title = item.title.lower()
+    checks = [
+        (["earnings", "revenue", "profit", "margin", "guidance", "forecast"], "更新業績、營收或財測訊號"),
+        (["rate cut", "rate hike", "interest rate", "inflation", "cpi", "gdp", "employment"], "牽涉利率、通膨或經濟數據判讀"),
+        (["investment", "invest", "spending", "capex", "capital expenditure"], "擴大投資或資本開支"),
+        (["launch", "unveil", "release", "introduce"], "推出新產品、服務或技術方案"),
+        (["acquisition", "merger", "m&a", "buyout"], "涉及併購或股權交易"),
+        (["lawsuit", "sues", "court"], "面臨訴訟或法律程序"),
+        (["investigation", "probe", "antitrust"], "面臨監管調查"),
+        (["ban", "restriction", "export control", "tariff"], "涉及禁令、限制或貿易政策"),
+        (["surge", "jump", "rise", "record"], "出現明顯上升或創高訊號"),
+        (["collapse", "plunge", "fall", "drop", "selloff"], "出現急跌或風險重估"),
+        (["warning", "risk", "bubble"], "釋出風險警示"),
+        (["ipo", "listing"], "推進上市或集資安排"),
+    ]
+    for keywords, phrase in checks:
+        if any(keyword_matches(title, keyword) for keyword in keywords):
+            return phrase
+    return {
+        "AI": "調整AI產品、模型或基礎設施布局",
+        "半導體": "影響晶片、設備或供應鏈判讀",
+        "美國科技股": "牽涉大型科技股估值與業務動能",
+        "中國科技": "反映中國科技公司與政策環境變化",
+        "宏觀經濟": "改變市場對政策與景氣的判讀",
+        "金融市場": "影響股債匯商品市場定價",
+    }.get(item.category, "提供國際財經與科技新聞線索")
+
+
+def chinese_title(story: Story) -> str:
+    item = story.main
+    return f"{subject_of(item)}{action_phrase(item)}"
+
+
+def compact_text(value: str) -> str:
+    return re.sub(r"\s+", " ", value).strip()
+
+
+def trim_to_chars(value: str, max_chars: int) -> str:
+    value = compact_text(value)
+    if len(value) <= max_chars:
+        return value
+    return value[: max_chars - 1].rstrip("，。、；： ") + "。"
+
+
+def source_list(story: Story, limit: int = 4) -> str:
+    sources = story.sources[:limit]
+    if len(story.sources) > limit:
+        sources.append(f"另{len(story.sources) - limit}家")
+    return "、".join(sources) if sources else "來源未明"
+
+
+def direct_event_sentence(story: Story) -> str:
+    item = story.main
+    title = strip_source_suffix(item.title)
+    return f"{source_list(story, 3)}報導，{subject_of(item)}{action_phrase(item)}；原始標題核心為「{title}」。"
+
+
+def market_read_sentence(story: Story) -> str:
+    item = story.main
+    coverage = len(story.sources)
+    coverage_text = f"目前至少{coverage}個來源提及同一事件，" if coverage > 1 else ""
+    return (
+        f"{coverage_text}題材落在{topic_phrase(item)}，來源層級為{source_tier(item)}。"
+        f"晨報閱讀重點是事件本身是否改變{subject_of(item)}的收入預期、政策風險、供應鏈安排或資金流向。"
     )
-    finance_topics = most_common([item.category for item in finance_items], 2)
-    finance_entities = most_common(
-        [entity for item in finance_items for entity in extract_entities(item)],
-        3,
-    )
 
-    tech_subject = "、".join(tech_topics or ["AI", "半導體"])
-    tech_names = "、".join(tech_entities)
-    if tech_names:
-        tech = f"{tech_subject}是今日科技主線，{tech_names}相關消息影響算力、產品發布與供應鏈。"
+
+def a_summary(story: Story) -> str:
+    item = story.main
+    links_note = "；若後續有公司文件、監管聲明或管理層說法，可再判斷是否擴大成主文"
+    text = (
+        f"{direct_event_sentence(story)}"
+        f"{market_read_sentence(story)}"
+        f"這條新聞列入A級，是因為它同時連接{topic_phrase(item)}與主要市場定價，並可能改變投資人對"
+        f"{subject_of(item)}的成長、成本、監管或需求假設。"
+        f"短線應看股價、債息、匯率、相關供應鏈或同業反應是否跟隨標題方向移動"
+        f"{links_note}。"
+    )
+    return trim_to_chars(text, 400)
+
+
+def b_summary(story: Story) -> str:
+    item = story.main
+    text = (
+        f"{direct_event_sentence(story)}"
+        f"事件屬於{topic_phrase(item)}，影響範圍較A級局部，但可用來補充"
+        f"{item.category}板塊的公司、政策或市場脈絡。"
+    )
+    return trim_to_chars(text, 150)
+
+
+def c_summary(story: Story) -> str:
+    item = story.main
+    text = f"{subject_of(item)}{action_phrase(item)}，屬{item.category}線索。"
+    return trim_to_chars(text, 50)
+
+
+def render_story(lines: list[str], index: int, story: Story, level: str) -> None:
+    item = story.main
+    links = story_links(story, resolve_google=level in {"A", "B"}, limit=3 if level in {"A", "B"} else 1)
+    lines.append(f"### {index}. {chinese_title(story)}")
+    lines.append("")
+    lines.append(f"- 來源：{source_list(story)}")
+    lines.append(f"- 類別：{item.category}")
+    lines.append(f"- 時間：{item.published}")
+    if level == "A":
+        lines.append(f"- 摘要：{a_summary(story)}")
+    elif level == "B":
+        lines.append(f"- 摘要：{b_summary(story)}")
     else:
-        tech = f"{tech_subject}是今日科技主線，焦點落在算力需求、產品發布與供應鏈調整。"
-
-    finance_subject = "、".join(finance_topics or ["宏觀經濟", "金融市場"])
-    finance_names = "、".join(finance_entities)
-    if finance_names:
-        finance = f"{finance_subject}是今日財經主線，{finance_names}消息影響利率預期與風險偏好。"
-    else:
-        finance = f"{finance_subject}是今日財經主線，利率、通膨、財報與貿易政策影響資金配置。"
-
-    follow_topics = most_common([item.category for item in focus_items if item.category != "其他"], 3)
-    follow = f"未來一週留意：{'、'.join(follow_topics or ['AI', '半導體', '利率'])}，以及財報、監管政策與供應鏈變化。"
-
-    return truncate_text(tech, 100), truncate_text(finance, 100), truncate_text(follow, 100)
+        lines.append(f"- 摘要：{c_summary(story)}")
+    for link_index, link in enumerate(links, 1):
+        label = "連結" if len(links) == 1 else f"連結{link_index}"
+        lines.append(f"- {label}：{link}")
+    lines.append("")
 
 
-def add_full_research_item(lines: list[str], item: NewsItem, coverage_counts: dict[str, int]) -> None:
-    link = resolve_article_link(item.link)
-    lines.extend(
-        [
-            "原文標題：",
-            item.title,
-            "",
-            "中文標題：",
-            chinese_title(item),
-            "",
-            "中文摘要：",
-            chinese_summary(item),
-            "",
-            "為什麼重要：",
-            why_important(item, coverage_counts),
-            "",
-            "可否成稿：",
-            story_potential(item, coverage_counts),
-            "",
-            "建議角度：",
-            suggested_angle(item),
-            "",
-            "可能影響：",
-        ]
-    )
-    lines.extend(f"- {impact}" for impact in possible_impacts(item))
-    lines.extend(["", "建議追蹤："])
-    lines.extend(f"- {follow_up}" for follow_up in follow_up_items(item))
-    lines.extend(["", "原文連結：", link, "", "---", ""])
-
-
-def add_category_item(lines: list[str], item: NewsItem) -> None:
-    link = resolve_article_link(item.link)
-    lines.extend(
-        [
-            f"- 中文標題：{chinese_title(item)}（來源：{item.source}）",
-            f"  - 中文摘要：{chinese_summary(item)}；原文連結：{link}",
-        ]
-    )
-
-
-def render_markdown(
-    items: list[NewsItem],
-    errors: list[str],
-    max_per_category: int,
-    top_items: list[NewsItem],
-    coverage_counts: dict[str, int],
-) -> str:
+def render_markdown(stories: list[Story], errors: list[str]) -> str:
     today = local_now().strftime("%Y-%m-%d")
+    a_stories, b_stories, c_stories = select_layers(stories)
+
     lines = [
         f"# Daily Research Brief - {today}",
         "",
-        "## 今日最值得追蹤（Top 10）",
+        "分層式市場晨報",
+        "",
+        f"生成時間：{local_now().strftime('%Y-%m-%d %H:%M')}（香港／台灣時間）",
+        "",
+        "## A級新聞",
         "",
     ]
 
-    if not top_items:
-        lines.extend(["今日暫無符合條件的重要新聞。", ""])
+    if not a_stories:
+        lines.append("今日沒有足夠A級新聞。")
+        lines.append("")
     else:
-        for item in top_items[:10]:
-            add_full_research_item(lines, item, coverage_counts)
+        for index, story in enumerate(a_stories, 1):
+            render_story(lines, index, story, "A")
 
-    for category in CATEGORY_KEYWORDS:
-        category_items = sorted(
-            [item for item in items if item.category == category],
-            key=lambda item: (importance_score(item, coverage_counts), source_weight(item), item.published),
-            reverse=True,
-        )[:max_per_category]
-        lines.append(f"## {category}")
+    lines.extend(["## B級新聞", ""])
+    if not b_stories:
+        lines.append("今日沒有足夠B級新聞。")
         lines.append("")
-        if not category_items:
-            lines.append("- 今日暫無明顯相關新聞。")
-        else:
-            for item in category_items:
-                add_category_item(lines, item)
+    else:
+        for index, story in enumerate(b_stories, 1):
+            render_story(lines, index, story, "B")
+
+    lines.extend(["## C級新聞", ""])
+    if not c_stories:
+        lines.append("今日沒有足夠C級新聞。")
         lines.append("")
+    else:
+        for index, story in enumerate(c_stories, 1):
+            render_story(lines, index, story, "C")
 
     if errors:
-        lines.extend(["## 抓取提醒", ""])
+        lines.extend(["## 抓取狀態", ""])
         for error in errors:
             lines.append(f"- {error}")
         lines.append("")
 
-    tech_trend, finance_trend, follow_trend = trend_observations(items, top_items)
-    lines.extend([
-        "# 今日趨勢觀察",
-        "",
-        "1. 今日最重要科技趨勢",
-        tech_trend,
-        "",
-        "2. 今日最重要財經趨勢",
-        finance_trend,
-        "",
-        "3. 值得未來一週追蹤的主題",
-        follow_trend,
-        "",
-    ])
     return "\n".join(lines)
 
 
-def main() -> int:
-    parser = argparse.ArgumentParser(description="抓取 RSS 新聞並產生 daily_brief.md")
-    parser.add_argument("--feeds", type=Path, default=DEFAULT_FEEDS_FILE, help="RSS 清單檔案")
-    parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT_FILE, help="輸出 Markdown 檔案")
-    parser.add_argument("--candidates-output", type=Path, default=DEFAULT_CANDIDATES_FILE, help="重要新聞研究分析輸出檔案")
-    parser.add_argument("--max-per-category", type=int, default=5, help="每個分類最多輸出幾則")
-    parser.add_argument("--max-candidates", type=int, default=20, help="重要新聞最多輸出幾則")
-    args = parser.parse_args()
+def render_ai_candidates(stories: list[Story], max_candidates: int) -> str:
+    today = local_now().strftime("%Y-%m-%d")
+    a_stories, b_stories, _ = select_layers(stories)
+    candidates = (a_stories + b_stories)[:max_candidates]
 
-    if not args.feeds.exists():
-        print(f"找不到 RSS 清單：{args.feeds}", file=sys.stderr)
-        return 1
+    lines = [
+        f"# 分層式選題池 - {today}",
+        "",
+        "以下新聞由RSS標題、來源權重、關鍵公司、政策與市場風險訊號自動篩選；未使用OpenAI API。",
+        "",
+    ]
 
-    feeds = read_feeds(args.feeds)
+    if not candidates:
+        lines.append("今日沒有足夠候選新聞。")
+        return "\n".join(lines)
+
+    for index, story in enumerate(candidates, 1):
+        item = story.main
+        level = "A" if story in a_stories else "B"
+        summary = a_summary(story) if level == "A" else b_summary(story)
+        lines.extend(
+            [
+                f"## {index}. {level}級｜{chinese_title(story)}",
+                "",
+                f"來源：{source_list(story)}",
+                f"類別：{item.category}",
+                f"摘要：{summary}",
+            ]
+        )
+        links = story_links(story, resolve_google=True, limit=1)
+        if links:
+            lines.append(f"連結：{links[0]}")
+        lines.append("")
+
+    return "\n".join(lines)
+
+
+def fetch_all_items(feeds: list[Feed]) -> tuple[list[dict[str, str]], list[str]]:
     raw_items: list[dict[str, str]] = []
     errors: list[str] = []
-
     for feed in feeds:
         try:
             raw_items.extend(parse_feed(fetch_xml(feed.url), feed))
         except (urllib.error.URLError, TimeoutError, ET.ParseError, ValueError) as exc:
             errors.append(f"{feed.name} 抓取失敗：{exc}")
+    return raw_items, errors
 
-    coverage_counts = build_coverage_counts(raw_items)
-    items = sort_items(deduplicate(raw_items))
-    candidates = select_important_news(items, coverage_counts, args.max_candidates)
-    args.output.write_text(
-        render_markdown(items, errors, args.max_per_category, candidates[:10], coverage_counts),
-        encoding="utf-8",
-    )
-    args.candidates_output.write_text(
-        render_ai_candidates(candidates, coverage_counts, args.max_candidates),
-        encoding="utf-8",
-    )
-    print(f"已輸出 {args.output}，共 {len(items)} 則新聞。")
-    print(f"已輸出 {args.candidates_output}，共 {len(candidates)} 則重要新聞。")
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description="抓取RSS並產生分層式市場晨報")
+    parser.add_argument("--feeds", type=Path, default=DEFAULT_FEEDS_FILE, help="RSS來源檔案")
+    parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT_FILE, help="每日晨報輸出檔案")
+    parser.add_argument("--candidates-output", type=Path, default=DEFAULT_CANDIDATES_FILE, help="候選新聞輸出檔案")
+    parser.add_argument("--max-candidates", type=int, default=20, help="候選新聞最多輸出數量")
+    parser.add_argument("--max-per-category", type=int, default=5, help="保留舊參數相容；分層式晨報不使用此設定")
+    args = parser.parse_args()
+
+    if not args.feeds.exists():
+        print(f"找不到RSS來源檔案：{args.feeds}", file=sys.stderr)
+        return 1
+
+    feeds = read_feeds(args.feeds)
+    raw_items, errors = fetch_all_items(feeds)
+    items = deduplicate(raw_items)
+    stories = merge_stories(items)
+
+    args.output.write_text(render_markdown(stories, errors), encoding="utf-8")
+    args.candidates_output.write_text(render_ai_candidates(stories, args.max_candidates), encoding="utf-8")
+
+    print(f"已產生 {args.output}，合併後共 {len(stories)} 條新聞。")
+    print(f"已產生 {args.candidates_output}。")
     if errors:
-        print(f"有 {len(errors)} 個來源抓取失敗，詳見輸出檔的「抓取提醒」。")
+        print(f"有 {len(errors)} 個RSS來源抓取失敗，詳情已寫入晨報。")
     return 0
 
 
