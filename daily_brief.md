@@ -1,44 +1,21 @@
-# Daily Research Brief - 2026-06-23
+# Daily Research Brief - 2026-06-24
 
 分層式市場晨報
 
-生成時間：2026-06-23 15:47（香港／台灣時間）
+生成時間：2026-06-24 07:34（香港／台灣時間）
 
 ## A級新聞
 
-### 1. OpenAI、Gemini、Google調整AI產品、模型或基礎設施布局
+### 1. 金融市場更新業績、營收或財測訊號
 
-- 來源：Tech
-- 類別：AI
-- 時間：2026-06-18 11:21
-- 摘要：Tech報導，OpenAI、Gemini、Google調整AI產品、模型或基礎設施布局；原始標題核心為「Google Gemini co-lead Noam Shazeer leaves for OpenAI」。題材落在AI、大型科技，來源層級為高權重。晨報閱讀重點是事件本身是否改變OpenAI、Gemini、Google的收入預期、政策風險、供應鏈安排或資金流向。這條新聞列入A級，是因為它同時連接AI、大型科技與主要市場定價，並可能改變投資人對OpenAI、Gemini、Google的成長、成本、監管或需求假設。短線應看股價、債息、匯率、相關供應鏈或同業反應是否跟隨標題方向移動；若後續有公司文件、監管聲明或管理層說法，可再判斷是否擴大成主文。
-- 連結：https://www.cnbc.com/2026/06/18/google-gemini-co-lead-noam-shazeer-leaves-for-openai.html
+- 來源：US Top News and Analysis、CNBC
+- 類別：金融市場
+- 時間：2026-06-24 06:11
+- 摘要：US Top News and Analysis、CNBC報導，金融市場更新業績、營收或財測訊號；原始標題核心為「Cerebras falls 10% after chipmaker forecasts shrinking margin in first earnings report since IPO」。目前至少2個來源提及同一事件，題材落在市場風險，來源層級為高權重。晨報閱讀重點是事件本身是否改變金融市場的收入預期、政策風險、供應鏈安排或資金流向。這條新聞列入A級，是因為它同時連接市場風險與主要市場定價，並可能改變投資人對金融市場的成長、成本、監管或需求假設。短線應看股價、債息、匯率、相關供應鏈或同業反應是否跟隨標題方向移動；若後續有公司文件、監管聲明或管理層說法，可再判斷是否擴大成主文。
+- 連結1：https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html
+- 連結2：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
 
-### 2. OpenAI、ChatGPT推進上市或集資安排
-
-- 來源：Financial Times
-- 類別：AI
-- 時間：2026-06-23 12:03
-- 摘要：Financial Times報導，OpenAI、ChatGPT推進上市或集資安排；原始標題核心為「OpenAI pitches ChatGPT ads to Cannes marketers ahead of IPO」。題材落在AI、市場風險，來源層級為高權重。晨報閱讀重點是事件本身是否改變OpenAI、ChatGPT的收入預期、政策風險、供應鏈安排或資金流向。這條新聞列入A級，是因為它同時連接AI、市場風險與主要市場定價，並可能改變投資人對OpenAI、ChatGPT的成長、成本、監管或需求假設。短線應看股價、債息、匯率、相關供應鏈或同業反應是否跟隨標題方向移動；若後續有公司文件、監管聲明或管理層說法，可再判斷是否擴大成主文。
-- 連結：https://news.google.com/rss/articles/CBMicEFVX3lxTFBJdVFPRlRBTkNoTkdJT0YySFpySXd3eFZVYVB1akdsbnFsdlJCU2xEbzloX3BsdngtQ0xnRzIyME1EQlpfc1ZITXVPRGhTV0xRZFBCeVRzYVpIblRoTHRlZmc3VFlwYm9vUm5iVzdNTXM?oc=5
-
-### 3. Anthropic、Micron調整AI產品、模型或基礎設施布局
-
-- 來源：Reuters
-- 類別：AI
-- 時間：2026-06-23 04:20
-- 摘要：Reuters報導，Anthropic、Micron調整AI產品、模型或基礎設施布局；原始標題核心為「Micron, Anthropic sign AI infrastructure supply agreement」。題材落在AI、半導體，來源層級為高權重。晨報閱讀重點是事件本身是否改變Anthropic、Micron的收入預期、政策風險、供應鏈安排或資金流向。這條新聞列入A級，是因為它同時連接AI、半導體與主要市場定價，並可能改變投資人對Anthropic、Micron的成長、成本、監管或需求假設。短線應看股價、債息、匯率、相關供應鏈或同業反應是否跟隨標題方向移動；若後續有公司文件、監管聲明或管理層說法，可再判斷是否擴大成主文。
-- 連結：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
-
-### 4. Intel、Apple影響晶片、設備或供應鏈判讀
-
-- 來源：Tech
-- 類別：半導體
-- 時間：2026-06-19 00:51
-- 摘要：Tech報導，Intel、Apple影響晶片、設備或供應鏈判讀；原始標題核心為「Intel gains 10% after Trump says company will partner with Apple on U.S. chip design」。題材落在半導體、大型科技，來源層級為高權重。晨報閱讀重點是事件本身是否改變Intel、Apple的收入預期、政策風險、供應鏈安排或資金流向。這條新聞列入A級，是因為它同時連接半導體、大型科技與主要市場定價，並可能改變投資人對Intel、Apple的成長、成本、監管或需求假設。短線應看股價、債息、匯率、相關供應鏈或同業反應是否跟隨標題方向移動；若後續有公司文件、監管聲明或管理層說法，可再判斷是否擴大成主文。
-- 連結：https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html
-
-### 5. Tencent、中國調整AI產品、模型或基礎設施布局
+### 2. Tencent、中國調整AI產品、模型或基礎設施布局
 
 - 來源：Tech
 - 類別：AI
@@ -46,71 +23,95 @@
 - 摘要：Tech報導，Tencent、中國調整AI產品、模型或基礎設施布局；原始標題核心為「Tencent tests AI assistant in China's most popular app as it looks to catch up with rivals」。題材落在AI、市場風險，來源層級為高權重。晨報閱讀重點是事件本身是否改變Tencent、中國的收入預期、政策風險、供應鏈安排或資金流向。這條新聞列入A級，是因為它同時連接AI、市場風險與主要市場定價，並可能改變投資人對Tencent、中國的成長、成本、監管或需求假設。短線應看股價、債息、匯率、相關供應鏈或同業反應是否跟隨標題方向移動；若後續有公司文件、監管聲明或管理層說法，可再判斷是否擴大成主文。
 - 連結：https://www.cnbc.com/2026/06/22/tencent-ai-assistant-wechat-china.html
 
-## B級新聞
-
-### 1. Meta擴大投資或資本開支
-
-- 來源：Bloomberg
-- 類別：美國科技股
-- 時間：2026-06-22 21:00
-- 摘要：Bloomberg報導，Meta擴大投資或資本開支；原始標題核心為「Meta Taps New WhatsApp Boss as Part of $900 Million Investment」。事件屬於大型科技，影響範圍較A級局部，但可用來補充美國科技股板塊的公司、政策或市場脈絡。
-- 連結：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
-
-### 2. Qualcomm調整AI產品、模型或基礎設施布局
+### 3. Meta調整AI產品、模型或基礎設施布局
 
 - 來源：Reuters
 - 類別：AI
-- 時間：2026-06-23 06:28
-- 摘要：Reuters報導，Qualcomm調整AI產品、模型或基礎設施布局；原始標題核心為「Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports」。事件屬於AI、半導體，影響範圍較A級局部，但可用來補充AI板塊。
+- 時間：2026-06-24 00:28
+- 摘要：Reuters報導，Meta調整AI產品、模型或基礎設施布局；原始標題核心為「Meta launches cheaper range of AI smart glasses starting at $299」。題材落在AI、大型科技，來源層級為高權重。晨報閱讀重點是事件本身是否改變Meta的收入預期、政策風險、供應鏈安排或資金流向。這條新聞列入A級，是因為它同時連接AI、大型科技與主要市場定價，並可能改變投資人對Meta的成長、成本、監管或需求假設。短線應看股價、債息、匯率、相關供應鏈或同業反應是否跟隨標題方向移動；若後續有公司文件、監管聲明或管理層說法，可再判斷是否擴大成主文。
 - 連結：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
 
-### 3. Alphabet調整AI產品、模型或基礎設施布局
+### 4. Google調整AI產品、模型或基礎設施布局
 
 - 來源：CNBC
 - 類別：AI
-- 時間：2026-06-23 00:16
-- 摘要：CNBC報導，Alphabet調整AI產品、模型或基礎設施布局；原始標題核心為「Alphabet has its worst day in over a year on AI concerns after high-profile exits」。事件屬於AI、大型科技，影響範圍較A級局部，但可用來。
+- 時間：2026-06-23 20:00
+- 摘要：CNBC報導，Google調整AI產品、模型或基礎設施布局；原始標題核心為「Google’s online dominance is showing signs of cracking in AI era」。題材落在AI、大型科技，來源層級為高權重。晨報閱讀重點是事件本身是否改變Google的收入預期、政策風險、供應鏈安排或資金流向。這條新聞列入A級，是因為它同時連接AI、大型科技與主要市場定價，並可能改變投資人對Google的成長、成本、監管或需求假設。短線應看股價、債息、匯率、相關供應鏈或同業反應是否跟隨標題方向移動；若後續有公司文件、監管聲明或管理層說法，可再判斷是否擴大成主文。
 - 連結：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
 
-### 4. Qualcomm調整AI產品、模型或基礎設施布局
-
-- 來源：Bloomberg
-- 類別：AI
-- 時間：2026-06-23 05:03
-- 摘要：Bloomberg報導，Qualcomm調整AI產品、模型或基礎設施布局；原始標題核心為「Qualcomm Nears Deal for AI Chip Startup Modular」。事件屬於AI、半導體，影響範圍較A級局部，但可用來補充AI板塊的公司、政策或市場脈絡。
-- 連結：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
-
-### 5. Google調整AI產品、模型或基礎設施布局
+### 5. Microsoft調整AI產品、模型或基礎設施布局
 
 - 來源：WSJ
 - 類別：AI
-- 時間：2026-06-22 22:00
-- 摘要：WSJ報導，Google調整AI產品、模型或基礎設施布局；原始標題核心為「Exclusive | Google Investing in ‘Backrooms’ Studio A24 as Part of New AI Research Partnership」。事件屬於AI、大型科技，影響範圍較。
+- 時間：2026-06-24 06:26
+- 摘要：WSJ報導，Microsoft調整AI產品、模型或基礎設施布局；原始標題核心為「Exclusive | Microsoft’s Satya Nadella: We Can’t Let AI Giants Eat the Economy」。題材落在AI、大型科技，來源層級為高權重。晨報閱讀重點是事件本身是否改變Microsoft的收入預期、政策風險、供應鏈安排或資金流向。這條新聞列入A級，是因為它同時連接AI、大型科技與主要市場定價，並可能改變投資人對Microsoft的成長、成本、監管或需求假設。短線應看股價、債息、匯率、相關供應鏈或同業反應是否跟隨標題方向移動；若後續有公司文件、監管聲明或管理層說法，可再判斷是否擴大成主文。
 - 連結：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
 
-### 6. Alphabet出現急跌或風險重估
+## B級新聞
+
+### 1. NVIDIA、AMD、Micron影響晶片、設備或供應鏈判讀
+
+- 來源：Yahoo Finance
+- 類別：半導體
+- 時間：2026-06-24 04:03
+- 摘要：Yahoo Finance報導，NVIDIA、AMD、Micron影響晶片、設備或供應鏈判讀；原始標題核心為「Nvidia, Micron, AMD lead tech sell-off as AI trade cools」。事件屬於AI、半導體、市場風險，影響範圍較A級局部，但可用來補充半導體板。
+- 連結：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
+
+### 2. NVIDIA、AMD、Intel出現急跌或風險重估
+
+- 來源：Yahoo Finance
+- 類別：半導體
+- 時間：2026-06-24 01:23
+- 摘要：Yahoo Finance報導，NVIDIA、AMD、Intel出現急跌或風險重估；原始標題核心為「AMD and Intel Drop 5%, NVIDIA Slips 3% Amid Korean-Led Chip Selloff Bulls Say Is “Healthy”」。事件屬於半導體。
+- 連結：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
+
+### 3. Meta出現明顯上升或創高訊號
+
+- 來源：Reuters
+- 類別：AI
+- 時間：2026-06-24 07:03
+- 摘要：Reuters報導，Meta出現明顯上升或創高訊號；原始標題核心為「US presses Meta to agree to AI reviews as security concerns rise, NYT reports」。事件屬於AI、大型科技，影響範圍較A級局部，但可用來補充AI板塊的公司。
+- 連結：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
+
+### 4. Anthropic面臨訴訟或法律程序
 
 - 來源：Bloomberg
 - 類別：AI
-- 時間：2026-06-23 03:35
-- 摘要：Bloomberg報導，Alphabet出現急跌或風險重估；原始標題核心為「Alphabet Shares Drop After Second AI Star Departs for a Rival」。事件屬於AI、大型科技，影響範圍較A級局部，但可用來補充AI板塊的公司、政策或市場脈絡。
+- 時間：2026-06-24 07:09
+- 摘要：Bloomberg報導，Anthropic面臨訴訟或法律程序；原始標題核心為「Anthropic Customer Sues US Over Losing Access to Fable AI Model」。事件屬於AI，影響範圍較A級局部，但可用來補充AI板塊的公司、政策或市場脈絡。
 - 連結：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
 
-### 7. NVIDIA影響晶片、設備或供應鏈判讀
+### 5. NVIDIA調整AI產品、模型或基礎設施布局
 
-- 來源：CNBC
-- 類別：半導體
-- 時間：2026-06-23 03:08
-- 摘要：CNBC報導，NVIDIA影響晶片、設備或供應鏈判讀；原始標題核心為「Nvidia's stock struggles as Kalshi traders bet chip prices are coming down」。事件屬於半導體，影響範圍較A級局部，但可用來補充半導體板塊的公司、政策或市場。
+- 來源：Reuters
+- 類別：AI
+- 時間：2026-06-23 23:25
+- 摘要：Reuters報導，NVIDIA調整AI產品、模型或基礎設施布局；原始標題核心為「Nvidia sued by music company Jamendo over AI training」。事件屬於AI、半導體，影響範圍較A級局部，但可用來補充AI板塊的公司、政策或市場脈絡。
 - 連結：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
 
-### 8. Amazon調整AI產品、模型或基礎設施布局
+### 6. Alphabet調整AI產品、模型或基礎設施布局
+
+- 來源：Tech
+- 類別：AI
+- 時間：2026-06-23 05:04
+- 摘要：Tech報導，Alphabet調整AI產品、模型或基礎設施布局；原始標題核心為「Alphabet has its worst day in over a year on AI concerns after high-profile exits」。事件屬於AI、大型科技，影響範圍較A級局部，但可用來。
+- 連結：https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html
+
+### 7. Amazon調整AI產品、模型或基礎設施布局
 
 - 來源：Tech
 - 類別：AI
 - 時間：2026-06-19 03:47
 - 摘要：Tech報導，Amazon調整AI產品、模型或基礎設施布局；原始標題核心為「Amazon investigating engineers who criticized AI data center expansion」。事件屬於AI、大型科技，影響範圍較A級局部，但可用來補充AI板塊的公司、政策或。
 - 連結：https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html
+
+### 8. 半導體出現急跌或風險重估
+
+- 來源：Reuters、Investing.com
+- 類別：半導體
+- 時間：2026-06-24 05:18
+- 摘要：Reuters、Investing.com報導，半導體出現急跌或風險重估；原始標題核心為「Chip stocks plunge, but bargain-hunters limit scale of tech rout」。事件屬於半導體，影響範圍較A級局部，但可用來補充半導體板塊的公司、政策或市場。
+- 連結：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
 
 ### 9. Microsoft、Google牽涉大型科技股估值與業務動能
 
@@ -120,33 +121,65 @@
 - 摘要：AI | VentureBeat報導，Microsoft、Google牽涉大型科技股估值與業務動能；原始標題核心為「Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace。
 - 連結：https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and
 
-### 10. AI面臨訴訟或法律程序
+### 10. AI擴大投資或資本開支
 
 - 來源：Reuters
 - 類別：AI
-- 時間：2026-06-23 05:07
-- 摘要：Reuters報導，AI面臨訴訟或法律程序；原始標題核心為「Workday must face California lawsuit over AI bias in job screening tools」。事件屬於AI，影響範圍較A級局部，但可用來補充AI板塊的公司、政策或市場脈絡。
+- 時間：2026-06-24 07:03
+- 摘要：Reuters報導，AI擴大投資或資本開支；原始標題核心為「Wall Street ends lower on semiconductor selloff as AI spending concerns mount」。事件屬於AI、半導體，影響範圍較A級局部，但可用來補充AI板塊的公司、政策或市場。
 - 連結：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
 
-### 11. AI出現明顯上升或創高訊號
+### 11. 金融市場更新業績、營收或財測訊號
 
-- 來源：Reuters
-- 類別：AI
-- 時間：2026-06-23 10:06
-- 摘要：Reuters報導，AI出現明顯上升或創高訊號；原始標題核心為「AI startup Baseten hits $13 billion valuation as Australia's Blackbird makes record bet」。事件屬於AI，影響範圍較A級局部，但可用來補充AI板塊的。
-- 連結：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
-
-### 12. 金融市場出現明顯上升或創高訊號
-
-- 來源：US Top News and Analysis
+- 來源：CNBC
 - 類別：金融市場
-- 時間：2026-06-23 04:33
-- 摘要：US Top News and Analysis報導，金融市場出現明顯上升或創高訊號；原始標題核心為「SpaceX kicks off bond sale days after record IPO, discloses over $100 billion cash pile」。事件屬於市場風險。
-- 連結：https://www.cnbc.com/2026/06/22/spacex-spcx-bond-sale-ipo.html
+- 時間：2026-06-24 04:10
+- 摘要：CNBC報導，金融市場更新業績、營收或財測訊號；原始標題核心為「FedEx posts strong earnings results in last quarter with freight business」。事件屬於市場風險，影響範圍較A級局部，但可用來補充金融市場板塊的公司、政策或市場脈絡。
+- 連結：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
+
+### 12. AI釋出風險警示
+
+- 來源：Bloomberg
+- 類別：AI
+- 時間：2026-06-24 07:25
+- 摘要：Bloomberg報導，AI釋出風險警示；原始標題核心為「Wall Street ‘Chip-Wreck’ Triggers AI Bubble Fear: Evening Briefing Americas」。事件屬於AI、半導體，影響範圍較A級局部，但可用來補充AI板塊的公司、政策或市場脈絡。
+- 連結：https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i
 
 ## C級新聞
 
-### 1. 宏觀經濟牽涉利率、通膨或經濟數據判讀
+### 1. AI出現急跌或風險重估
+
+- 來源：Bloomberg
+- 類別：AI
+- 時間：2026-06-24 06:06
+- 摘要：AI出現急跌或風險重估，屬AI線索。
+- 連結：https://news.google.com/rss/articles/CBMiswFBVV95cUxNSHhfdklnb3R1SFphTHdDcjVHNVZjb3M5bWx1elZLUVBJRHhCVzFiWFIyWVd1azFNUGE4bWNGWUtRWFFZTU1aX2JNaFdKOTJFTW9SbkxkTHhKOUlXcnJERjU1US1Yb3k3SnVBUUYyWWU3U041eDVOOUVpUFRWRGhLSXBsOVg0WGNHUGxVSEpfRG5peGZLTnJVWWdFUTc3bE9ESjdZdnpiQ0pmWmRsaFV1YTdabw?oc=5
+
+### 2. AI出現急跌或風險重估
+
+- 來源：Bloomberg
+- 類別：AI
+- 時間：2026-06-24 05:38
+- 摘要：AI出現急跌或風險重估，屬AI線索。
+- 連結：https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE9MMXc5c0dsR0Jja0hCekpna1M2YUZEUGFMQV95T0RrdHhRMHVvRkpsYmhwNFc3d0tONWFLY0hZazZzNTBhNlVJYS03V2p6X0d2NG15cHJ2dFVxeDFmQ0RxSHBjMGh5eldqRjBWR19lc01WaUdwVllSZU9udWpHSlFNNkpkTnNXeDF1ck9pcThnRzBDNW5CWHo4bWRXY250UGkxV201UmZGTjgyb2dDZG5qS1M2RzVKZDN3ZU1n?oc=5
+
+### 3. AI出現急跌或風險重估
+
+- 來源：Bloomberg
+- 類別：AI
+- 時間：2026-06-24 04:15
+- 摘要：AI出現急跌或風險重估，屬AI線索。
+- 連結：https://news.google.com/rss/articles/CBMisgFBVV95cUxOakU3QUJ1T2pTNXFIdndTQkhxRXljS0VFZXllTnBMLS1qR2p0U2Q5cjhTNVd2UmMwYjVZdjRqSWluTFZGUF9ONDI5STVnZGhCalROajc0ZkFkOFB5WkRIckZxU0FZUUpxRWdsV2VIaXFXY18teFNJNzFuU3ozZWprTGZ0WFRQN0Q2R1kyNGJabVFNbFAtbkplUnMyVE1XNEV5dFNmN04wb3R3NE9kbXNHVUVB?oc=5
+
+### 4. 金融市場出現明顯上升或創高訊號
+
+- 來源：Tech
+- 類別：金融市場
+- 時間：2026-06-23 04:33
+- 摘要：金融市場出現明顯上升或創高訊號，屬金融市場線索。
+- 連結：https://www.cnbc.com/2026/06/22/spacex-spcx-bond-sale-ipo.html
+
+### 5. 宏觀經濟牽涉利率、通膨或經濟數據判讀
 
 - 來源：Tech
 - 類別：宏觀經濟
@@ -154,159 +187,95 @@
 - 摘要：宏觀經濟牽涉利率、通膨或經濟數據判讀，屬宏觀經濟線索。
 - 連結：https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html
 
-### 2. Fed改變市場對政策與景氣的判讀
-
-- 來源：Reuters
-- 類別：宏觀經濟
-- 時間：2026-06-23 06:17
-- 摘要：Fed改變市場對政策與景氣的判讀，屬宏觀經濟線索。
-- 連結：https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHBXVTFXSXh5c3hmUjVJU2dudDdxNGFvWXFFLTJ2MWpwbV9MZ3NqZmoyZVJTWDc2NkI1bEJsTDItb3JnWVJPdFdiVDZubXZtV01ER0NxSzdnd0I5dnh4SzZ5NXJjRXdhRHdtSHFlb0FMZDROeGlWdDFwRDdVS29ac3JsSTRLT2c4RzhtN1dsLXdobGFpZ3p3NXdRMVl0Mmx2a0hPQXFlci1Pa3pCS0M3WmgwaklNX1FDS2dSNDVQZEx6YlU?oc=5
-
-### 3. Fed改變市場對政策與景氣的判讀
-
-- 來源：Reuters
-- 類別：宏觀經濟
-- 時間：2026-06-23 09:30
-- 摘要：Fed改變市場對政策與景氣的判讀，屬宏觀經濟線索。
-- 連結：https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmhDU00zNnJxQ0g3SWFxOFJ0RVlnTl8tSHl2cS1sRS16eTJtVmxHOU15dkRqR2NKU3BRMUZtTEx1RjFzSVFwRzRWVFpQdnNBU1VwMDM5RFpBTU1HRzJiV2tFUXhvdGRSenhPcTVVVldGV2pDd0lEZms2UVMwUmE4RzJLYnhJYWloLVJUNA?oc=5
-
-### 4. OpenAI調整AI產品、模型或基礎設施布局
-
-- 來源：Bloomberg
-- 類別：AI
-- 時間：2026-06-22 17:31
-- 摘要：OpenAI調整AI產品、模型或基礎設施布局，屬AI線索。
-- 連結：https://news.google.com/rss/articles/CBMirAFBVV95cUxQRFVMOFVKWEVZOWdxa3BGckJpSC1uODdteFdmdHZSZVc3RjgxU2lfSHh3SmpZR0x4bU9UNG1oTWFJMll0N0lCMVUxeXlJVkRHRk9jcXhJT2x5NHNaU2J4Rk1jR1JDb2o0MDNvM0RHdHVKRmFteVNPaWNJc3hGMG1SRW5MYWhJMTZzLXRpY1NBcjljbzY3a3pCdER2bExjOEw0czJiRXBaZWtTeXhr?oc=5
-
-### 5. Oracle調整AI產品、模型或基礎設施布局
+### 6. Oracle調整AI產品、模型或基礎設施布局
 
 - 來源：WSJ
 - 類別：AI
-- 時間：2026-06-23 14:19
+- 時間：2026-06-23 18:40
 - 摘要：Oracle調整AI產品、模型或基礎設施布局，屬AI線索。
 - 連結：https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0JFTG9SOEstT0NWbUQwd3BkTmJXQ2FWNjQ3ZGdzQmFXZVU4QnNmX2NuUC1HRkM3VlU2R3k5Sm9mc1BBeDZiNkJwVFdicDdfUjFLQlJuRjhVMzdrd2dodVQ1Nm9rRTExNjVWU0tYLVVOQ0xzRlRyWjlKTzlqVThXZ2ppaXJ3WUxjUWI4TGZoYUxHcWFKbkxIZXFmb0dHSU8wRW9j?oc=5
 
-### 6. OpenAI調整AI產品、模型或基礎設施布局
-
-- 來源：WSJ
-- 類別：AI
-- 時間：2026-06-23 09:00
-- 摘要：OpenAI調整AI產品、模型或基礎設施布局，屬AI線索。
-- 連結：https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekpQM2hnMVdBaFJUdXNyY0ZDZjJyYmllcmtIVEJvXzViSE5OSVFvUXREYTY2RzFReGRVa3IybFZvZ3ZNR2lxZU9nYVc2ZUEyRkMwTzFKZVNwaG9VZ29pcy10NVc4NXJ1UTI4XzdIZVgybDdsR1pIajQ4dDd1NXJJSE85MVg3d1lTVGtWNzhjM2oyNV8xbnNEdHpNbDZBSkpiMW8xLXdJcFI?oc=5
-
-### 7. Oracle調整AI產品、模型或基礎設施布局
-
-- 來源：Reuters
-- 類別：AI
-- 時間：2026-06-23 07:22
-- 摘要：Oracle調整AI產品、模型或基礎設施布局，屬AI線索。
-- 連結：https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0xZSHdqTkZTenRqaEM4VEFGbmRPYndlel94bldUTXlFUHJnZV9BRHFja0QyZThTV1JrbFJLNFZiaDZubnBGMWlmUEZJd3p1eTI5dkRialdHUmNpZkctdWxRVGJCLUlIaVlGZXpXeDRYWm1ucE9xbENVcWRINTBacU5oanJ5SGZZQm9rd3FHWkFzOXBvdUFQWDFPNA?oc=5
-
-### 8. Oracle調整AI產品、模型或基礎設施布局
-
-- 來源：Bloomberg
-- 類別：AI
-- 時間：2026-06-23 06:00
-- 摘要：Oracle調整AI產品、模型或基礎設施布局，屬AI線索。
-- 連結：https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMm9CblE0Rkl2MFBzUVZKSjV2RnpSdU5wYTBJelpaUjBUbVpEN2p3QlhjRl95UmY2U3FMaEZuWV94cllGcElDT0RBWUVWREdLeUhQUG5UTV9kWElvcjRlVzVjZDdKaDBIWWxtWDRVQzQxbHFfVndHOFBqZW56NzhNRDBnNjRDalJVOC1TRUtHOEJfQnhOQ1hPVkhvbmYtZS10VGFBV0V6MGF1UQ?oc=5
-
-### 9. OpenAI調整AI產品、模型或基礎設施布局
-
-- 來源：Financial Times
-- 類別：AI
-- 時間：2026-06-23 12:01
-- 摘要：OpenAI調整AI產品、模型或基礎設施布局，屬AI線索。
-- 連結：https://news.google.com/rss/articles/CBMihAFBVV95cUxPcnk0anllbGtJRVhSOGxXQndMeWVlN0xkTkRSYm5ZN1ZGWDQxWWRSdDQ4UExGeWVaS25BQk4tQU9jOXlQVnA0c0MtR19LNkp4RWtsdHA3TDVvVm5ycmRSMnYtbUxhSUpPYzIyeGtOdlJxQlUyYm9Fc1NycE9aNzZYb0daRi0?oc=5
-
-### 10. NVIDIA影響晶片、設備或供應鏈判讀
-
-- 來源：Financial Times
-- 類別：半導體
-- 時間：2026-06-23 12:01
-- 摘要：NVIDIA影響晶片、設備或供應鏈判讀，屬半導體線索。
-- 連結：https://news.google.com/rss/articles/CBMihAFBVV95cUxPd2hyMlFMRnk0YVZocDNRdWY4TTd5cTBESzREQXZ1U25rNzNVVlJZWGFTaU55dmZzWjliMUFBUUVzWWlZT3I1T0o5eHY1ajM3RmxPTWVIaE40aDgwLXFXcjFCNnlWRUNyV3NRWnZ2WE5qcElWX0hfSkRYLUFpLXFxYmV0SVg?oc=5
-
-### 11. NVIDIA影響晶片、設備或供應鏈判讀
-
-- 來源：Bloomberg
-- 類別：半導體
-- 時間：2026-06-22 23:29
-- 摘要：NVIDIA影響晶片、設備或供應鏈判讀，屬半導體線索。
-- 連結：https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2dwLUVoWkthbmd3SU1VQzFkVkI4MWV3WGZpQVUxanJGOVZBLU43eUxYeGZudGVLMW4tRGlBb1g0RFI1NjJqVlBYZFBJeVBjMWhHZDN6OEVsU2x0ZVYySkt4ZTVrVDZPNk8xWkJnd1NkdkJtLU9vM3k5RGxob1VIQ0hMckZhV1FGMHRMMUdJdi1VUklxb0lfLXFMRUVjamtCV0hLNjExa1pwZXBScUI2MUJZX3M?oc=5
-
-### 12. Fed影響股債匯商品市場定價
+### 7. Meta牽涉大型科技股估值與業務動能
 
 - 來源：CNBC
-- 類別：金融市場
-- 時間：2026-06-23 14:03
-- 摘要：Fed影響股債匯商品市場定價，屬金融市場線索。
-- 連結：https://news.google.com/rss/articles/CBMinwFBVV95cUxOQk40WHk5cDk1U1c3MkhNSVRVZVVjZHg1VmI3a2M0bE04Z0dmTDdnYURNWFZReHBvZnV3TTBxTGt1aU5BemhPNk0wM2RqMnlWQzhfamhhdzV5aDV5c2d0TGFndEhfclY5d2hkNmFEb25YRGpycWJoTTk4V2htLTl1UTZqRHl4bW84RHVjdlVhRHdTNzA2dDVFVkxabDVTZzDSAaQBQVVfeXFMTWxsUlprQjVCbWhsZkVFQUlCZGxmdGVGOXdZNXMzbnpRTWM5aFRwUk11Uk9qVHdTdnloRUdYaXIxMW9OTDh3UG5HclVxcGRYb3VVRGw5MGh1dm1kdC0xX1I1ZDAxVEttVnNuRjRHbDBuSWdXSi1zUzB2WG1fV25BNzhVb2FLUWxjb1NzQkEtUktBZ1F3STVidFE5Wm1lRVZfUHQzSEk?oc=5
+- 類別：美國科技股
+- 時間：2026-06-24 01:45
+- 摘要：Meta牽涉大型科技股估值與業務動能，屬美國科技股線索。
+- 連結：https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzFRQWNlN0tBMUE4V2JpQ3JxYmJad1dVUFlORXNBS2syUHNmZWR4S2JZMzYxZVVIX1RyWU1QY2FSaEtMOXU2S2RJUnZlUWI2eFcxR3FZR0V2SGl0SjhBZl9hc21NSWRqb2NkbXBlR3dERjROaVJ2OUVqN05XZVlfTlc1dFAtMmxBcDdxZ3V5YURZUFh6NDFOUW1iUF90b0RQYmfSAacBQVVfeXFMUGNoYTRCQzZiZlRaVm1FVjlPQnotNmZiU042UWNMV3hXS1JwVmcxcVU0dDNiU1hxTTdTWHdiZ0M5aURpLUhyNUFkX2pZRWw3cll0VkZHQ3U3S0FGQ3hfTlZsRFhtXzN6UndfaUE5Sy16Vk8yMlI5RUM2NHVxLTVfV2NfaXhLWkphR29PTjdWQVRuQTFSb2FkZEJOVm42TEFBSXk1UHpCenM?oc=5
 
-### 13. Fed影響股債匯商品市場定價
+### 8. Fed改變市場對政策與景氣的判讀
 
 - 來源：CNBC
-- 類別：金融市場
+- 類別：宏觀經濟
 - 時間：2026-06-23 14:03
-- 摘要：Fed影響股債匯商品市場定價，屬金融市場線索。
-- 連結：https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDI1TVVUeEZTWHZNWmpzeWNWUkg0Vmp4RmpMMjRWV0NkUGRmSDN5b3J1QmRLRE51aS1YdTNUbGljelR2UEdpWS10bTdmTzlqSnVsYnljcUFhOHZpQmFBaWpxVUdJbGNFOWhSMjJFSUVqUHF5bVZZNTc5Vld0NmlLRm9zQVR5bHFUbllvZ09QLWNlS2JvUHBPRlBlc0RfZlpqZ2x0WnI1aEw4UdIBqgFBVV95cUxONDI1TVVUeEZTWHZNWmpzeWNWUkg0Vmp4RmpMMjRWV0NkUGRmSDN5b3J1QmRLRE51aS1YdTNUbGljelR2UEdpWS10bTdmTzlqSnVsYnljcUFhOHZpQmFBaWpxVUdJbGNFOWhSMjJFSUVqUHF5bVZZNTc5Vld0NmlLRm9zQVR5bHFUbllvZ09QLWNlS2JvUHBPRlBlc0RfZlpqZ2x0WnI1aEw4UQ?oc=5
+- 摘要：Fed改變市場對政策與景氣的判讀，屬宏觀經濟線索。
+- 連結：https://news.google.com/rss/articles/CBMipAFBVV95cUxOVzV1R2Y0b3JfeDhWTUxvNnVjVXdXY09aM3E2TWlqek1QQi03UE8zZDRWY0J5LUtLby1rYUlkNkswZnM1M25pRVJzLWV5QkpsXzBsbUVBN0MxRXhJclM3c3l2b0VOVTgxMGZHUkNadmU3TEh5WnBsSmJVSnJMbElDZTNQZW9lc2JqSERPb1R1Zll5X09McUIycS1lMEFibi1ObFNLTdIBqgFBVV95cUxONDI1TVVUeEZTWHZNWmpzeWNWUkg0Vmp4RmpMMjRWV0NkUGRmSDN5b3J1QmRLRE51aS1YdTNUbGljelR2UEdpWS10bTdmTzlqSnVsYnljcUFhOHZpQmFBaWpxVUdJbGNFOWhSMjJFSUVqUHF5bVZZNTc5Vld0NmlLRm9zQVR5bHFUbllvZ09QLWNlS2JvUHBPRlBlc0RfZlpqZ2x0WnI1aEw4UQ?oc=5
 
-### 14. 中國擴大投資或資本開支
-
-- 來源：Bloomberg
-- 類別：金融市場
-- 時間：2026-06-23 14:25
-- 摘要：中國擴大投資或資本開支，屬金融市場線索。
-- 連結：https://news.google.com/rss/articles/CBMirgFBVV95cUxQSlJuc1hrRzQxR2RJVjRTS3JJeU01RU90TnExNnZmcDFaR2xRa0otRnpvVWJZN0d6NDVPM2U0SWFqajF6c3FKX3NmUTFncWxiYjZpLVd4VVNHVVNpUjF1V0R5V0U4eGJtUktULXZQRXJZdGJLa0RyRTQ5cnhtdHRfWjlzWkR6UXcxR0JZS3RqTGtySEVURHZEbmRqM3NNdjlVbVV2anliWnBaWHF0VVE?oc=5
-
-### 15. Fed出現急跌或風險重估
+### 9. Fed改變市場對政策與景氣的判讀
 
 - 來源：Reuters
 - 類別：宏觀經濟
-- 時間：2026-06-23 10:58
-- 摘要：Fed出現急跌或風險重估，屬宏觀經濟線索。
-- 連結：https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVVNzTVd2a0l5cU5uYTZSS25XUFR6ZmlROWt3amZZbnB5NmtGb09XVGRpY2wteC00dWtPbmZDekpqZWRtbW51UmF5OWNxbFl2aE4wSVVxRnpWbUlRZmpQVVlkZkhodzNQYlNpTzM4cHVJTkw4bVo2NmJqSVdTV1Zodkg5dE5sdzBER2E5OUh1YnE1Y2FNLUYtZjY2M0tLTUdxSGJGWHBaYV93WVU?oc=5
+- 時間：2026-06-23 18:34
+- 摘要：Fed改變市場對政策與景氣的判讀，屬宏觀經濟線索。
+- 連結：https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNHhFYmNIQXNTd1dYazhFU1YzeG5ySmpBbWJuRmNCbUdySURTd3E0VDhqOGtTNFp1ZGFsdXpMNXUtclZLc2dnaThOQ3RYS2pwZ1YtYzljenRocm5HeUV2dXJ1VnY5R1VUUG5SLU5NZ2g3bnZtWVM3eUpuWlBvS1NMU083R080QVRWbFJVczlCMnpxM19HT3J0VmlrT3d6RzZsMjNDdFB3NS1MVWd5ZnNCX2ZKUk1lcVhy?oc=5
 
-### 16. Meta牽涉大型科技股估值與業務動能
+### 10. Fed牽涉利率、通膨或經濟數據判讀
+
+- 來源：Bloomberg
+- 類別：宏觀經濟
+- 時間：2026-06-24 04:36
+- 摘要：Fed牽涉利率、通膨或經濟數據判讀，屬宏觀經濟線索。
+- 連結：https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0xYUFRzcGVxMGFYc1ZKWEJva1cyczJQVEY2Sk9SeU5fdVJza01MM0x0eURtOVhtNlFKbGFXRDVRNl92TmVsQmx5amZEZVBGUHh4bVZWbjRkYVpkS1dfeHZxVGtkLTdDcm5WeXhKbGtiM0lwZjJRVFFfaWE3Z2x1bEc1VmVQRi1ueGVWVDdXdnc1LThJaXEwR2xoaFlwRmZqY2ZVNUpqTnNNU1NzREtDRA?oc=5
+
+### 11. Alphabet牽涉大型科技股估值與業務動能
 
 - 來源：US Top News and Analysis
 - 類別：美國科技股
-- 時間：2026-06-23 11:45
-- 摘要：Meta牽涉大型科技股估值與業務動能，屬美國科技股線索。
-- 連結：https://www.cnbc.com/2026/06/23/4-billion-startup-cred-meta-whatsapp.html
+- 時間：2026-06-24 06:44
+- 摘要：Alphabet牽涉大型科技股估值與業務動能，屬美國科技股線索。
+- 連結：https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html
 
-### 17. Tesla面臨監管調查
+### 12. Fed改變市場對政策與景氣的判讀
 
 - 來源：US Top News and Analysis
+- 類別：宏觀經濟
+- 時間：2026-06-24 02:25
+- 摘要：Fed改變市場對政策與景氣的判讀，屬宏觀經濟線索。
+- 連結：https://www.cnbc.com/2026/06/23/fed-warsh-atlanta-michael-faulkender.html
+
+### 13. Meta牽涉大型科技股估值與業務動能
+
+- 來源：US Top News and Analysis
+- 類別：美國科技股
+- 時間：2026-06-23 23:56
+- 摘要：Meta牽涉大型科技股估值與業務動能，屬美國科技股線索。
+- 連結：https://www.cnbc.com/2026/06/23/meta-glasses-are-new-smart-glasses-starting-at-299.html
+
+### 14. Oracle調整AI產品、模型或基礎設施布局
+
+- 來源：US Top News and Analysis
+- 類別：AI
+- 時間：2026-06-23 21:48
+- 摘要：Oracle調整AI產品、模型或基礎設施布局，屬AI線索。
+- 連結：https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html
+
+### 15. Tesla面臨監管調查
+
+- 來源：Tech
 - 類別：美國科技股
 - 時間：2026-06-23 08:44
 - 摘要：Tesla面臨監管調查，屬美國科技股線索。
 - 連結：https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html
 
-### 18. Amazon牽涉大型科技股估值與業務動能
+### 16. Meta牽涉大型科技股估值與業務動能
 
-- 來源：US Top News and Analysis
-- 類別：美國科技股
-- 時間：2026-06-23 04:10
-- 摘要：Amazon牽涉大型科技股估值與業務動能，屬美國科技股線索。
-- 連結：https://www.cnbc.com/2026/06/22/amazon-prime-day-arrives-earlier-this-year-heres-why-wall-street-is-watching-closely.html
-
-### 19. Fed改變市場對政策與景氣的判讀
-
-- 來源：US Top News and Analysis
-- 類別：宏觀經濟
-- 時間：2026-06-22 22:39
-- 摘要：Fed改變市場對政策與景氣的判讀，屬宏觀經濟線索。
-- 連結：https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html
-
-### 20. Meta牽涉大型科技股估值與業務動能
-
-- 來源：US Top News and Analysis
+- 來源：Tech
 - 類別：美國科技股
 - 時間：2026-06-23 01:11
 - 摘要：Meta牽涉大型科技股估值與業務動能，屬美國科技股線索。
 - 連結：https://www.cnbc.com/2026/06/22/meta-kunal-shah-whatsapp-will-cathcart.html
 
-### 21. Apple牽涉大型科技股估值與業務動能
+### 17. Apple牽涉大型科技股估值與業務動能
 
 - 來源：Tech
 - 類別：美國科技股
@@ -314,7 +283,7 @@
 - 摘要：Apple牽涉大型科技股估值與業務動能，屬美國科技股線索。
 - 連結：https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html
 
-### 22. Qualcomm調整AI產品、模型或基礎設施布局
+### 18. Qualcomm調整AI產品、模型或基礎設施布局
 
 - 來源：Tech
 - 類別：AI
@@ -322,26 +291,58 @@
 - 摘要：Qualcomm調整AI產品、模型或基礎設施布局，屬AI線索。
 - 連結：https://www.cnbc.com/2026/06/19/tech-download-qualcomm-ai-agents-amon.html
 
-### 23. Apple牽涉大型科技股估值與業務動能
+### 19. Qualcomm、Oracle牽涉大型科技股估值與業務動能
 
-- 來源：Tech
+- 來源：CNBC
 - 類別：美國科技股
-- 時間：2026-06-18 23:55
-- 摘要：Apple牽涉大型科技股估值與業務動能，屬美國科技股線索。
-- 連結：https://www.cnbc.com/2026/06/18/apples-upcoming-price-hikes-are-good-for-the-company-not-so-good-for-consumers.html
+- 時間：2026-06-23 19:36
+- 摘要：Qualcomm、Oracle牽涉大型科技股估值與業務動能，屬美國科技股線索。
+- 連結：https://news.google.com/rss/articles/CBMingFBVV95cUxNLUFiMWF4WVhQajhHam1Sck9sSXZFRHpSaGFfZVo4bXdzQk9fZlpfVGVFMEc1R2hpZkRObDdhSmVYZ2FCTXRFcGFrZ1pFY3owbVZDQ09Na3hwMkJGZk9jWEJJNEJJLTloNjMtem5ub3hkZW9hTkVzZHFBRlZOaldINkNCenN2Z2ZzalEzdjFpb3k4LXowajFtOFNVQ1ByZw?oc=5
 
-### 24. Amazon牽涉大型科技股估值與業務動能
+### 20. TSMC影響晶片、設備或供應鏈判讀
 
-- 來源：Tech
-- 類別：美國科技股
-- 時間：2026-06-19 04:36
-- 摘要：Amazon牽涉大型科技股估值與業務動能，屬美國科技股線索。
-- 連結：https://www.cnbc.com/2026/06/18/spacex-stock-elon-musk-rally-cools.html
+- 來源：Yahoo Finance
+- 類別：半導體
+- 時間：2026-06-24 00:10
+- 摘要：TSMC影響晶片、設備或供應鏈判讀，屬半導體線索。
+- 連結：https://news.google.com/rss/articles/CBMikwFBVV95cUxObkJTSE1abHpyNU9ic25LdXVnS2lWWHk3ZEwwS25mMGp0TlNHWXdhTHoySnpNUk5VbEo3ZEpDelpOVExsMW5POFc4Zm1LRGdLcDlnSG5MQ0hsNndLeVl4WlVPOW5kM0VGZmR6c0JkLWlFNTVnT3d3a21vUGY5amtFcTdvRmZNT01RblRCbTNrcFpiY2c?oc=5
 
-### 25. 金融市場出現急跌或風險重估
+### 21. Intel、Apple影響晶片、設備或供應鏈判讀
 
-- 來源：AP News、Los Angeles Times
-- 類別：金融市場
-- 時間：2026-06-23 04:47
-- 摘要：金融市場出現急跌或風險重估，屬金融市場線索。
-- 連結：https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXh5LVVwTHlFNXRnUm9ya3VFdzBtcVA1eXJHYWJaTlRXUE5oMHUwTVc4ZVFVSVBsSDhkcVdkRVVSSHYzYjM3amVlcGNwTTJOb294dTdzQ2JuMGZrQ0FSeC1FRUNZMjgxM25UeXZVRUx3VWREOEdqOHZOVGliZ1ZNbDBNN0paTkhQQzRCY0ZIZlpnSGg4?oc=5
+- 來源：Yahoo Finance
+- 類別：半導體
+- 時間：2026-06-24 03:59
+- 摘要：Intel、Apple影響晶片、設備或供應鏈判讀，屬半導體線索。
+- 連結：https://news.google.com/rss/articles/CBMingFBVV95cUxPS0lzR1BTTHQ4TzBuajRIUm5fTlNodWlNTnVnTkdueThJNldpRTQ2UUV4U2pDUFZfbk1QRHU5R0RTa2piQmlNVGNqUnd6Rndka2E3TnFua3hTS3haOS1NVEczMnA2OVZEMDVza0V4NkI5ZlRrM1N0SFg2ZHB6cy1LMHh5Rmp0Wi0wM3o3VG1hN2pGZ0wtRzFSMWh0MkV2QQ?oc=5
+
+### 22. NVIDIA、Intel影響晶片、設備或供應鏈判讀
+
+- 來源：Seeking Alpha
+- 類別：半導體
+- 時間：2026-06-24 02:57
+- 摘要：NVIDIA、Intel影響晶片、設備或供應鏈判讀，屬半導體線索。
+- 連結：https://news.google.com/rss/articles/CBMie0FVX3lxTFAwWjNFT201blQzMFREbnFfRjMwNVZnWHpJNmx3YWFBcldTTlRTNUV1OWJObllSbTFrODg4M1Y4QzVRd0JoeXd4QnZyNjdLQzVIcmJTM2U0UXhSTjBvbFJVSDFiRmR4TklkbnN2d2Noa0hqUVBtOGxQM3VhTQ?oc=5
+
+### 23. AI調整AI產品、模型或基礎設施布局
+
+- 來源：Reuters
+- 類別：AI
+- 時間：2026-06-24 06:40
+- 摘要：AI調整AI產品、模型或基礎設施布局，屬AI線索。
+- 連結：https://news.google.com/rss/articles/CBMirgFBVV95cUxPNG9acmpUMFN5LVBLMW1nbUw0X1NmVGNaTzBKcllhUldUTno5ZEpXdk55Q00tbXhCNWJNOUluYzJiWHhUbzNBdWZKeUJlaExVd0x6YVY5MFRCRGN1Y0JIM1VDVHNGTTJWNFk2MUw3N3Nsay1wZlBQNktWSjRXUmN6ZnpiQmJhSVltUzZxSHFMVGZ6OGlVa3R2eEdycXdvV09QQ3RLUXJObXp6UW5MOVE?oc=5
+
+### 24. AI調整AI產品、模型或基礎設施布局
+
+- 來源：Reuters
+- 類別：AI
+- 時間：2026-06-23 01:02
+- 摘要：AI調整AI產品、模型或基礎設施布局，屬AI線索。
+- 連結：https://news.google.com/rss/articles/CBMixgFBVV95cUxNTEZKNy1oOHpaZnFtM1B6Z0dsLV9aVi1VNEhNZWdibHZhZDhBUDJGb05MTGtsRG1od015d3kxd1A5bGNJaEN5MWdMVlFXR21wWV81M2pYOEtzQlZ2S2hySzZXLWlpWHNYM21leDlXWWFEM2RjdnhrQl92OUM3QWZNamI4c2ZRdUdobVhPMzc2bHZOcUVCUml2cTYzQXNLVHJKYkdickh0OVJ4bk1peXVlVVRzdW1PMWIzLVN2dGxWdm9RTFVjamc?oc=5
+
+### 25. AI擴大投資或資本開支
+
+- 來源：WSJ
+- 類別：AI
+- 時間：2026-06-24 04:12
+- 摘要：AI擴大投資或資本開支，屬AI線索。
+- 連結：https://news.google.com/rss/articles/CBMijwFBVV95cUxOc1I5YkJCUlNBY1FhY1ZXQ0VLSGJoSnRrSFlaNnBqMlNOOTI2TlpNMnByRnpreEo4YjlfYy1LNzhHVGtmNS1TbE1mMmtlWm1BWTFzdnNJYXRMODNzVDRjanJmZXVuUHNGeEt3Q0E3d2ViZTAwOS1MMEFZNmtxa05FQXVicVloTk9jWllESUVyWQ?oc=5
