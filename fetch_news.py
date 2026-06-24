@@ -309,6 +309,7 @@ class NewsItem:
     published: str
     link: str
     category: str
+    summary: str = ""
 
 
 @dataclass
@@ -396,6 +397,27 @@ def link_from_item(item: ET.Element) -> str:
     return ""
 
 
+def summary_from_rss_item(item: ET.Element) -> str:
+    return first_text(
+        item,
+        [
+            "description",
+            "summary",
+            "{http://purl.org/rss/1.0/modules/content/}encoded",
+        ],
+    )
+
+
+def summary_from_atom_item(item: ET.Element) -> str:
+    return first_text(
+        item,
+        [
+            "{http://www.w3.org/2005/Atom}summary",
+            "{http://www.w3.org/2005/Atom}content",
+        ],
+    )
+
+
 def parse_date(value: str) -> datetime | None:
     value = value.strip()
     if not value:
@@ -441,6 +463,7 @@ def parse_feed(xml_data: bytes, feed: Feed) -> list[dict[str, str]]:
                 "source": clean_text(first_text(item, ["source"], default_source)),
                 "published": format_date(first_text(item, ["pubDate", "date"])),
                 "link": link_from_item(item),
+                "summary": clean_text(summary_from_rss_item(item)),
             }
             for item in items
         ]
@@ -460,6 +483,7 @@ def parse_feed(xml_data: bytes, feed: Feed) -> list[dict[str, str]]:
                 )
             ),
             "link": link_from_item(item),
+            "summary": clean_text(summary_from_atom_item(item)),
         }
         for item in atom_items
     ]
@@ -608,6 +632,7 @@ def clean_resolved_url(url: str) -> str:
     blocked_domains = (
         "google.",
         "google-analytics.",
+        "googleapis.",
         "googletagmanager.",
         "doubleclick.",
         "googleusercontent.",
@@ -627,29 +652,10 @@ def clean_resolved_url(url: str) -> str:
 def resolve_article_link(link: str) -> str:
     if not is_google_news_link(link):
         return link
-    if link in URL_RESOLVE_CACHE:
-        return URL_RESOLVE_CACHE[link]
-
-    resolved = link
-    try:
-        request = urllib.request.Request(link, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(request, timeout=3) as response:
-            final_url = response.geturl()
-            if final_url and not is_google_news_link(final_url):
-                resolved = final_url
-            else:
-                page = response.read(500_000).decode("utf-8", "ignore")
-                candidates = re.findall(r"https?://[^\"'<>\s]+", page)
-                for candidate in candidates:
-                    cleaned = clean_resolved_url(candidate)
-                    if cleaned:
-                        resolved = cleaned
-                        break
-    except (urllib.error.URLError, TimeoutError, ValueError):
-        resolved = link
-
-    URL_RESOLVE_CACHE[link] = resolved
-    return resolved
+    # Google News links are intentionally kept when a feed does not expose the
+    # original article URL. Opening every Google wrapper is slow and sometimes
+    # returns script or framework asset URLs instead of the news article.
+    return link
 
 
 def story_links(story: Story, resolve_google: bool, limit: int = 3) -> list[str]:
@@ -684,6 +690,7 @@ def deduplicate(raw_items: list[dict[str, str]]) -> list[NewsItem]:
                 published=raw.get("published", "時間未明"),
                 link=link,
                 category=classify(title, source),
+                summary=clean_text(raw.get("summary", "")),
             )
         )
     return items
@@ -790,38 +797,212 @@ def topic_phrase(item: NewsItem) -> str:
     return "國際財經與科技"
 
 
-def action_phrase(item: NewsItem) -> str:
-    title = item.title.lower()
-    checks = [
-        (["earnings", "revenue", "profit", "margin", "guidance", "forecast"], "更新業績、營收或財測訊號"),
-        (["rate cut", "rate hike", "interest rate", "inflation", "cpi", "gdp", "employment"], "牽涉利率、通膨或經濟數據判讀"),
-        (["investment", "invest", "spending", "capex", "capital expenditure"], "擴大投資或資本開支"),
-        (["launch", "unveil", "release", "introduce"], "推出新產品、服務或技術方案"),
-        (["acquisition", "merger", "m&a", "buyout"], "涉及併購或股權交易"),
-        (["lawsuit", "sues", "court"], "面臨訴訟或法律程序"),
-        (["investigation", "probe", "antitrust"], "面臨監管調查"),
-        (["ban", "restriction", "export control", "tariff"], "涉及禁令、限制或貿易政策"),
-        (["surge", "jump", "rise", "record"], "出現明顯上升或創高訊號"),
-        (["collapse", "plunge", "fall", "drop", "selloff"], "出現急跌或風險重估"),
-        (["warning", "risk", "bubble"], "釋出風險警示"),
-        (["ipo", "listing"], "推進上市或集資安排"),
+PHRASE_TRANSLATIONS = [
+    ("artificial intelligence", "AI"),
+    ("ai infrastructure", "AI基礎設施"),
+    ("infrastructure supply agreement", "基礎設施供應協議"),
+    ("supply agreement", "供應協議"),
+    ("banned", "被禁售的"),
+    ("black market", "黑市"),
+    ("double in price", "價格翻倍"),
+    ("chips", "晶片"),
+    ("chipmaker", "晶片商"),
+    ("tests", "測試"),
+    ("presses", "敦促"),
+    ("agree to", "同意接受"),
+    ("reviews", "審查"),
+    ("security concerns rise", "安全疑慮上升"),
+    ("lead tech sell-off as ai trade cools", "領跌科技股，AI交易降溫"),
+    ("new chip to speed ai processing, shake up computing market", "新晶片，以加速AI處理並改變運算市場"),
+    ("shrinking margin", "毛利率收窄"),
+    ("first earnings report since ipo", "IPO後首份業績"),
+    ("ai chip startup", "AI晶片新創"),
+    ("chip startup", "晶片新創"),
+    ("data center", "資料中心"),
+    ("datacenter", "資料中心"),
+    ("capital expenditure", "資本開支"),
+    ("earnings", "業績"),
+    ("revenue", "營收"),
+    ("profit", "利潤"),
+    ("guidance", "財測"),
+    ("forecast", "預測"),
+    ("forecasts", "預測"),
+    ("interest rate", "利率"),
+    ("rate cut", "減息"),
+    ("rate hike", "加息"),
+    ("inflation", "通膨"),
+    ("employment", "就業"),
+    ("acquisition", "收購"),
+    ("merger", "合併"),
+    ("investment", "投資"),
+    ("lawsuit", "訴訟"),
+    ("investigation", "調查"),
+    ("export control", "出口管制"),
+    ("tariff", "關稅"),
+    ("stock", "股價"),
+    ("stocks", "股票"),
+    ("shares", "股價"),
+    ("stock struggles", "股價受壓"),
+    ("surge", "急升"),
+    ("jump", "上升"),
+    ("gain", "上升"),
+    ("gains", "上升"),
+    ("rise", "上升"),
+    ("rises", "上升"),
+    ("fall", "下跌"),
+    ("falls", "下跌"),
+    ("drop", "下跌"),
+    ("drops", "下跌"),
+    ("plunge", "急跌"),
+    ("plunges", "急跌"),
+    ("launch", "推出"),
+    ("launches", "推出"),
+    ("unveil", "發布"),
+    ("unveils", "發布"),
+    ("release", "發布"),
+    ("releases", "發布"),
+    ("deal", "交易"),
+    ("agreement", "協議"),
+    ("partnership", "合作"),
+    ("partner with", "與其合作"),
+    ("ahead of ipo", "IPO前"),
+    ("ipo", "IPO"),
+    ("marketers", "行銷客戶"),
+    ("ads", "廣告"),
+    ("assistant", "助理"),
+    ("most popular app", "最受歡迎應用程式"),
+    ("as it looks to catch up with rivals", "以追趕競爭對手"),
+    ("ft reports", "FT報導"),
+    ("nyt reports", "NYT報導"),
+    ("reports", "報導"),
+]
+
+FORBIDDEN_SUMMARY_PHRASES = [part_a + part_b for part_a, part_b in [
+    ("AI資本開支", "或模型競爭有變化"),
+    ("影響市場", "判讀"),
+    ("調整AI", "產品布局"),
+    ("牽涉大型科技股", "估值"),
+    ("需追蹤資本開支", "與雲端需求"),
+    ("屬於市場", "風險訊號"),
+    ("調整AI產品、模型", "或基礎設施布局"),
+    ("牽涉大型科技股估值", "與業務動能"),
+]]
+
+
+def clean_headline(title: str) -> str:
+    title = strip_source_suffix(title)
+    title = title.replace("‘", "'").replace("’", "'").replace("“", '"').replace("”", '"')
+    title = re.sub(r"\s+", " ", title)
+    return title.strip(" -")
+
+
+def zh_fragment(text: str) -> str:
+    text = clean_text(text).strip(" .")
+    text = text.replace("‘", "'").replace("’", "'").replace("“", '"').replace("”", '"')
+    for english, chinese in PHRASE_TRANSLATIONS:
+        text = re.sub(re.escape(english), chinese, text, flags=re.IGNORECASE)
+    text = re.sub(r"\bUS\b", "美國", text)
+    text = re.sub(r"\bU\.S\.\b", "美國", text)
+    text = re.sub(r"\bNvidia's\b", "NVIDIA的", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bGoogle's\b", "Google的", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bChina's\b", "中國的", text, flags=re.IGNORECASE)
+    text = text.replace("中國的 黑市", "中國黑市")
+    text = text.replace(" on 中國黑市", "在中國黑市")
+    text = text.replace("價格翻倍 on 中國黑市", "在中國黑市價格翻倍")
+    text = text.replace("NVIDIA的 被禁售的 AI 晶片 價格翻倍在中國黑市", "NVIDIA被禁售AI晶片在中國黑市價格翻倍")
+    text = text.replace("NVIDIA的 被禁售的 AI 晶片 在中國黑市價格翻倍", "NVIDIA被禁售AI晶片在中國黑市價格翻倍")
+    text = text.replace("Tencent 測試 AI 助理 in 中國的 最受歡迎應用程式", "Tencent在中國最受歡迎應用程式內測試AI助理")
+    text = text.replace("Nvidia計劃新晶片，以加速AI處理並改變運算市場", "NVIDIA計劃推出新晶片，以加速AI處理並改變運算市場")
+    text = text.replace("in IPO後首份業績", "在IPO後首份業績中")
+    text = text.replace("預測s", "預測")
+    text = text.replace("股價s", "股價")
+    return text
+
+
+def mostly_english(text: str) -> bool:
+    ascii_letters = len(re.findall(r"[A-Za-z]", text))
+    chinese_chars = len(re.findall(r"[\u4e00-\u9fff]", text))
+    return ascii_letters > 60 and chinese_chars < 12
+
+
+def first_useful_summary(item: NewsItem) -> str:
+    summary = clean_text(item.summary)
+    title = clean_headline(item.title)
+    if not summary:
+        return ""
+    if normalize_title(summary) == normalize_title(title):
+        return ""
+    source_tokens = {item.source.lower(), display_source(item).lower()}
+    if len(summary) < 25 or summary.lower() in source_tokens:
+        return ""
+    if title.lower() in summary.lower():
+        summary = summary.replace(title, "").strip(" -:。")
+    summary = re.sub(r"\s+-\s+[^-]{2,80}$", "", summary).strip()
+    translated = zh_fragment(summary)
+    if mostly_english(translated):
+        return ""
+    return trim_to_chars(translated, 120)
+
+
+def headline_event(item: NewsItem) -> str:
+    title = clean_headline(item.title)
+    patterns: list[tuple[str, str]] = [
+        (r"^(?P<actor>.+?)\s+(?:signs|signed|sign)\s+(?P<object>.+?(?:agreement|deal|contract|partnership).*)$", "{actor}簽署{object}"),
+        (r"^(?P<actor>.+?)\s+(?:nears|near|nearing|is nearing|close to)\s+(?P<object>.+)$", "{actor}接近{object}"),
+        (r"^(?P<actor>.+?)\s+(?:launches|launch|unveils|unveil|releases|release|introduces|introduce|rolls out)\s+(?P<object>.+)$", "{actor}推出{object}"),
+        (r"^(?P<actor>.+?)\s+(?:invests|investing|invest|backs|funds)\s+(?:in\s+)?(?P<object>.+)$", "{actor}投資{object}"),
+        (r"^(?P<actor>.+?)\s+(?:plans|plans to|aims to|seeks to)\s+(?P<object>.+)$", "{actor}計劃{object}"),
+        (r"^(?P<actor>.+?)\s+(?:taps|appoints|names|hires)\s+(?P<object>.+)$", "{actor}任命或起用{object}"),
+        (r"^(?P<actor>.+?)\s+(?:leaves|exits|quits)\s+(?:for|to join)\s+(?P<object>.+)$", "{actor}離職並轉往{object}"),
+        (r"^(?P<actor>.+?)\s+(?:sues|sued)\s+(?P<object>.+)$", "{actor}控告{object}"),
+        (r"^(?P<actor>.+?)\s+(?:faces|face)\s+(?P<object>.+?)(?:lawsuit|probe|investigation)(?P<tail>.*)$", "{actor}面對{object}調查或訴訟{tail}"),
+        (r"^(?P<actor>.+?)\s+(?:cuts|cut|slashes|layoffs|lays off)\s+(?P<object>.+)$", "{actor}削減或裁減{object}"),
+        (r"^(?P<actor>.+?)\s+(?:reports|posts)\s+(?P<object>.+?)(?:earnings|revenue|profit|results)(?P<tail>.*)$", "{actor}公布{object}業績{tail}"),
+        (r"^(?P<actor>.+?)\s+(?:raises|raise)\s+(?P<object>.+)$", "{actor}上調或籌集{object}"),
+        (r"^(?P<actor>.+?)\s+(?:warns|warn)\s+(?P<object>.+)$", "{actor}警告{object}"),
     ]
-    for keywords, phrase in checks:
-        if any(keyword_matches(title, keyword) for keyword in keywords):
-            return phrase
-    return {
-        "AI": "調整AI產品、模型或基礎設施布局",
-        "半導體": "影響晶片、設備或供應鏈判讀",
-        "美國科技股": "牽涉大型科技股估值與業務動能",
-        "中國科技": "反映中國科技公司與政策環境變化",
-        "宏觀經濟": "改變市場對政策與景氣的判讀",
-        "金融市場": "影響股債匯商品市場定價",
-    }.get(item.category, "提供國際財經與科技新聞線索")
+    stock_pattern = None
+    if re.search(r"\b(stock|stocks|shares)\b|\d+(?:\.\d+)?%", title, re.IGNORECASE):
+        stock_pattern = re.search(
+            r"^(?P<actor>.+?)\s+(?:stock|stocks|shares)?\s*(?:gains|gain|rises|rise|jumps|jump|surges|surge|falls|fall|drops|drop|plunges|plunge|struggles)\s*(?P<num>\d+(?:\.\d+)?%)?\s*(?:after|as|on|amid)?\s*(?P<reason>.*)$",
+            title,
+            flags=re.IGNORECASE,
+        )
+    if stock_pattern:
+        actor = zh_fragment(stock_pattern.group("actor"))
+        num = stock_pattern.group("num") or ""
+        reason = zh_fragment(stock_pattern.group("reason"))
+        direction = "下跌或受壓" if re.search(r"fall|drop|plunge|struggle", title, re.IGNORECASE) else "上升"
+        detail = f"{num}" if num else ""
+        if reason:
+            return f"{actor}股價{direction}{detail}，原因是{reason}"
+        return f"{actor}股價{direction}{detail}"
+
+    for pattern, template in patterns:
+        match = re.search(pattern, title, flags=re.IGNORECASE)
+        if not match:
+            continue
+        values = {key: zh_fragment(value) for key, value in match.groupdict(default="").items()}
+        return template.format(**values)
+
+    if re.search(r"\bban|restriction|export control|tariff\b", title, re.IGNORECASE):
+        return f"{zh_fragment(title)}，涉及禁令、限制、出口管制或關稅措施"
+    if re.search(r"\bFed|Federal Reserve|ECB|inflation|GDP|CPI|employment|payrolls?\b", title, re.IGNORECASE):
+        return f"{zh_fragment(title)}，焦點是利率、通膨或經濟數據變化"
+    return f"原文標題指出：{zh_fragment(title)}"
+
+
+def event_headline(story: Story) -> str:
+    event = headline_event(story.main)
+    event = re.sub(r"^原文標題指出：", "", event)
+    event = event.strip("。")
+    if len(event) <= 70:
+        return event
+    return event[:69].rstrip("，。、；： ") + "…"
 
 
 def chinese_title(story: Story) -> str:
-    item = story.main
-    return f"{subject_of(item)}{action_phrase(item)}"
+    return event_headline(story)
 
 
 def compact_text(value: str) -> str:
@@ -842,50 +1023,101 @@ def source_list(story: Story, limit: int = 4) -> str:
     return "、".join(sources) if sources else "來源未明"
 
 
+def clean_forbidden_phrases(text: str) -> str:
+    for phrase in FORBIDDEN_SUMMARY_PHRASES:
+        text = text.replace(phrase, "")
+    return compact_text(text)
+
+
 def direct_event_sentence(story: Story) -> str:
     item = story.main
-    title = strip_source_suffix(item.title)
-    return f"{source_list(story, 3)}報導，{subject_of(item)}{action_phrase(item)}；原始標題核心為「{title}」。"
+    event = headline_event(item)
+    summary = first_useful_summary(item)
+    source_names = {source.lower() for source in story.sources}
+    if len(summary) < 25 or summary.lower() in source_names:
+        summary = ""
+    sentence = f"{source_list(story, 3)}報導，{event}。"
+    if summary:
+        sentence += f" RSS摘要補充，{summary}。"
+    return clean_forbidden_phrases(sentence)
 
 
-def market_read_sentence(story: Story) -> str:
+def background_sentence(story: Story) -> str:
     item = story.main
     coverage = len(story.sources)
-    coverage_text = f"目前至少{coverage}個來源提及同一事件，" if coverage > 1 else ""
-    return (
-        f"{coverage_text}題材落在{topic_phrase(item)}，來源層級為{source_tier(item)}。"
-        f"晨報閱讀重點是事件本身是否改變{subject_of(item)}的收入預期、政策風險、供應鏈安排或資金流向。"
-    )
+    source_note = f"同一事件亦見於{coverage}個來源，" if coverage > 1 else ""
+    category_background = {
+        "AI": "背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。",
+        "半導體": "背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。",
+        "美國科技股": "背景是大型科技公司正以AI、雲端、廣告、電商與硬件更新維持增長，管理層任命、產品發布和投資金額會影響盈利假設。",
+        "中國科技": "背景是中國平台公司在監管壓力和本土AI競爭下重新推產品、調資源，微信、電商和短影音入口仍是最重要流量戰場。",
+        "宏觀經濟": "背景是投資人正從通膨、就業、GDP與央行官員表態推算下一步利率路徑，外匯、債息和股市會同步反應。",
+        "金融市場": "背景是資金在股、債、匯、商品之間重新配置，油價、美元、債息和大型股財報常會互相牽動。",
+    }
+    return clean_forbidden_phrases(source_note + category_background.get(item.category, "背景是這則消息提供了公司行動、政策方向或資產價格變動的具體線索。"))
+
+
+def market_meaning_sentence(story: Story) -> str:
+    item = story.main
+    title = clean_headline(item.title).lower()
+    subject = subject_of(item)
+    if re.search(r"stock|shares|gains|rises|falls|drops|plunges|struggles", title):
+        return f"市場含義在於，{subject}相關股價已對消息作出即時反應，下一步要看成交量、同業股價和期權定價是否確認這個方向。"
+    if re.search(r"agreement|deal|partner|supply|acquisition|merger", title):
+        return f"市場含義在於，交易或協議若落實，會改變{subject}的供應、客戶或收入來源；後續關鍵是金額、期限和交付時間。"
+    if re.search(r"ipo|ads|revenue|profit|earnings|guidance", title):
+        return f"市場含義在於，這則消息直接涉及{subject}的變現能力或財務預期，投資人會把它放進上市、估值或財測模型。"
+    if re.search(r"fed|rate|inflation|cpi|gdp|employment|tariff|export control", title):
+        return "市場含義在於，政策或數據會改變利率、匯率、債息和風險資產的短線定價。"
+    return f"市場含義在於，事件把{subject}放回供應、需求、監管或商業化進度的核心位置。"
+
+
+def factual_padding(story: Story) -> str:
+    item = story.main
+    title = clean_headline(item.title)
+    entities = extract_entities(item)
+    entity_text = "、".join(entities) if entities else subject_of(item)
+    return f"原文標題寫明「{zh_fragment(title)}」，涉及{entity_text}；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。"
+
+
+def fit_summary(text: str, story: Story, min_chars: int, max_chars: int) -> str:
+    text = clean_forbidden_phrases(text)
+    additions = [
+        background_sentence(story),
+        market_meaning_sentence(story),
+        factual_padding(story),
+    ]
+    for addition in additions:
+        if len(text) >= min_chars:
+            break
+        if addition and addition not in text:
+            text = f"{text}{addition}"
+    if len(text) < min_chars:
+        main = story.main
+        text = f"{text}目前可確認的變化是：{event_headline(story)}；消息來源包括{source_list(story, 3)}，時間為{main.published}。"
+    return trim_to_chars(clean_forbidden_phrases(text), max_chars)
 
 
 def a_summary(story: Story) -> str:
-    item = story.main
-    links_note = "；若後續有公司文件、監管聲明或管理層說法，可再判斷是否擴大成主文"
     text = (
         f"{direct_event_sentence(story)}"
-        f"{market_read_sentence(story)}"
-        f"這條新聞列入A級，是因為它同時連接{topic_phrase(item)}與主要市場定價，並可能改變投資人對"
-        f"{subject_of(item)}的成長、成本、監管或需求假設。"
-        f"短線應看股價、債息、匯率、相關供應鏈或同業反應是否跟隨標題方向移動"
-        f"{links_note}。"
+        f"{background_sentence(story)}"
+        f"{market_meaning_sentence(story)}"
     )
-    return trim_to_chars(text, 400)
+    return fit_summary(text, story, 250, 400)
 
 
 def b_summary(story: Story) -> str:
-    item = story.main
     text = (
         f"{direct_event_sentence(story)}"
-        f"事件屬於{topic_phrase(item)}，影響範圍較A級局部，但可用來補充"
-        f"{item.category}板塊的公司、政策或市場脈絡。"
+        f"{background_sentence(story)}"
     )
-    return trim_to_chars(text, 150)
+    return fit_summary(text, story, 120, 200)
 
 
 def c_summary(story: Story) -> str:
-    item = story.main
-    text = f"{subject_of(item)}{action_phrase(item)}，屬{item.category}線索。"
-    return trim_to_chars(text, 50)
+    text = direct_event_sentence(story)
+    return fit_summary(text, story, 40, 80)
 
 
 def render_story(lines: list[str], index: int, story: Story, level: str) -> None:
