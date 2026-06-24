@@ -76,20 +76,9 @@ python fetch_news.py --candidates-output my_candidates.md
 
 也就是 UTC 每天 23:15 執行，換算為香港／台灣時間隔天 07:15。
 
-為了應對 GitHub schedule 延遲或漏跑，workflow 另設早段探測與備援排程：
+目前只保留一個每日排程，避免同一天多次喚醒 GitHub Actions、浪費資源。
 
-```text
-21:00 UTC = 香港／台灣 05:00
-21:30 UTC = 香港／台灣 05:30
-22:00 UTC = 香港／台灣 06:00
-22:30 UTC = 香港／台灣 06:30
-23:15 UTC = 香港／台灣 07:15
-23:45 UTC = 香港／台灣 07:45
-00:15 UTC = 香港／台灣 08:15
-00:45 UTC = 香港／台灣 08:45
-```
-
-guard 會阻止香港／台灣時間 7:10 前寄出。若同一天已成功寄出，後續 scheduled run 會看到 `.last_successful_brief_date`，自動跳過，避免重複寄信。
+guard 仍會檢查 `.last_successful_brief_date`，避免同一天因 GitHub 重試或其他 scheduled run 而重複寄信。手動 `Run workflow` 不受這個限制，方便你需要時即時測試。
 
 GitHub Actions 會做以下事情：
 
