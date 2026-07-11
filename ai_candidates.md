@@ -1,122 +1,122 @@
-# 分層式選題池 - 2026-07-10
+# 分層式選題池 - 2026-07-11
 
 以下新聞由RSS標題、來源權重、關鍵公司、政策與市場風險訊號自動篩選；未使用OpenAI API。
 
-## 1. A級｜Meta 上升s into AI coding market in effort to chase Anthropic and OpenAI
-
-來源：CNBC
-類別：AI
-摘要：CNBC報導，原文標題指出：Meta 上升s into AI coding market in effort to chase Anthropic and OpenAI。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Anthropic、Meta放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Meta 上升s into AI coding market in effort to chase Anthropic and OpenAI」，涉及OpenAI、Anthropic、Meta；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5
-
-## 2. A級｜EXCLUSIVE: Meta to put AI chip into production in September as it loo…
-
-來源：Reuters、Euronext Markets: Real-time Stock Market Data | live
-類別：AI
-摘要：Reuters、Euronext Markets: Real-time Stock Market Data | live報導，原文標題指出：EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows。同一事件亦見於2個來源，背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Meta放回供應、需求、監管或商業化進度的核心位置。
-連結：https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5
-
-## 3. A級｜OpenAI推出ChatGPT Work Agent to Field Tasks for Hours
-
-來源：Bloomberg.com
-類別：AI
-摘要：Bloomberg.com報導，OpenAI推出ChatGPT Work Agent to Field Tasks for Hours。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、ChatGPT放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「OpenAI 發布s ChatGPT Work Agent to Field Tasks for Hours」，涉及OpenAI、ChatGPT；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMirgFBVV95cUxObDJfUElMZmZ0QmRmaUMyUjUzZ2tHcHpPUjlRcDlVWFNxSTBOcGdfX2VxZjl1bklES3dUS3hGNy1RazBGREpBRmJ3MjYwdjB5d2ZSQTZxYlFHSVRneGwyVmhpb3RhUWhPOGtkakRDcTJKUVA2N0lObnBuT3FuYnBRbnU4YUhRLXlTZjA3R0dVY0dlMGdCemlfcUg1SWdFeGpOS2J0ZGZTbkdrVk1nYUE?oc=5
-
-## 4. A級｜China警告about AI risks with Anthropic's Claude Code
-
-來源：Tech
-類別：AI
-摘要：Tech報導，China警告about AI risks with Anthropic's Claude Code。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Anthropic、中國放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「China warns about AI risks with Anthropic's Claude Code」，涉及Anthropic、中國；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html
-
-## 5. A級｜Meta to put AI chip into production in September as it looks to doubl…
-
-來源：CNBC
-類別：AI
-摘要：CNBC報導，原文標題指出：Meta to put AI chip into production in September as it looks to double computing capacity, Reuters 報導。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Meta放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Meta to put AI chip into production in September as it looks to double computing capacity, Reuters 報導」，涉及Meta；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMilwFBVV95cUxNdlFBODIwQ1VKejIzRFRNR1VSajQ4M3FIakI4MUlaUUJWdndyUjllZnRyX1FzSktpa1V1cUJXaXNuYXlQbzRIUFQyeW1sT1VnVU1odWxXT1hCLWdYMnFKdVU0VXB6c0NFR3dmbFhVTGFqQlFBUEhDel9hNW1hQmhqeHdrWDFrbk9xVkUtdkhnWjY2b3VzMUpB0gGcAUFVX3lxTE5zYklWUHBpdEIzeDlKV1k3dzNvQXFVMmFZdjg5aV82VEVEUmEteGxMUmJvR2cwS2l6SXdkVElOUE96MUFOM0NRTDF2Rm1DNHV0bHZnTE43UW1JclV3R1haMzRuLXBOWUl5ZnpUVk1mR0NiakpaLW02a0l6SHNMSzBmcW5mT1cxekVQbWVxeW8tVHYtVGItbUpVMzl3QQ?oc=5
-
-## 6. B級｜Samsung-backed AI chip firm Rebellions targets IPO in South Korea nex…
-
-來源：Tech
-類別：AI
-摘要：Tech報導，原文標題指出：Samsung-backed AI chip firm Rebellions targets IPO in South Korea next year, CEO tells CNBC。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://www.cnbc.com/2026/07/08/rebellions-ipo-south-korea-ai-chips.html
-
-## 7. B級｜OpenAI推出long-awaited "super app" as rivalry with Anthropic intensifies
-
-來源：Reuters
-類別：AI
-摘要：Reuters報導，OpenAI推出long-awaited "super app" as rivalry with Anthropic intensifies。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5
-
-## 8. B級｜Anthropic任命或起用former Fed Chair Ben Bernanke to its independent trust
-
-來源：US Top News and Analysis
-類別：AI
-摘要：US Top News and Analysis報導，Anthropic任命或起用former Fed Chair Ben Bernanke to its independent trust。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://www.cnbc.com/2026/07/09/anthropic-fed-chair-bernanke-independent-trust.html
-
-## 9. B級｜OpenAI exec Fidji Simo says she's stepping down due to chronic illnes…
-
-來源：US Top News and Analysis、CNBC
-類別：AI
-摘要：US Top News and Analysis、CNBC報導，原文標題指出：OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor。同一事件亦見於2個來源，背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議。
-連結：https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html
-
-## 10. B級｜Top Bank Issues Stark Warning on NVIDIA的 China Chip Opportunity，涉及禁令…
-
-來源：Yahoo Finance
-類別：半導體
-摘要：Yahoo Finance報導，Top Bank Issues Stark Warning on NVIDIA的 China Chip Opportunity，涉及禁令、限制、出口管制或關稅措施。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-連結：https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXl1dnQxZFFVY2g2M0FpdWh4eHRGcWR1SzRoOHZzUWpXblRCeU0zX25zYTVOZHZTZ2JZVGY4Z0RFdVEwWEh4Rmhuc2JVNGQtNWsyRjViVnVvRnZoVzJSWEllS3NEalo3Sk42aUI2cXBTMWV3TUIyWXdJdHBGMmJSUmppT01MWUJCd0UtbGlnWVgzdTZFZ2pQNA?oc=5
-
-## 11. B級｜French competition authority's Nvidia probe接近end
-
-來源：Reuters、Euronext Markets: Real-time Stock Market Data | live
-類別：半導體
-摘要：Reuters、Euronext Markets: Real-time Stock Market Data | live報導，French competition authority's Nvidia probe接近end。同一事件亦見於2個來源，背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-連結：https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3ppUXV1TlI5eFJQT1hYUmp3SHl0Q2lXNmowQ2JOSXdTYl9mX00wZXM2TE5ZWXkyMzlVUEJMbDNYMGtLRjBrSDVYVk85YjlIQlF2d1poZC0xU3hvNGhmNTdRSmlTNldSVkxSbVBjU0dVZ3NxZVRsaV9BQXFRUjRtNjVvQXB5Wm5YT25qV0t5ek9fNlF6OV9uVkpRc2o?oc=5
-
-## 12. B級｜News outlets urge a judge to sanction OpenAI in a high-stakes AI copy…
+## 1. A級｜Apple files 訴訟 accusing ChatGPT maker OpenAI of stealing trade secrets
 
 來源：AP News
 類別：AI
-摘要：AP News報導，原文標題指出：News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMipAFBVV95cUxON0xoazVFWVdJY21YczhvV3VVQWZnbU5aSG41UG5xalBPekx0eU5zSWJZTFVIMUhZUUZ6Um9ZLUEyNjVZM3paMnNmOGhBdEttMUs1b2stUjJ5cGpZcXBCd2ZiaEM3OXVlajVtLVVvOTB3TkVlS3NaVEJzYU56enIwTjF2bElkRlRaV192ZThaaW5RelNkZWFQSzQ3ZV9IeldaSmNacA?oc=5
+摘要：AP News報導，原文標題指出：Apple files 訴訟 accusing ChatGPT maker OpenAI of stealing trade secrets。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、ChatGPT、Apple放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Apple files 訴訟 accusing ChatGPT maker OpenAI of stealing trade secrets」，涉及OpenAI、ChatGPT、Apple；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2RSRWV0QjJvdUJ5WGR3LVZ4T01uU2tCZDh1V2kzM3p1WnlwbVdLdFE5ZENFMldsZVpvNk9YQTc5Qk5TdlRnb0tGeENUOGM0SjVUOTRtZEpnMHFVcmhLbHhTMnJOWGJfem1rSURRNFpQbFQwYlE5WHFrbjJRVE13YXRPZkVydVNsTGd3WjRiZklZVlJ1ZDRHWDZsNS1NcHl4NGc?oc=5
 
-## 13. B級｜Meta's Zuckerberg Says Exploring AI Cloud Business Makes Sense
+## 2. A級｜Meta 上升s into AI coding market in effort to chase Anthropic and OpenAI
 
-來源：Bloomberg.com
+來源：Tech
 類別：AI
-摘要：Bloomberg.com報導，原文標題指出：Meta's Zuckerberg Says Exploring AI Cloud Business Makes Sense。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTdBQU5JZkhCZHZwVkF5RmVMSlhZMW5NaHNrSjVwZFlFVTEtakZucWNrWUNqVDBUcENvZ1U3MUI0VGtzZlpmYzFuOHVmN01GOEQzcEFNR3pGVWFIN1FZU0x3TzBnYVh3OE5nNG90RE5tbmVwVVAtZHJzemlndFRYTml5TFdVelNXaHR0UmItN1l4ZWd0cU5qNmplMzh4dTJfNU1DelZPOU5HblRPS09WWng1QQ?oc=5
+摘要：Tech報導，原文標題指出：Meta 上升s into AI coding market in effort to chase Anthropic and OpenAI。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Anthropic、Meta放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Meta 上升s into AI coding market in effort to chase Anthropic and OpenAI」，涉及OpenAI、Anthropic、Meta；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html
 
-## 14. B級｜OpenAI's newest AI model is 54% more token efficient on agentic codin…
+## 3. A級｜Apple控告OpenAI, Alleging It Stole Trade Secrets
+
+來源：WSJ、Financial Times
+類別：AI
+摘要：WSJ、Financial Times報導，Apple控告OpenAI, Alleging It Stole Trade Secrets。同一事件亦見於2個來源，背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Apple放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Apple Sues OpenAI, Alleging It Stole Trade Secrets」，涉及OpenAI、Apple；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XaDJLOUlqNlc1NW9HckNySzZyWFQzWWF3ZDNXXzJMdE95ck12cEYyck91SGVVeVRYWWVTWUdhTlNuTXFBM1lsX2J1TS1LcGN5MzNiMkVGN0c0cUxhUXBOVktGU1I?oc=5
+
+## 4. A級｜Apple控告OpenAI for Trade Secret Theft in Pivotal Case
+
+來源：Bloomberg.com、Axios
+類別：AI
+摘要：Bloomberg.com、Axios報導，Apple控告OpenAI for Trade Secret Theft in Pivotal Case。同一事件亦見於2個來源，背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Apple放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Apple Sues OpenAI for Trade Secret Theft in Pivotal Case」，涉及OpenAI、Apple；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMisAFBVV95cUxPVk01TXVZZ2pqck5aOHp6MG9ES3pxRHBrdFcwZHNwN3VTVm1Mdk53eGt6RmlRSGQtdkFxZEk2Nk9Fa3JULU5zamJDNlVOcF9tOXdZUW9aZm5NeVRid3BjdHVBWTRodFJQM3NXZU5qMXJNNlgtYlNuM1ZGdHMzZGs3enl3MTVsemgxVmdqWGZBWEJvclhvb2RWSm5LNW1wLWV6T3JZNFFTUHZqLXUySm1LeQ?oc=5
+
+## 5. A級｜Apple控告OpenAI, two former employees for trade secrets theft
+
+來源：Reuters、NBC News
+類別：AI
+摘要：Reuters、NBC News報導，Apple控告OpenAI, two former employees for trade secrets theft。同一事件亦見於2個來源，背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Apple放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Apple sues OpenAI, two former employees for trade secrets theft」，涉及OpenAI、Apple；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2NSa1NYbHVibGtrWnV6T2hRd180dUp6WWxFQ2c0bm1POHhGeHk1TlpBQXV6dDBKZVh0MWpkbUVacjlFczV4RmQ2N3ctYVEtcTVrWjdXYTJ1WmRkZ2U5WEh2Q3Nkc05LREJaM19IQS1lRzQ5Q051aGdKRjh1QnIyaENVR2FxWllSMzUycmczRXV5MnVRNFBOMG5RUU5jYkpjYVdiMmMzNjcwdVBZd3AtREJSNEVpdVFnd2JQOHRDM1ZUWjFCS1JMTQ?oc=5
+
+## 6. B級｜Apple suing OpenAI over alleged trade secret theft
+
+來源：CNBC、Yahoo Finance
+類別：AI
+摘要：CNBC、Yahoo Finance報導，原文標題指出：Apple suing OpenAI over alleged trade secret theft。同一事件亦見於2個來源，背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMimAFBVV95cUxOWHVCZVB5WEF4al9QUG9POTRRQmFfQUg2b0s2U3gzblp0ZjZBdHFpVVJwcmNFMXJ6amRvTUtLMm9KT0U4VVMtTEV5UWVneFVpZi1XWE9HcDBDWFNZbW5SWDJVQ1U2MVBXX3NFcUJKUTViX0pvSDk1ejRzVXp2b2otMFl0eHpKYWpHbS1idjZBWlJxQWJDMVlFYg?oc=5
+
+## 7. B級｜Apple控告OpenAI alleging trade secret theft, says scheme was 'at every…
 
 來源：CNBC
 類別：AI
-摘要：CNBC報導，原文標題指出：OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMie0FVX3lxTE5RZGh3eUJMQUR5NV9OVTRiaHAwX0ZKbTl5SGF5TUpDY0M5R1lQdVlvcGNZYTVSTkVHSUJYbUZUbWRGSWdWemZDd05NTWdkWUNZaWxqQ0I1N2M3NmZrdzhaOW5BLU5SVFllOFNVY0FiMlgtVzd1eVcxRmlCa9IBgAFBVV95cUxNTjRaZUUtZEd1UUFqR1NJOFVtLUc3OV9JMHhaaUYwSmZsUTNOS1E5bUFlYXR5R1RNVUVXOUtDdU53UVlDT0hnWktWeXUtdUdnTWtOLV9ZNHlBZ0VEMzRZRHh6UWFzUXFfVVFES1dVLTVZdm9hMlBBWDF3MDg3cHZidg?oc=5
+摘要：CNBC報導，Apple控告OpenAI alleging trade secret theft, says scheme was 'at every level'。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMie0FVX3lxTFBpcDUyVExvZXpnZHVBTGZscmFmNmRxTUIweDFGMWZrcC1fX2RZRDkxdWhPMUt4TzBfY2c2WHJkdE81TnAxMHdYZE1talZyUjRDcmlwQi1XOVo2eUhNWS1fRnRnUTFDYTR2XzNIdTlaMG5femxXc09DeFlZRdIBgAFBVV95cUxNU2tvbmxiaW9qb2UyLV9STno5WDR3SzhjV0VTSjFSVTQxaEVxbHN0RUdwTnJieXhCZVZTYkFHdlR2ZVE4MExwblB2amJwZEIxY3hNMnFjYThtTUhwaW9rRHZ1VlpDajVHbExyT0lWNGxxYndIMTBMcGMxTUdVN2g1cw?oc=5
 
-## 15. B級｜New Fed task force members share Chairman Kevin Warsh's embrace of AI…
+## 8. B級｜Apple Accuses OpenAI of Stealing Trade Secrets
+
+來源：WSJ
+類別：AI
+摘要：WSJ報導，原文標題指出：Apple Accuses OpenAI of Stealing Trade Secrets。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMilgFBVV95cUxPQmhaamg1UzlOQk9Dd3VFU1NVa3QtQkxrSGt2dVFnbjlfN09FT2Y3RTlMQUhfOFhUTU9ObWZ6c1FIM1dMMzNfai10b0YyNDhEVFYyajB1TjRqRTV3Mm11bU55djZpaEJhSXpKWG12anZ2a1ZmU1JkNmNycHNvd2ROYXBpdWRvdnljS0RId01NS3hETURxNHc?oc=5
+
+## 9. B級｜Meta discontinues AI image feature days after 推出
+
+來源：Reuters
+類別：AI
+摘要：Reuters報導，原文標題指出：Meta discontinues AI image feature days after 推出。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMioAFBVV95cUxOUG5uc3lpN1Z4TFMtZm5Mc1pCaW9hSE4xb3Z2X3BuTno5NEVmb0FEdm5sY3BFMTl0VFNkb04wNEVIQzkxbVNidlU1dnZIRGFESWdiaG50dGJRN01TMGc0LTZhYl9YbnlTdmJLMk9ZYXYtWEtzcmFtS0NsZ0RWdllPSTY5ZUQ4ZXZCQllaS3J2ZXNUSHZmVDljR0s1NHQ5b0pT?oc=5
+
+## 10. B級｜SK Hynix Debut Is a Bet That AI Breaks Boom-and-Bust Chip Cycle
+
+來源：Bloomberg.com
+類別：半導體
+摘要：Bloomberg.com報導，原文標題指出：SK Hynix Debut Is a Bet That AI Breaks Boom-and-Bust Chip Cycle。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+連結：https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzEyTUxhS3JzN0ktRXdielp4WDRQR291SGtFVjRjS0MzSEFHRXpsdnNfMTJ4c2tuX2duUVJNREFuNWxIYnNwVUhUVlZFdWV3b3JJNDBHMjNQUW9GSEpQczNHOEFTRWVZTENsUmZMRGwtcXV4VG5ZeF9tZlJ3cktTQmxaXzZfVENvZ005WGZQVk1VMFdsQVE2akxGbVFDbTM1b0lGdU5UVi15UUVnLVhkNUdnZlk?oc=5
+
+## 11. B級｜How Apple 股價 rode the AI rollercoaster to record highs in 1 chart
 
 來源：CNBC
 類別：AI
-摘要：CNBC報導，New Fed task force members share Chairman Kevin Warsh's embrace of AI，焦點是利率、通膨或經濟數據變化。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMiigFBVV95cUxPeHM0NmhkamxaejFYOE9WcUpDMnZPYnVoRmlLSVpqYnpBQ3Z2MXZMNmVJZUpVV25sVmJack9TWU5uRjgyNXQwa000QTZpaEY4YWhtdE9CR1JESEg4Um5ZMmY2dC1SMl9oOElMYTZNOUg0M0YwV01FLWpRMk9jcWlsRmtEM1dtZkxZRHc?oc=5
+摘要：CNBC報導，原文標題指出：How Apple 股價 rode the AI rollercoaster to record highs in 1 chart。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmxkWHhpcDRLZWlOcjhLdlhFVkxjZXowWDh2dlNxODhld2ZGMlJpT1pIcDlGbGNPVUc5X3ZoVnM1azNxZ1p3Q1VyQm5LMnQ3NVZ5aFhTMnBsTEhMNEpMbUFsVWR4Z2dycWFnQmF1YTAtVXVVcFZhNTNxekFUSW51d0J3QTRCY0dWTFp2SWs4aU9iOVBVaE9tN2Myejl1a0FxWURqUEJBaVA?oc=5
 
-## 16. B級｜Zuckerberg Pledges 'Aggressive' Pricing With Meta's First Pay-to-Use…
-
-來源：Bloomberg.com
-類別：AI
-摘要：Bloomberg.com報導，原文標題指出：Zuckerberg Pledges 'Aggressive' Pricing With Meta's First Pay-to-Use AI。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3ZaLWo1ZkNjYlo2YWxyX0NLdWdSY1BUYmhFV0M4cmpaWDRsOVRlYjZYS0JKekR4LU1yTjZWZmtMV25lX1lnSG53ZlR1SjFoOUxLTUdwdlNFZkdMNVRadUtkTFdVemZVODVVaTB3R2ZhN0R1aXhDYWRhS3lBaWFINHNOd2RSMV9rNkR3WUlMZTJJUTJOcXNSLVNDNjBHZUNfY3JPeVhGaGJ4TnhnSk9nczJB?oc=5
-
-## 17. B級｜When memory chip supply catches up, the boom could end, says Jim Cram…
+## 12. B級｜Broadcom and Nvidia are the anti-momentum trade right now, says Hight…
 
 來源：CNBC
 類別：半導體
-摘要：CNBC報導，原文標題指出：When memory chip supply catches up, the boom could end, says Jim Cramer on SK Hynix。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-連結：https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSndwWVhmUkpCMGY0WmJveU50NUVFTk1TSWgzOVB3ODN4THdSTjJWNTN0OTdvNzR0VjB2U3ZGa0NWVkxmR3ZlMHAyQVVrczVnSXFscWFGYV92djNodjZ2UUVCb0Eya0w3czdXT1cyM3N0SUphcmd5bnh4b2NvV3NEQ2dyNkpKVWxmSG9sdC1DMkVsNzc3UmpCVGhXVGxGZG5wZUc1aEh6UkRBYl9KVDdoaWY0MGhxLXpYYlVXVkRGaXJnZw?oc=5
+摘要：CNBC報導，原文標題指出：Broadcom and Nvidia are the anti-momentum trade right now, says Hightower's Stephanie Link。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+連結：https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2lVdjRBeUtqZ2RyZFlLX3VvSkJBbGNPcUR3WWNjc29VYXpGU2pXYUZSbjk3UnJhazhBVlRDWTJPWldvbFZ3YmlDMnl5V19UZGEtN1RBQ24tMVduNUljTEd6MWFOS1F1Vjh5Yk5MVXdqR2ZrbXM0Umw0YzI3SEJxTFhna2FJSDFWbTdDYllVQjRGZ0xBaUV5bTZTaTVUTmFGbkl1OEY0UWJWMlhtY0hnYXBWTjJ1X1VEWDdxdVJRb0o4aU93MTlRczFCRQ?oc=5
+
+## 13. B級｜Anthropic任命或起用former Fed Chair Ben Bernanke to its independent trust
+
+來源：Tech
+類別：AI
+摘要：Tech報導，Anthropic任命或起用former Fed Chair Ben Bernanke to its independent trust。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://www.cnbc.com/2026/07/09/anthropic-fed-chair-bernanke-independent-trust.html
+
+## 14. B級｜SK Hynix股價上升，原因是in marquee 美國 debut as AI euphoria persists
+
+來源：Reuters
+類別：AI
+摘要：Reuters報導，SK Hynix股價上升，原因是in marquee 美國 debut as AI euphoria persists。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWhFRmx4bEZ1MW5rMXlkYmN0d0RqeXR6XzhQOXpiTlJBUGhub1gtWDhkb0hrM1RteDhnTmxacklUTXQ3UjRJb3laeEJoSFZXV0ljWklqMTVTYlpnNzMyLXRTd2xzWTB1QkZkNlI1RnFnWE1FX2kzNkVCTlNLMWpKUDhCVUJ5ZGxoQU1DalJLNFhvTVRZN0ZuSDVDZW1LR0duc3pZ?oc=5
+
+## 15. B級｜OpenAI power consolidates under co-founder Greg Brockman ahead of pro…
+
+來源：CNBC
+類別：AI
+摘要：CNBC報導，原文標題指出：OpenAI power consolidates under co-founder Greg Brockman ahead of prospective IPO。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0Nra1JBT1NMMEZvZjFHeEptY1p1cFJGQVVBTDJtUkJHUWtHVEVBczVRdW5McXpFdDhpZGdNa0QzeWl1SEozRXBXUU5URkJNXzNXY2RtMnhoZVV2YWhOZzZ2SmQ3cjhVOEpqQ01ueWR0cFJ1NnFUV3BZT3ZkRWFReTB0RjMyV2NCUUVSYzV3R1pSRXN2bEk1Vk1GLUVPYnZ4YUtWRnRHb2cwd9IBrwFBVV95cUxPUXRFUU1NdGFnQlEtWEozX19DZmdiTDduZjRQYnhWLVZSMkJ1cUgtcGtoWFp3WTBXOVBNeWlKYkhCc3F6NXJkYU5UMktyNldZM0U4MVVJc0tkR1hIWXN3cDNyc29zNVpNQ2w3UUgyMm92dE5WSWpxeUNESGhKQkZYbTNaYTJFYTNLSWg3YjFIcHNFZWdtVUE1TWl1RWpNSzRseTQ1TWpiZ09JZjNxV3FF?oc=5
+
+## 16. B級｜Meta's 股價 has best week since early 2024 as optimism builds around AI…
+
+來源：CNBC
+類別：AI
+摘要：CNBC報導，原文標題指出：Meta's 股價 has best week since early 2024 as optimism builds around AI strategy。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2JLM2R4cGVHd2RPUnVLdlVFRFVYbUM5bGx4VDZCak9COHJjUk9NdmxfYm5Uakk3bzdvMThGX0cyaXNNT3pQenREUmt0T0lrV0J3V25WVWRqQXAwQzhTYW00YTdaYXpPLTZKd01uV0VqVmlYamdsQldjSjhNNllMRnphUzR0dkdyM2pxZkQydnbSAZYBQVVfeXFMTnNVbGJUM3lQZlNpYjh0MWFONWhqWkRmN2pPMGRwXzk4LUluWG9xSlhQSFlObmN6ZVFqM0ctaGg4S2FjNkc4RHBzbzY4RGNaekpoS04wOUlJd3hqVmRYcEdzLUNuOEt3Q0RzSDhyMkRPbjJuN0JZR3Fqa2tJQl9tMWJ1Z3JkdUhsUXBoQldiZ3BkMHpIaG1R?oc=5
+
+## 17. B級｜美國 makes it easier to export Nvidia AI 晶片 and military equipment to t…
+
+來源：Reuters
+類別：半導體
+摘要：Reuters報導，原文標題指出：美國 makes it easier to export Nvidia AI 晶片 and military equipment to the UAE。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+連結：https://news.google.com/rss/articles/CBMizgFBVV95cUxPd0RpM0tkVDY3RXZ5NzBYZnZKR1hkME1NSVE2TVdNYUJCSjY5VWk1LUhfUFd3NTlMdktER1MtOHhEUjVVOHRhSHcxTGh2TFlFMTNsZmt2dzk0WTdFbHUxZm5SNExFX3JyNldDWHpYcHg1dFRGWGdoX2Y5QU1UUGR1TmpodmktT3lXenhad3JqOTMtUERoZmpFX0dMTFh1VEtQdEp5ZERMRGJYNjloTG94X05Ka2pYQWFlU1NENjFTd0tTN002dFBOb3g0d0QxUQ?oc=5
