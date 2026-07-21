@@ -1,122 +1,122 @@
-# 分層式選題池 - 2026-07-20
+# 分層式選題池 - 2026-07-21
 
 以下新聞由RSS標題、來源權重、關鍵公司、政策與市場風險訊號自動篩選；未使用OpenAI API。
 
-## 1. A級｜Why Apple's 訴訟 A上升st OpenAI Over Devices Spares Jony Ive
+## 1. A級｜AMD推出Helios, its first rack AI system to rival Nvidia, adding Microso…
 
-來源：Bloomberg.com
+來源：CNBC
+類別：半導體
+摘要：CNBC報導，AMD推出Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，事件把NVIDIA、AMD、Microsoft放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「AMD 推出es Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer」，涉及NVIDIA、AMD、Microsoft；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMidkFVX3lxTE0tRlF5bzh6NUI5VmZKRW9oTzljR3pJbjVLSl9Yb0NqeEtfMVlTQU5TcHl2dU10YkNtN1ZYb0pCWHl1RHhVd1hNZkZDQ21GSTN0NXZTVXRwalhsWk1tNjlYejF5SUF0TTNLdXVqZnROaWV6R3JfZ2fSAXtBVV95cUxPSE4wRDExampVaGU0bDg4VUVIVDFxOEo1QkxXelFLQ2RwTGpzWHJrOV9vb1l3dWIwUWtEWlU5THY0My1HTUlEMVFpRVFCOURkTUVWQXQ0aktqTzdqN3luZkZVZC05eXRwN2otTFVuSHVLdS1kVEtpNU9WT1E?oc=5
+
+## 2. A級｜Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Yeti,…
+
+來源：CNBC
+類別：美國科技股
+摘要：CNBC報導，原文標題指出：Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Yeti, Harley-Davidson, Broadcom & more。背景是大型科技公司正以AI、雲端、廣告、電商與硬件更新維持增長，管理層任命、產品發布和投資金額會影響盈利假設。市場含義在於，事件把NVIDIA、Broadcom、Apple放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Yeti, Harley-Davidson, Broadcom & more」，涉及NVIDIA、Broadcom、Apple、Tesla；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnhxQlB2RmNBNVB1MlpETkVJU1hkWkJ0ZDhTdWtZS2s5SlVOOV9JbUhSUGpqYzNNQ3JucXNZWk1uVlVJLUVOSklLUy1taFNtemJwUFJORTFrN193RXp4Yk9iSkVhLVJZYWNLcXdPN1Y5RktXaGlrSklxODJNZEpqWW9RRVJCdVotNEt2elVB?oc=5
+
+## 3. A級｜Google計劃new chip to run Gemini models more efficiently, the Informati…
+
+來源：Reuters
 類別：AI
-摘要：Bloomberg.com報導，原文標題指出：Why Apple's 訴訟 A上升st OpenAI Over Devices Spares Jony Ive。 RSS摘要補充，Why Apple's 訴訟 A上升st OpenAI Over Devices Spares Jony Ive Bloomberg.com。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，OpenAI、Apple相關股價已對消息作出即時反應，下一步要看成交量、同業股價和期權定價是否確認這個方向。
-連結：https://news.google.com/rss/articles/CBMi2AFBVV95cUxOek5YX256a1JPWmJMYms3bUxQeTRrZGppZGRsSktVRDNub3FseWRTZEY4a2ZkN29EejVOWmNnYkRuSjdHWnpkR3N0MDVoNEZ0M0lzUUJOU1h4RlRSLTZVRlVVOVp4dXFsaXNMS3VvNXlMblpvUXV4SVBXb3VvSER0cEJUc2tMOUhIcmZ6OF90N3VsVThBX3p1Y3FJUGlsaERkbkZxcGNnaEpzSzA2VG9BaWZqSnJqMFdiTTdCQmVZSGdYc2xVbGdOTHc4SUVtNVVxSXJZX0k1ekQ?oc=5
+摘要：Reuters報導，Google計劃new chip to run Gemini models more efficiently, the Information 報導。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Gemini、Google放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Google plans new chip to run Gemini models more efficiently, the Information 報導」，涉及Gemini、Google；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMivgFBVV95cUxPOU1rMGpSd0lvTDE3aFVId2tXRG04enY0ek9mcDFyR09IVm1TUE1tTEVrR0FuUWpPcnpJbmR5cGQzeFNBZFlBWjdwUE1PSGJFUkpEZ1NwalMxRGhmdjJtYTVaeTh4Mlotek5NOE9YNzRMbERhaVFHQndLSC01cnpVSjlzRHVYV3J2eWtfVkgwZzVuWVFETUNPbkZzeXBzamJ0UHpyNGlRaEItTmpqT05ubE1heGFVcmNIWS05UkR3?oc=5
 
-## 2. A級｜U.S.-China AI feud sees ASML walk tightrope between sales and geopoli…
+## 4. A級｜Taiwan indicts ex-TSMC employee over alleged theft of trade secrets f…
+
+來源：Reuters
+類別：半導體
+摘要：Reuters報導，原文標題指出：Taiwan indicts ex-TSMC employee over alleged theft of trade secrets for intended use in China。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，事件把TSMC、中國放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Taiwan indicts ex-TSMC employee over alleged theft of trade secrets for intended use in China」，涉及TSMC、中國；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHRWazU1OU9HOEhuRnNndU1nMkM4WVZwNlNWNGRybWdNOGM5dy1uUUxpWF9QRVo3akQ4REhCLUtfYmN3bktLZkZ1bGR0XzZhamRDVHBWS3REY0Q4U1pEaF8zUEN0Q3lPWnVkdmlYWUV5cXNGbG9lSFR0TWFfRDVyTUE0N0JQYXBDOEp5M3k5dzRiOHJoZWtNaGwtVGlwZnRrcFJnOV9sNnRWLW1qRktGOXU3bXZmVFFmaU1lZFh0U3RITWdWVkZieg?oc=5
+
+## 5. A級｜U.S.-China AI feud sees ASML walk tightrope between sales and geopoli…
 
 來源：Tech
 類別：AI
 摘要：Tech報導，原文標題指出：U.S.-China AI feud sees ASML walk tightrope between sales and geopolitics。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把ASML、中國放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「U.S.-China AI feud sees ASML walk tightrope between sales and geopolitics」，涉及ASML、中國；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
 連結：https://www.cnbc.com/2026/07/17/us-china-ai-feud-asml-tightrope-sales-geopolitics.html
 
-## 3. A級｜Alphabet股價下跌或受壓，原因是report its most powerful AI model Gemini 3.5 Pro i…
+## 6. B級｜Alphabet股價下跌或受壓，原因是report its most powerful AI model Gemini 3.5 Pro i…
 
 來源：Tech
 類別：AI
-摘要：Tech報導，Alphabet股價下跌或受壓，原因是report its most powerful AI model Gemini 3.5 Pro is delayed。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，Gemini、Alphabet相關股價已對消息作出即時反應，下一步要看成交量、同業股價和期權定價是否確認這個方向。原文標題寫明「Alphabet 股價 下跌 on report its most powerful AI model Gemini 3.5 Pro is delayed」，涉及Gemini、Alphabet；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+摘要：Tech報導，Alphabet股價下跌或受壓，原因是report its most powerful AI model Gemini 3.5 Pro is delayed。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
 連結：https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html
 
-## 4. A級｜Moonshot計劃IPO in Six Months After China AI Breakthrough
+## 7. B級｜Google計劃New 'Frozen' Chip to Run Its AI Models Much More Efficiently
+
+來源：The Information
+類別：AI
+摘要：The Information報導，Google計劃New 'Frozen' Chip to Run Its AI Models Much More Efficiently。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMimgFBVV95cUxNREhZUV9lOUg2Wmpzd09yd05jUEdxOG1zXzVWOHhYUF9hTUlGQ1pSUWw5VTdvNk1XNUpWUmZrQ25jMUppNnN1VEZ1OXFXbkVQaUxyR0pJT2pxSVRuSVNuQkdUR0x4RmphcGFtTmN4QTN5azlhVjk0N0JjQ1pGem5yNE1UbWFkNmdUczNlMFEzcTNDdmtmd0Q3aTdR?oc=5
+
+## 8. B級｜Alphabet 股價 pops on report it's developing a more efficient AI chip
+
+來源：CNBC
+類別：AI
+摘要：CNBC報導，原文標題指出：Alphabet 股價 pops on report it's developing a more efficient AI chip。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMifEFVX3lxTE1fa3ptelhSNFRhNjR1dmVVMFFLcEduanlBWjNMQWdiSDlNVWRGSmp5RzhMcERtazdIbVJXRm1zS1kzVEpDRWtwNF9ZX2xjaWRMLUFYY1pGOExYbUJ1d2xxSDZCZWVpYVNsNm1CbTQtSnpfbVBZMk5aMEc4TzDSAYIBQVVfeXFMUDl6b19kQzlTZ2hxb2F4eDBWU0JPb0hDeTVPQVc1SWE4bVpuck40OHpEVV9mTWVld3dsR1RZamp2NE50UjFPOVZVSldUdm9DdHAzeGVDd3NGZGdMOVUyMWZvQXNKUnlONV9WNk52UHhSLUZvMENaQkpKMXBEanU0b0hqZw?oc=5
+
+## 9. B級｜2 things capping Monday's market — plus, Alphabet's new AI chip roadm…
+
+來源：CNBC
+類別：AI
+摘要：CNBC報導，原文標題指出：2 things capping Monday's market — plus, Alphabet's new AI chip roadmap。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkY1Qm1yb2YyMi14T2s1RzBoNS1yM2Q5Zm5OczZEYVVjWG5xSW1OaFJkOXpKNlNZYnBpYUtiSmRlWXFZdG96aUo5b3dVaU5rcUEyOUZXQXdDenU3b3hVQVJQWVdOaS1NalJiZDRPVzZDaXZOQlhCREdhUEJfbzdmeGpfWGR1eFY3V2k5VlExZFNMTURWWGt3WklMTnI1c29XUlE?oc=5
+
+## 10. B級｜Google to work on new AI chip to run models more efficiently: Report
+
+來源：CNBC
+類別：AI
+摘要：CNBC報導，原文標題指出：Google to work on new AI chip to run models more efficiently: Report。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWp1RGJZQ01uRGJyRWZpeXZNMEQ2WXBPR1hmbEdsYm5MVFUxUGhCN3NaM2lmV3BVOHNLc0RrYVdYb2lnLV90R1o2SEdnQlpZUmUxRWl0Mkd5SEdBUVd1UEpUN051aWdfSF9WVkwySnlRVUloSmIxMHh3RGRPbnRtdmRQNkpvVkpzbDQ5MUdXMWszUmMtSEhDLXMyYkxsQTBjRThwcmIwVzVfcE1mU0Jv?oc=5
+
+## 11. B級｜Google股價上升，原因是Report of Chip to Boost AI Efficiency
 
 來源：Bloomberg.com
 類別：AI
-摘要：Bloomberg.com報導，Moonshot計劃IPO in Six Months After China AI Breakthrough。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，這則消息直接涉及中國的變現能力或財務預期，投資人會把它放進上市、估值或財測模型。原文標題寫明「Moonshot Plans IPO in Six Months After China AI Breakthrough」，涉及中國；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMiswFBVV95cUxObkIwb3FxcDJpbndYYkJTMWlSbUI3VmVWMTNrXy1QRmQ1TmdJeElDMTRUYmlJWG14R3lqWks3S01WSUxCLVJXakd3QVJiRVAtLUVPUmZVelNGNVQ4OHZOYlFQd1lzV2o0YzN6MWp6V2FDdEdpTG1pbjJ5bHQweXJfOWI5dkhOYk50MHI4ZWgzX0VCMVJxYmRSMmhydFluRlFxY0hsLVJRVk1CUVRZX05tV28zTQ?oc=5
+摘要：Bloomberg.com報導，Google股價上升，原因是Report of Chip to Boost AI Efficiency。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGdVbVNpNHdna2FUaEk5Y3ZObVI3dWwxZWlzTGIxeDJuQWNZR2o5REJETHJhblIzdVBrMjFMbFdQOFZhQkphSVFIRkxpYUtFZFhXN1NFSUk5a0lxVmVya2lZaGh0MVIxT3owSWJMS0VabVNoNTZmRVY3WkxtMFZrV09UTVVPX3FSb2NBUllIWkkyRFkwXy15aDFleXlicFRPVkNHZlgzWXg4S2EtOGhCdzV3?oc=5
 
-## 5. A級｜Anthropic in early talks with Meta to acquire compute power
+## 12. B級｜The bar for Tesla 業績 is sky-high. Here's why and how options traders…
+
+來源：US Top News and Analysis
+類別：美國科技股
+摘要：US Top News and Analysis報導，原文標題指出：The bar for Tesla 業績 is sky-high. Here's why and how options traders can capitalize。 RSS摘要補充，Michael Khouw breaks down how he's trading Tesla into 業績。背景是大型科技公司正以AI、雲。
+連結：https://www.cnbc.com/2026/07/20/the-bar-for-tesla-earnings-is-sky-high-heres-why-and-how-options-traders-can-capitalize.html
+
+## 13. B級｜Anthropic in early talks with Meta to acquire compute power
 
 來源：Tech
 類別：AI
-摘要：Tech報導，原文標題指出：Anthropic in early talks with Meta to acquire compute power。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Anthropic、Meta放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Anthropic in early talks with Meta to acquire compute power」，涉及Anthropic、Meta；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+摘要：Tech報導，原文標題指出：Anthropic in early talks with Meta to acquire compute power。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
 連結：https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html
 
-## 6. B級｜Alibaba and Baidu股價上升，原因是in Hong Kong on Apple AI 合作
-
-來源：Tech
-類別：中國科技
-摘要：Tech報導，Alibaba and Baidu股價上升，原因是in Hong Kong on Apple AI 合作。背景是中國平台公司在監管壓力和本土AI競爭下重新推產品、調資源，微信、電商和短影音入口仍是最重要流量戰場。市場含義在於，Apple、Alibaba、Baidu相關股價已對消息作出即時反應，下一步要看成交量、同業股價和期權定價是否確認這個方向。
-連結：https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html
-
-## 7. B級｜Apple, Nvidia vie for title of world's most valuable company
+## 14. B級｜Apple, Nvidia vie for title of world's most valuable company
 
 來源：Tech
 類別：半導體
 摘要：Tech報導，原文標題指出：Apple, Nvidia vie for title of world's most valuable company。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
 連結：https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html
 
-## 8. B級｜Microsoft's Nadella criticizes Anthropic's Fable for being 'editorial…
+## 15. B級｜Microsoft's Nadella criticizes Anthropic's Fable for being 'editorial…
 
 來源：Tech
 類別：AI
 摘要：Tech報導，原文標題指出：Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled'。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
 連結：https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html
 
-## 9. B級｜CFOs Face a New Question This 業績 Season: What Do Your AI Tokens Cost?
+## 16. B級｜AMD, Micron, SK Hynix climb as semiconductor complex attempt recovery
 
-來源：Bloomberg.com
-類別：AI
-摘要：Bloomberg.com報導，原文標題指出：CFOs Face a New Question This 業績 Season: What Do Your AI Tokens Cost?。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbFl4N1FjTEl1N3pMZUMtbEdCcjBOeHAwaEFkeE9KYkdVY1VsMzYzVzJrRTFlYzY2UklKRlZ2YXhrdTlCUDRMNDlmQktlMWZ6YzdfM0p4NERaeGF6RWsxTUNLcWE4Uzl2bHM2VUhWd0xSM1E5dXFNTTF2TmFjRFFmdnhGOGVvS1daSldWMG51RXp3Y2oxRV9KNE5xdXVqbG0teWpoamI3S3RUQQ?oc=5
-
-## 10. B級｜中國的 Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic
-
-來源：BBC News
-類別：AI
-摘要：BBC News報導，原文標題指出：中國的 Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss
-
-## 11. B級｜The AI rotation stole the spotlight from a strong start to 業績 season
-
-來源：Tech
-類別：AI
-摘要：Tech報導，原文標題指出：The AI rotation stole the spotlight from a strong start to 業績 season。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://www.cnbc.com/2026/07/18/the-ai-rotation-stole-the-spotlight-from-a-strong-start-to-earnings-season-.html
-
-## 12. B級｜TSMC is accelerating Arizona factory buildout to capitalize on AI 'me…
-
-來源：CNBC
-類別：AI
-摘要：CNBC報導，原文標題指出：TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMigwFBVV95cUxQd2FWclZGano0cHJOODVWcTdPLWpsQ2RXbzIxYkg4ZDFkd2JkOWRVMS1nWVlnR3c1bURNcFdCUE9sZzIyZUtzSU01V1FUdDZIdWRzbWlJVElCRXNWenUtejRIa2I3X1NrcjFMNEVRWTQ0YVBORFluR0hsTGVIWUpWUkpuONIBiAFBVV95cUxNUkJaNENZWmFKeTlhY3cxV254bVd1MWVLZWYxWEplcWZ0RXNKZWxCaXdzbWxVcld2OGdnMTU3WTRjQXNOLUNBNThIRVpWT1p1QWtPR2M4RTVnY0gyVlN5cVlTbVhTbWt0clBVaVRySF9mSUhaZU5mb1AzMm1jRFdWRmtUYTFjYTdX?oc=5
-
-## 13. B級｜Analysis: Fed Chairman Warsh faces an 通膨 credibility test after Congr…
-
-來源：US Top News and Analysis
-類別：宏觀經濟
-摘要：US Top News and Analysis報導，Analysis: Fed Chairman Warsh faces an 通膨 credibility test after Congress hearings，焦點是利率、通膨或經濟數據變化。背景是投資人正從通膨、就業、GDP與央行官員表態推算下一步利率路徑，外匯、債息和股市會同步反應。
-連結：https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html
-
-## 14. B級｜Xi pitches China as AI partner to developing world,警告a上升st risks and…
-
-來源：Tech
-類別：AI
-摘要：Tech報導，Xi pitches China as AI partner to developing world,警告a上升st risks and security overreach。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://www.cnbc.com/2026/07/17/x-china-ai-summit-risks-security.html
-
-## 15. B級｜Nvidia-backed Fireworks hits $17.5 billion valuation as companies pur…
-
-來源：Tech
-類別：AI
-摘要：Tech報導，原文標題指出：Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html
-
-## 16. B級｜Nvidia推出new AI model and expands Japan's physical AI ecosystem
-
-來源：Tech
-類別：AI
-摘要：Tech報導，Nvidia推出new AI model and expands Japan's physical AI ecosystem。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html
-
-## 17. B級｜Institutional demand for CXMT's $8.6 bln Shanghai IPO dented by chip…
-
-來源：Reuters
+來源：Yahoo Finance
 類別：半導體
-摘要：Reuters報導，原文標題指出：Institutional demand for CXMT's $8.6 bln Shanghai IPO dented by chip 股價 selloff。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-連結：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSzlsR09iZW45b0NFWWhmTEpad3RlX1hUdmdxRlRBTG1WRk84T1Y1NnotTkUzMWRMZm9FNERUaU5hbUtUNGt4WkZScHEwS2Z5RE43MWxENkxxM3BWbzJtOXVWa0ZiOWQtcmZDemk0dWVaUnAwa0VXQThPSkxLV0wzeFQ2MlBEVjhzNmJXejREYS1YSWdNMXUwN1p3VjN2M3ZrWmVIX3B3ZzNSaWxJeG8wZl9qUVBwczhMbG14MDVURW0?oc=5
+摘要：Yahoo Finance報導，原文標題指出：AMD, Micron, SK Hynix climb as semiconductor complex attempt recovery。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+連結：https://news.google.com/rss/articles/CBMixgFBVV95cUxPQnhhRXRfeURrNHk0RzF4RnFvRDNjTjBaY2g4ZU1OZzdRd1p5ajM1dk9sRVUzOFFieTFlMzJUQ3FtVVNKcTVtQjh0Z0FVSXlOSG82MGRlMHZpdU1sQndSc1drT1l3aE1uTWw3WEx5U3NFSXc3RnF2T2RvS1Qxa2JNQllPOXI5aHFLN0F0WUhOWlZxSzV6R05aSzR2ZU40X25OSnQ1em1lbU5QaEVfam8wY0prbUZKTjhrZk9venlycWRFSmJiVlE?oc=5
+
+## 17. B級｜AMD, Micron, SK Hynix lead chip 股價 recovery
+
+來源：Yahoo Finance
+類別：半導體
+摘要：Yahoo Finance報導，原文標題指出：AMD, Micron, SK Hynix lead chip 股價 recovery。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+連結：https://news.google.com/rss/articles/CBMipwFBVV95cUxQdk9ocUZ3YzF2U0YtRm02UWJ2dFRmVER3TnhDbVgtaGp1Vl84c2ZCR0t2b1ZqSjFKbEhibmliZFpGbXpaVUVUWnpsRU45MG1BamMyUlI4Z1A3a21RRlNkTGJyenVucmlObHppNkdqWHlsMTNwVDZXcXZ2WVdFTmxkLWlhcE1DZENjLXV3NGphcHFoaUR2SkpfRV9fekRxbGV0QlBlM2ZBRQ?oc=5
