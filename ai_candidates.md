@@ -1,4 +1,4 @@
-# 分層式選題池 - 2026-08-02
+# 分層式選題池 - 2026-08-03
 
 以下新聞由RSS標題、來源權重、關鍵公司、政策與市場風險訊號自動篩選；未使用OpenAI API。
 
@@ -18,17 +18,17 @@
 
 ## 3. A級｜Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined…
 
-來源：US Top News and Analysis
+來源：Tech
 類別：美國科技股
-摘要：US Top News and Analysis報導，原文標題指出：Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week。背景是大型科技公司正以AI、雲端、廣告、電商與硬件更新維持增長，管理層任命、產品發布和投資金額會影響盈利假設。市場含義在於，事件把Microsoft、Amazon、Alphabet放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week」，涉及Microsoft、Amazon、Alphabet；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+摘要：Tech報導，原文標題指出：Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week。背景是大型科技公司正以AI、雲端、廣告、電商與硬件更新維持增長，管理層任命、產品發布和投資金額會影響盈利假設。市場含義在於，事件把Microsoft、Amazon、Alphabet放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week」，涉及Microsoft、Amazon、Alphabet；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
 連結：https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html
 
-## 4. A級｜AI Isn't a Catch-All Trade for 股價 in This 業績 Season
+## 4. A級｜AMD and Sandisk are two of the big chip 股價 with 業績 momentum in the ne…
 
-來源：Bloomberg.com
-類別：金融市場
-摘要：Bloomberg.com報導，原文標題指出：AI Isn't a Catch-All Trade for 股價 in This 業績 Season。 RSS摘要補充，AI Isn't a Catch-All Trade for 股價 in This 業績 Season Bloomberg.com。背景是資金在股、債、匯、商品之間重新配置，油價、美元、債息和大型股財報常會互相牽動。市場含義在於，金融市場相關股價已對消息作出即時反應，下一步要看成交量、同業股價和期權定價是否確認這個方向。原文標題寫明「AI Isn't a Catch-All Trade for 股價 in This 業績 Season」，涉及金融市場；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjA3eXJPUEx6TzNqX3ZEblRoVXRBQWhnRkswOHI3SG1qN0U5eDNkRTRqdnVVNnY2X2l6WjFTQWl5MGVQTVNZUnJ0bEVNWTg4bzFfaEtpOVFnQnYxOG1NeXVVZTdBY2hNUldtTWFmMkxJQ2I4YW1WcEFOMFZaMV90VUU1ZWkwMXlub3VUMzlPWFladUc5RVVzLTBVSmFmMUtRb2RmR3JUUTJEY1Y1Zk80cWln?oc=5
+來源：CNBC
+類別：半導體
+摘要：CNBC報導，原文標題指出：AMD and Sandisk are two of the big chip 股價 with 業績 momentum in the new week。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，AMD相關股價已對消息作出即時反應，下一步要看成交量、同業股價和期權定價是否確認這個方向。原文標題寫明「AMD and Sandisk are two of the big chip 股價 with 業績 momentum in the new week」，涉及AMD；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMipAFBVV95cUxNUV9SQmIweFU0ZWxCLXJJQUVBRUo3OXhvRGl6dGh1cWozSXRQTjBmdlBoSzlHTEV2SG9Yb3piNXlIZk1maUdycmwxbFBZblZCejI5VHFzaEE4QmpUdlRDS1czTi1QNGdCbGl6N0xCLUJHTlZZcE5DVHh1a1Fzc2Z2MURKLWJQRWtkT2ptTXZWUlNfNEtNVDk0VGgzQmFOeXBoUjZXMA?oc=5
 
 ## 5. A級｜Amazon says it got $600 million in Trump 關稅 refunds and will pass ret…
 
@@ -58,47 +58,47 @@
 摘要：Tech報導，原文標題指出：Nexus 資料中心s in advanced talks to secure $15B for Google-backed Anthropic 資料中心。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
 連結：https://www.cnbc.com/2026/07/30/nexus-data-centers-in-advanced-talks-to-secure-15b-for-google-backed-anthropic-data-center.html
 
-## 9. B級｜Apple set to lose nearly $500 billion in value after weak 預測
-
-來源：Reuters
-類別：美國科技股
-摘要：Reuters報導，原文標題指出：Apple set to lose nearly $500 billion in value after weak 預測。背景是大型科技公司正以AI、雲端、廣告、電商與硬件更新維持增長，管理層任命、產品發布和投資金額會影響盈利假設。
-連結：https://news.google.com/rss/articles/CBMixwFBVV95cUxPZi0ya0lkQWtBRjNSR0o0YkFvMnVrZUx6N3EzRHBnTEtva0gtc2RwajIxM0ZXY2hLN2h1eUl3THBILVBrbTNrNHRDVmpLUmxBWWtQeUNuTURRa2xMZXktdG55Ymd3YzZmR296U3lTLVFSZjQ3eS01QzFwZExkVDN5Mk9PWjROR3hDZlRja0YxNGM2Tm5MUE9CRjNYWUtuR19RQUxPc0FoZEdaVGsyQUtiQmdqQmFGUmhqV0l0SXZqUzRoRHhzckpv?oc=5
-
-## 10. B級｜Exclusive: OpenAI P審查 'Astra' AI Model in DC
-
-來源：The Information
-類別：AI
-摘要：The Information報導，原文標題指出：Exclusive: OpenAI P審查 'Astra' AI Model in DC。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjNBZGhQZFk0YXdGc0FQRUsxd0Jrd2RuTkRBXzFMMTdpUXZqZWpOYjR5dEhrMkg4X0hYcjFEemFBWEdGQU9Tc1hjMXZWN0lxQVlNU2FBcHpMQ0ctSHplVklWOEFhQmljYTQ0NERkZ3V5di0tZUR3Rm1zX0R3X1k1MDRDNzRydEFtenplMg?oc=5
-
-## 11. B級｜OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pa…
-
-來源：CNBC
-類別：AI
-摘要：CNBC報導，原文標題指出：OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmdXeDhvOWhnMk1CdEVPQ1l3SExjSl9Yd1dNWlpVS3U0WU9ta2EwM1U4REJyanh0QXVOZUdiXzVNYWJfazdzOG91VEFYS0o2eXBXNnQ4WVNjWEZ2T0xCaXpDaUkwX1VXamh2by1seFhGSE1McW1INDl5MnVBakdia3czNNIBiAFBVV95cUxPckY3OG1rcGJyWTBzdC16bGloeExwRmVVcmI3b19YQXZnSE44T0k1bzRuc0x0cXZ6SDRxQUZHQmdGeHZ3a0h0SS1pWl9NSlFZcHZubzY0eU50cldpT1QwOHNHaTlSNm1MV2d6N0tSQ2VjZWY1eWVXck93dUF3Z0VYRXBnbHI5dkdn?oc=5
-
-## 12. B級｜How OpenAI Lost Its AI Crown—and the Fight to Win It Back
+## 9. B級｜The Race to Build an American Alternative to Cheap AI From China
 
 來源：WSJ
 類別：AI
-摘要：WSJ報導，原文標題指出：How OpenAI Lost Its AI Crown—and the Fight to Win It Back。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMimAFBVV95cUxPektzS3JzanYyeWtKSFpFaVJ4VFFBUGJNOEkzTHdYSVdtcXpzclZJaDFyNV9HcjcwN3F5OEN0U3VUVmhMMnpqeDRpVnlGanRseE0yczFHUER3ZEljRFZ2NVVzSkN1VmJZU2R1TjgxRmplUFZlWWVucGN6SGQ2TmRBU3pJQ09PZWphRUVSS2hJYkVGYUxSUXAzcw?oc=5
+摘要：WSJ報導，原文標題指出：The Race to Build an American Alternative to Cheap AI From China。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1l1NDFOT09nMFNYX0lVNjlidGtVYmM5YWdNcU13NHlmVlZDS1YyYlVGeFdJZnd2Wk1ZenlBWUZUZ245M21tV25rMjZXTHBlWUNGU0hVX2NJb1lVMlV3a2lrazJhQTRxRVM3Z1pyazIxUDVFYWhSU0hUMHdmeDNmZUNXYk5nR2pXSFpVSmpyM3Y2bmZnOUFqdzBTTG5Qa3gxQXQw?oc=5
 
-## 13. B級｜As Warsh's Fed faces pressure to act on 通膨, these indicators show it'…
+## 10. B級｜Apple struggles to keep pace with AI 'bug' hunters
+
+來源：Financial Times
+類別：AI
+摘要：Financial Times報導，原文標題指出：Apple struggles to keep pace with AI 'bug' hunters。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUZlb21va0dHaEhfWFM0YUJzZ3FOLW1FUmN4d0pOaWx1cnM2VTlTNENubGZTNmlSTFZmS1p0SjBvampPTGFOU3U4YVhLX0lhbmNQTk9sYks3dXQyN1JFdDVGNGRZbmw5S3NpQ2NNaHNvN1UtS2UwV1ZxZFhFRlV4NmJlZ0Y?oc=5
+
+## 11. B級｜Op-ed: The U.S. lead over China in AI is all but gone. We need a chan…
+
+來源：CNBC
+類別：AI
+摘要：CNBC報導，原文標題指出：Op-ed: The U.S. lead over China in AI is all but gone. We need a change in national strategy。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMidEFVX3lxTE5EVTd0dkY4M2ZFa0NkaHhDdzFibUc1OUhwc1lTaTQ2bG5BeGZHbUxXRnZOT3RPNTZNVzlEMVBveHA2V1pwTnVLOG5MNXpXdjVtX1BPMXZlbk53TjFRZWgwWFVCRWRqVE8wZ0NtSWdsXzZhcDZf0gF6QVVfeXFMUGdycGp6MllJMGVuZWJLeHBweV82Ym1meERmMkhkbk54S3RZbGNpMkVidzdTVk5tRGYwZnAzY21YUmc1ZG9oR0Jwb1FRSW1qWURYb0k2Z1VjMlF1ZmpDYk1wN1NGM2hCbjJ1SXYwN1NHUFJkaGV6UUpELXc?oc=5
+
+## 12. B級｜Free Cash is King As Companies Pour Billions into AI (META, GOOG, UPS)
+
+來源：Bloomberg.com
+類別：AI
+摘要：Bloomberg.com報導，原文標題指出：Free Cash is King As Companies Pour Billions into AI (META, GOOG, UPS)。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0hLa2ZiU3lfYWZHeVY0b1RPOEx5T2VkdlFsVGQ3UlNTRkh5UVdZZmNUZllkR09GMllmbHlodDFfQm5aV25qS0JuR1NUZmVvd1Z5OGFBb21jZUY2Q0ZIZWpYZmgybGxzQldCaDYxU1hOODlMNENLSkh1TU8wVFlQNHVhNWlMbkQ0bGFhMndUR1NWSWQ3c29VcVVEc2tKbVZ6MDJsT29SZi1GNDdFX3RVUFpPb3BqYXVvVEItbA?oc=5
+
+## 13. B級｜OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pa…
+
+來源：US Top News and Analysis
+類別：AI
+摘要：US Top News and Analysis報導，原文標題指出：OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html
+
+## 14. B級｜As Warsh's Fed faces pressure to act on 通膨, these indicators show it'…
 
 來源：US Top News and Analysis
 類別：宏觀經濟
 摘要：US Top News and Analysis報導，As Warsh's Fed faces pressure to act on 通膨, these indicators show it's at its lowest in years，焦點是利率、通膨或經濟數據變化。背景是投資人正從通膨、就業、GDP與央行官員表態推算下一步利率路徑，外匯、債息和股市會同步反應。
 連結：https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html
-
-## 14. B級｜Fed officials who voted to hike rates say action is needed now a上升st…
-
-來源：US Top News and Analysis
-類別：宏觀經濟
-摘要：US Top News and Analysis報導，Fed officials who voted to hike rates say action is needed now a上升st 通膨，焦點是利率、通膨或經濟數據變化。背景是投資人正從通膨、就業、GDP與央行官員表態推算下一步利率路徑，外匯、債息和股市會同步反應。
-連結：https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html
 
 ## 15. B級｜Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'
 
