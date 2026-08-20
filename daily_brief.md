@@ -1,70 +1,63 @@
-# Daily Research Brief - 2026-08-20
+# Daily Research Brief - 2026-08-21
 
 分層式市場晨報
 
-生成時間：2026-08-20 07:34（香港／台灣時間）
+生成時間：2026-08-21 07:38（香港／台灣時間）
 
 ## A級新聞
 
-### 1. 通膨 moderated as Intel and Nvidia fueled the AI trade in last week's m…
+### 1. Nvidia denies report it is rolling out China AI chip by year-end
+
+- 來源：Reuters
+- 類別：半導體
+- 時間：2026-08-21 04:16
+- 摘要：Reuters報導，原文標題指出：Nvidia denies report it is rolling out China AI chip by year-end。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，事件把NVIDIA、中國放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Nvidia denies report it is rolling out China AI chip by year-end」，涉及NVIDIA、中國；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+- 連結：https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5
+
+### 2. Nvidia Plots China Comeback With New AI Chip
+
+- 來源：The Information
+- 類別：半導體
+- 時間：2026-08-21 00:58
+- 摘要：The Information報導，原文標題指出：Nvidia Plots China Comeback With New AI Chip。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，事件把NVIDIA、中國放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Nvidia Plots China Comeback With New AI Chip」，涉及NVIDIA、中國；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+- 連結：https://news.google.com/rss/articles/CBMihgFBVV95cUxNVnJoWXNySmtCc1N4NzNmZU5pWDB0MlJkQWZMdVJ3UFl4R0IyajFaY05FTFdOU3RnZHN1ZDd2bUJ2RHNrQ3pmQmRTTVp0S0lXS3ozdGRxQWExdWR6WkpOTDRqeURmUGxxZTl0YXp1SG54MDBnMkwwaU12aEZxNHBQeHhvVlF5dw?oc=5
+
+### 3. Anthropic Expects to Match SpaceX's Record IPO Size or Top It
+
+- 來源：Bloomberg.com
+- 類別：AI
+- 時間：2026-08-21 01:56
+- 摘要：Bloomberg.com報導，原文標題指出：Anthropic Expects to Match SpaceX's Record IPO Size or Top It。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，這則消息直接涉及Anthropic的變現能力或財務預期，投資人會把它放進上市、估值或財測模型。原文標題寫明「Anthropic Expects to Match SpaceX's Record IPO Size or Top It」，涉及Anthropic；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+- 連結：https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjdKM3p6TTVON2FNcXFDRVhHd056NU03dGQxNzFYYkNYc09xWDhwS1hETzdFUkoyVkpWM0o1VENSaENzWnIwODBmUThla2dsUWF5UkRuWThvVmRsRVdCZHhCaDVQZ2NYSVdLU2J4aHdaZ19OeDY5LUREbVg1cmR6ZmZxVk5OcG5YX0lHMmFUelNSYjNoVVBJVWNYdENoeFFZdmxEQVBPSDNsQWdIMFdtQnJn?oc=5
+
+### 4. Marvell's 股價 pops 10% on AI chip 交易 that lets Google buy up to $12.2…
+
+- 來源：Tech
+- 類別：AI
+- 時間：2026-08-20 04:01
+- 摘要：Tech報導，原文標題指出：Marvell's 股價 pops 10% on AI chip 交易 that lets Google buy up to $12.2 billion in 股價。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，Google相關股價已對消息作出即時反應，下一步要看成交量、同業股價和期權定價是否確認這個方向。原文標題寫明「Marvell's 股價 pops 10% on AI chip 交易 that lets Google buy up to $12.2 billion in 股價」，涉及Google；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+- 連結：https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html
+
+### 5. The U.S. 被禁售的 NVIDIA的 best 晶片 from going to China. Now it's trying to…
 
 - 來源：Tech
 - 類別：半導體
-- 時間：2026-08-15 22:22
-- 摘要：Tech報導，通膨 moderated as Intel and Nvidia fueled the AI trade in last week's market，焦點是利率、通膨或經濟數據變化。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，政策或數據會改變利率、匯率、債息和風險資產的短線定價。原文標題寫明「通膨 moderated as Intel and Nvidia fueled the AI trade in last week's market」，涉及NVIDIA、Intel；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-- 連結：https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html
-
-### 2. Marvell's 股價 pops 10% on AI chip 交易 that lets Google buy up to $12.2…
-
-- 來源：CNBC
-- 類別：AI
-- 時間：2026-08-19 23:08
-- 摘要：CNBC報導，原文標題指出：Marvell's 股價 pops 10% on AI chip 交易 that lets Google buy up to $12.2 billion in 股價。 RSS摘要補充，CNBC Marvell gives Google option to buy $12.2 billion stake in custom AI chip 交易 Reuters Marvell 股價 上升s On Google 交易, B。。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，Google相關股價已對消息作出即時反應，下一步要看成交量、同業股價和期權定價是否確認這個方向。
-- 連結：https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZjN6RG5qZ2hsZU5Db1FlOVdDNWJsX2dpVHVlMnAwdEpIa1BaV21fZ290eTNhVUdqOEVqSkdlRGZCclRtellnd05GQm9JWlpKRC11X1p6Y21CLUdyUWUwaThFUDFwQ01TWmNDUdIBckFVX3lxTE1mNEJ4WHBveW1zdm5DeGU2X3RTcndUbDdfNW5ZcjVlX1g0dGZERE5YdVJjbG9ZVHZnaDhzSklJcnRkb08wd1Bsd1pLeHZCd0xfbkx2dHJkaXJNVHZyaUZhMWw2V1hZVThYclhzdHJVVVh6Zw?oc=5
-
-### 3. Marvell gives Google option to buy $12.2 billion stake in custom AI c…
-
-- 來源：Reuters
-- 類別：AI
-- 時間：2026-08-19 23:03
-- 摘要：Reuters報導，原文標題指出：Marvell gives Google option to buy $12.2 billion stake in custom AI chip 交易。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，交易或協議若落實，會改變Google的供應、客戶或收入來源；後續關鍵是金額、期限和交付時間。原文標題寫明「Marvell gives Google option to buy $12.2 billion stake in custom AI chip 交易」，涉及Google；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-- 連結：https://news.google.com/rss/articles/CBMisAFBVV95cUxQM25qTEk3MUd3ajdfTUxKdHdZRFBJLVpWT0ZKemNURzlTVUQ5SUNtVGF3WTF0N0NfRndKaENWdDRqVVBXSmZRS0xiY24wTFEyc1I3NWI5eU1PVDJxZ1lFb0Y1VVEzMDZmb2k2dkV3WmxhNk1LMG5HN3ItRmRwQ3lvQ2pjRU5JRDN3MXJpLWo5aGlJR3hyVG5EdkswS3k2RlhzMXU2cGctR1EzOE50Zk1PXw?oc=5
-
-### 4. Google strikes $12bn AI chip 交易 with Marvell
-
-- 來源：Financial Times
-- 類別：AI
-- 時間：2026-08-20 00:05
-- 摘要：Financial Times報導，原文標題指出：Google strikes $12bn AI chip 交易 with Marvell。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，交易或協議若落實，會改變Google的供應、客戶或收入來源；後續關鍵是金額、期限和交付時間。原文標題寫明「Google strikes $12bn AI chip 交易 with Marvell」，涉及Google；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-- 連結：https://news.google.com/rss/articles/CBMihAFBVV95cUxQNW9nd0NMT0lOYkVnSy1xV2lXQVZoS2phTUF0V3BrVzI0UFBNNFNuS2o4THJWUi1KWEVROW8zNllQVVl3Z3kxWXZ6TGcxcTczbHpQWUlqMTJ1RjRqUjlJQTFlNE9JZ1p6UUtBU2luN2dGcWgyOUtxUlVqSks0UjhyUkFEbnU?oc=5
-
-### 5. OpenAI's Latest Bid to Fight Anthropic: A Promise Not to Keep Custome…
-
-- 來源：WSJ
-- 類別：AI
-- 時間：2026-08-20 01:00
-- 摘要：WSJ報導，原文標題指出：OpenAI's Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Anthropic放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「OpenAI's Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data」，涉及OpenAI、Anthropic；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-- 連結：https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXB2SWdWeFJfclV5dWJ1bFpJdXlFeFlLMVhwREtoTjJXazlUcEFndjAtN0ZVTVEtRkxTVTBwYmxVc1IycTNPUFRxWDBMTHlOYW9YLXk5LVg2QkduNFVqZGNCQ2RiS2NaY0o4ZGZOUi1BcU5iTmpheDA3djRzODVaN0JuaDFyeWIxcV9MOXNnR0psTWkzNlV0NDRtZTFEcV9sQjZXaFpLVkhuVTZkeDJR?oc=5
+- 時間：2026-08-19 18:32
+- 摘要：Tech報導，The U.S. 被禁售的 NVIDIA的 best 晶片 from going to China. Now it's trying to close a crucial loophole，涉及禁令、限制、出口管制或關稅措施。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，事件把NVIDIA、中國放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「The U.S. 被禁售的 NVIDIA的 best 晶片 from going to China. Now it's trying to close a crucial loophole」，涉及NVIDIA、中國；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+- 連結：https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html
 
 ## B級新聞
 
-### 1. After TSMC, Samsung Is Also Reportedly Planning To Hike Chip Prices A…
+### 1. Nvidia to ship AI chip for China by year-end, The Information 報導 By R…
 
-- 來源：Yahoo Finance
+- 來源：Investing.com、101 WIXX
 - 類別：半導體
-- 時間：2026-08-19 19:02
-- 摘要：Yahoo Finance報導，原文標題指出：After TSMC, Samsung Is Also Reportedly Planning To Hike Chip Prices Amid Demand 急升 Fueled By Nvidia, Apple, Tesla And Others。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都。
-- 連結：https://news.google.com/rss/articles/CBMinwFBVV95cUxQVGZvTzMxQWJhdWFwT1JpT3hlR0FCeHY0VXFUb1pFQm5VUzRRNE1vdWhER2xvX2xjdUxMdm1xMWIyVGZpX20zTm1VaFdQSEtNNEF3dG10QjlMM1hGN0hzbnJFOEZ5NVJiRFNSVjNGWGs3a1ZIRW91NkF5VDNZQ0xRQVNjaXp2aHhWaVhrT20tOExCYXVMUjd3SWQ4VVFYUzg?oc=5
+- 時間：2026-08-21 01:20
+- 摘要：Investing.com、101 WIXX報導，原文標題指出：Nvidia to ship AI chip for China by year-end, The Information 報導 By Reuters。同一事件亦見於2個來源，背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+- 連結1：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdnltMV9sOEluenJaYVhFZjB0N3JIcGlkRjBuUHV4SkFjUTFPaGlBS2NYU1NXdTA5SzFWdnBFdEFLMUUtWUlRWUdJc3dOWTVGR2tjaWFWR0NHaXhVN2lMS2hNdVRtaXprNlBmaWFfY1FyZy1LZ2FoalJWRTduRmJaZ0l5TlkzRURNeERpZDlVQlp3SERQTjlFTkM0SnFxcXc2d3BYR21sd3FNU0k2SUR0WDczNXRwY3hvMk5icFYxYkNFUQ?oc=5
+- 連結2：https://news.google.com/rss/articles/CBMingFBVV95cUxPSHZMRWRVdEIwdEFhcTZoNHA2ZzQ0Ukt5TDdqOGQ2bUFKdXl0VFhIWVVYUWlUZUtGUmdEZVNEc1dTWGIxemZqN1NId3doQU9qSG9ETnhHQlRxaEdvM0xQazZGc3NWUHhTbmxXWERBQUV2WHpkekZDWURha19zbjdvZVcwaG1mZ2t2Yl9XeHJNSlR3eDk0U3pBZU5TY255Zw?oc=5
 
-### 2. The U.S. 被禁售的 NVIDIA的 best 晶片 from going to China. Now it's trying to…
-
-- 來源：CNBC
-- 類別：半導體
-- 時間：2026-08-19 18:32
-- 摘要：CNBC報導，The U.S. 被禁售的 NVIDIA的 best 晶片 from going to China. Now it's trying to close a crucial loophole，涉及禁令、限制、出口管制或關稅措施。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-- 連結：https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWJpVjNJOUI4aGhPa05XTERJZkExbFpwNnA4LW91MVA1TnQ1RVhhZm44czFRSmJIZ2tZX29zOC14Y1RLNmlxeWxzZ2l6UUwyNVE3WDVjM3RuczFsMTB4dXEtMFBKT2NiNGxMaG92SF9RVEhmVXp6UmNqYlRGZTFsSnZtZ9IBiAFBVV95cUxPUGhwUXl6NlowWGJNTVNaTUF0WlB5c0RjRUlXYjUybGpzYVNwQmVlQ3BvZlFkaWZndVNyZ2ZjZnQ5ZkJtWURNVnRIRUZncEQ1ZHVHUklwcEdkQ1EwX2F5bVl6ZDJpNnltbWExRkN0SVVpUGg3V3JMZkZOSF8yVkI4X0dYNHNWbUdS?oc=5
-
-### 3. OpenAI推出ChatGPT for Teens experience with 'stronger built-in safety p…
+### 2. OpenAI推出ChatGPT for Teens experience with 'stronger built-in safety p…
 
 - 來源：Tech
 - 類別：AI
@@ -72,7 +65,7 @@
 - 摘要：Tech報導，OpenAI推出ChatGPT for Teens experience with 'stronger built-in safety protections'。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
 - 連結：https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html
 
-### 4. Nvidia backing $105 billion in financing for OpenAI 資料中心 in Ohio
+### 3. Nvidia backing $105 billion in financing for OpenAI 資料中心 in Ohio
 
 - 來源：Tech
 - 類別：AI
@@ -80,113 +73,89 @@
 - 摘要：Tech報導，原文標題指出：Nvidia backing $105 billion in financing for OpenAI 資料中心 in Ohio。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
 - 連結：https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html
 
-### 5. Alibaba answers Meta's AI challenge with new laptop-ready model
+### 4. Apple's Camera-Equipped AI AirPods Remain on Track for 2027 Despite V…
 
-- 來源：Tech
+- 來源：Bloomberg.com
 - 類別：AI
-- 時間：2026-08-17 19:24
-- 摘要：Tech報導，原文標題指出：Alibaba answers Meta's AI challenge with new laptop-ready model。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-- 連結：https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html
+- 時間：2026-08-20 07:05
+- 摘要：Bloomberg.com報導，原文標題指出：Apple's Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+- 連結：https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSVVraUU4YnVxbnhZVXBveHhSdVp5MHZJVXBub0NDN2dwUFg0eGs0eWR1Ri1wMHRaMzI3UTFiZFJWU3NHb3lOZVNrX2FVaURGTFBrUlA4TmozVlZKbEt5WXFQc19kN0NjZXFYWFdWT1VUQzE4cVluXzJhaGNmM05mUERIckFRc0RhbkxCd3o1dnd3WkItdHhUY3pVeWt2c0R0dE1OYWdCbzJaaU9kRWRrVXl6cDF3YmNTVy04WV9GTnR4NWdtTHozSQ?oc=5
 
-### 6. Analog Devices' quarterly 預測 tops estimates on AI-fueled chip demand
+### 5. Micron CEO: AI has 'totally changed' the equation for the boom-and-bu…
+
+- 來源：CNBC
+- 類別：AI
+- 時間：2026-08-21 06:51
+- 摘要：CNBC報導，原文標題指出：Micron CEO: AI has 'totally changed' the equation for the boom-and-bust memory industry。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+- 連結：https://news.google.com/rss/articles/CBMif0FVX3lxTE1sOHJDX0FqdzZsbVdTTWJzbzhFdFRpMHBFVjVfODAwODlNRERQSUlXZlNrUTdNdHBKSlBhc3JFMkxKa3VEN1dTLV94UTUzbjhIcEs4T00yQk14VXRxWEdROEhzbW5oZl8wczh1dWswT2YyREdScVFMa183MThOQjDSAYQBQVVfeXFMTWV6WGhRb3VDVWFvSF9sUU9sS25ma0w3YUJtZ1pZVUN4ZGphWlVCWU83TVF4b0psLVhLeV85TWY1aGpiOHZfNmRMcHZuSHVUMUlRcmd2dHhsbXJ5bUgwc2tfRmk5eUlicFBFU2dTSkk3RkNwNWtyMVlOUlJFZThKcy0tblhn?oc=5
+
+### 6. Ex-Google engineer's conviction for stealing AI secrets partially ove…
 
 - 來源：Reuters
 - 類別：AI
-- 時間：2026-08-19 19:44
-- 摘要：Reuters報導，原文標題指出：Analog Devices' quarterly 預測 tops estimates on AI-fueled chip demand。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-- 連結：https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3Y1czRfYnNzUnFMM1FDQzVydm1nOVRIamIxdmt0dVRQOEc4dDljRVcwNURHU2ZrMzhoUFVURlFoc1ZncUtlOWluUno0ZW01Yk1pdnp3Y0lWSWNrRVVrbURLdmFzVU44VWZyNTVyd2p6VndSblRwRDYyMm1wNkpBTUJlTXh6bFhYNnkyQVR4Z1pjYmc5ckRmaTZRRkJZU0JCR29zVzg2ZjFJRC1HTlRzaUVfSzdWaDRn?oc=5
+- 時間：2026-08-21 07:03
+- 摘要：Reuters報導，原文標題指出：Ex-Google engineer's conviction for stealing AI secrets partially overturned。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+- 連結：https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEtjUjJVUXlMNW80UzhSd3lYbHRvMlJEMDQxR2p2cFk1cWRyd05RNjBGRHNtdXpuWjBwaXkwZmxPVGQ0V2lKYm9OR1ZhWEhiTzgzTXUtdURlVjlEb25CalF1QzkwRWxUVmZISU81SVZFYXF2WWQ3NnpSSE92ZFozMHR1WEVVTkM4Z0ZMN3ZQdjU4RnRSb0plY0VmQ2hjM2w3TG5kNXlnTHV0QkFVMXJ4dWQtMzRaTlhUNTJKV2dHcFNYQQ?oc=5
 
-### 7. Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI 資料中心 交易s…
-
-- 來源：CNBC
-- 類別：AI
-- 時間：2026-08-19 22:21
-- 摘要：CNBC報導，原文標題指出：Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI 資料中心 交易s boom in region。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-- 連結：https://news.google.com/rss/articles/CBMidEFVX3lxTE4teEJkRklqaHFoUnU0NzFTNk5CQ0hxS1hvT25ocVR0UW8tSEt3UTZGZXRHNjNzZ0ZnVk9rOGdXZGJ0bGsxb25PYTR5RlRTUVBVb0x3VENKU3RIU2drVXI0Z1JJelVQNXEyWnRlUnk4QXlCTlpW0gF6QVVfeXFMTTRWbmNYcnlQMVNoZF9sWjBLOHVSTTdOcGx4Nl9tT2ZTS055SXRVaVNaSjFlNUlITHJZRlNnY01GNk40XzR3Z0YwQmNEN0R6QVhnQkhGcXljTXJySFRWYVgyUHZzTGU4RlNiaHh6ZlNBM0ZLRXNSMUtsT2c?oc=5
-
-### 8. 美國 Lead in the AI Race With China Is Rapidly Narrowing
+### 7. Anthropic計劃to Change Data Retention Policy for Advanced AI
 
 - 來源：Bloomberg.com
 - 類別：AI
-- 時間：2026-08-20 05:00
-- 摘要：Bloomberg.com報導，原文標題指出：美國 Lead in the AI Race With China Is Rapidly Narrowing。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-- 連結：https://news.google.com/rss/articles/CBMiaEFVX3lxTFBidzZzbzRJcEtnaUtHR3lrUjdkWTRLenFWR0lrUS1wb0F5VEcySTBsQURrclVQUTlsUWtCWDZTUzZuTktXcUFwcVFYQlExSWh4czRtUUZocXlGSVU4U0g5Q3Q4SEluU1BT?oc=5
+- 時間：2026-08-21 01:51
+- 摘要：Bloomberg.com報導，Anthropic計劃to Change Data Retention Policy for Advanced AI。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+- 連結：https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0dDcm5LNjRqTjcxaTdsWG8wTjBncjVoei1vT2dpOU5TQ05ieWNZOVhqYkQxZGpXclN2ekpMX084bl9udzJTRnhrd2dQNlBEem04bDBSZzhVR1plRF93VS15WDJGZElDSDhJbEVwcTZxRkJtNWxUc3YwZFhmX0JseFZfTXhkM0p5VWJrb3o0RXFCX3h5WkFEME1EQXE0VGdvcjhPYUxSZnhFblVzYjh6bGsyVmQ?oc=5
 
-### 9. Spirit Flight Attendants Fight Google的 Data Bid for AI
+### 8. Nvidia looks well placed to benefit from the next stage of the AI boom
 
-- 來源：WSJ
+- 來源：Financial Times
 - 類別：AI
-- 時間：2026-08-20 05:29
-- 摘要：WSJ報導，原文標題指出：Spirit Flight Attendants Fight Google的 Data Bid for AI。 RSS摘要補充，Spirit Flight Attendants Fight Google的 Data Bid for AI WSJ。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-- 連結：https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2NjaDgwSUMwZzBnRm4yMVFDX0tLLWxrUGtoYkdiQWw1UWlsYk9vRXNqX2JvZnRKY3d0Q01ncnlCSmdsOU53a2U2WXVMY1p5VVdhSzQ4SldlMlExNXhaOGVlMUxRNVNjSHd4TXZQanllMTBGLVRKWFdUcTI5TEg4cWRiM2VPaHB3TVdUcXFCNTdObmxvOEhSOTFwQXBUcTg?oc=5
+- 時間：2026-08-21 01:17
+- 摘要：Financial Times報導，原文標題指出：Nvidia looks well placed to benefit from the next stage of the AI boom。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+- 連結：https://news.google.com/rss/articles/CBMihAFBVV95cUxNMkgwUER1MS1DT0lLaklkeHhmZ2pwd0F5eUlOV1BLZ1VhNjJpeldONFd6UXhPRWNUZlU5WUtBSGxzYUF6YmQwZHJjOHpMSDFoM0ZQQThmeHNBODQwT1FKODZ4OUZCNDNRdHJUUUR4TTdQY0hKMjZJMnNpSlp4V1J3MTZMNEY?oc=5
 
-### 10. Nvidia Tries to Spur the AI Boom Into the Future
-
-- 來源：Bloomberg.com
-- 類別：AI
-- 時間：2026-08-20 05:33
-- 摘要：Bloomberg.com報導，原文標題指出：Nvidia Tries to Spur the AI Boom Into the Future。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-- 連結：https://news.google.com/rss/articles/CBMipAFBVV95cUxNSldvS2hSWHF6b1ktYmhDblJhODNWUHFveDVKV2VqaUk2c3JKQjMwYm0yYmhCOXJ2eURuV0JldTYwTWFiU2ZuSWFpNVFmTkV6ZGljemlYWnBaWDVMelVrZnFma3FhcmpEdE5xRVp0Nkh3OHBzaTVVbE9PMWt4VjF3REQwakhvMGdiX0FuVXhzYWFKaU92eW92VnVMT2V1dlcxZ1JtaA?oc=5
-
-### 11. Nvidia Discusses Funding Its AI Data Supplier Mercor at a $20 Billion…
+### 9. Nvidia to Reportedly Pay $6 Billion in Licensing and Hiring 交易 with A…
 
 - 來源：The Information
 - 類別：AI
-- 時間：2026-08-20 01:48
-- 摘要：The Information報導，原文標題指出：Nvidia Discusses Funding Its AI Data Supplier Mercor at a $20 Billion Valuation。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-- 連結：https://news.google.com/rss/articles/CBMirgFBVV95cUxQcTR6TERvWTROSG5wazkwQWZTMTJGTnp2UTRmQW1oRUpRRFZUaGlvSjRVRGx5dW1ieU1Qd3hkWnAwYk94Uzh5TC1id0NPU3R3Mm9GZnFhUDEyUFBXNkNmV1JQd3lUWFBSUmQ2MzYtdm9UOVNIWkJ4SlV1dF9YMGo2VjRBVXBvamZHOWE3RXRWYVN0MVN0bnpGNUNpNDRaODh0TEdYbVhWcUVlWXN0dUE?oc=5
+- 時間：2026-08-21 04:37
+- 摘要：The Information報導，原文標題指出：Nvidia to Reportedly Pay $6 Billion in Licensing and Hiring 交易 with AI Model Startup Poolside。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+- 連結：https://news.google.com/rss/articles/CBMivAFBVV95cUxOQUpDTFlYZVdIOGhzZDRIbXJZX3ZHcGtmdFFFZEw4UVBKR1lTbEt3X2h5bmtIMFAtMXhUalltY0JGaHloUG9DY3ZFZnV2N0pqQ1o2d0llMjZjNG01N2VxQlczenl0d2xqUUtyT2tYdDFMS3M0OWRDQlVMV2RhM2w0cmpkcDBTRGQxSllPckswQ3lRUVNzdXo0OWo2aEhkNHlVZnpIY1dJcmJqazZYejlvVC1oOUI4dk9WeWd3Ng?oc=5
 
-### 12. Chip Firm Fractile Seeks $6.5 Billion Value After Anthropic 交易
-
-- 來源：Bloomberg.com
-- 類別：AI
-- 時間：2026-08-20 02:31
-- 摘要：Bloomberg.com報導，原文標題指出：Chip Firm Fractile Seeks $6.5 Billion Value After Anthropic 交易。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-- 連結：https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0hWZktsTEJtWklDQmI0N1BRV2RHY3c5NHVEVWFOZWVKUkhjZExVazNWaDBmaWFGd3REcVROZEZlVjFNS1FWdDRueVl0Sk1Ga2M1VERzRXU2UUdoVEFLeWFTRE44UVNOWl9zcG1zTHVaX18xQ1RybFlHSDdyVlh1RHlJVjZnd0FIYi1SbG56eXlSU3BOZzI3cGJHZ3AyWVh1ZEtEVDFYNml0S3I1Q2hZalVKN1Q2ZmNGVnFIbzgyR1NqRllqR0E?oc=5
-
-## C級新聞
-
-### 1. Google deepens Marvell chip ties
-
-- 來源：CNBC
-- 類別：半導體
-- 時間：2026-08-20 02:43
-- 摘要：CNBC報導，原文標題指出：Google deepens Marvell chip ties。
-- 連結：https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VQRGt6YmUtd2l2blZZLXYybkxGWmc5UzRZRGNoTFJhWkpaeW4zcG1qMUFiZHh2VzZ5TzBZOVRrR01wWklLNWhOTzdRN3NFdnkyNEhmczljcmVNMWNieTc0eWd2MEhKRDVldUNyYURXMnJGY3VjQTkyTEZfcDZFMw?oc=5
-
-### 2. Trump bemoans Fed 利率 policy, says U.S. should be paying much less，焦點是…
+### 10. Trump bemoans Fed 利率 policy, says U.S. should be paying much less，焦點是…
 
 - 來源：US Top News and Analysis
 - 類別：宏觀經濟
 - 時間：2026-08-20 05:29
-- 摘要：US Top News and Analysis報導，Trump bemoans Fed 利率 policy, says U.S. should be pay。
+- 摘要：US Top News and Analysis報導，Trump bemoans Fed 利率 policy, says U.S. should be paying much less，焦點是利率、通膨或經濟數據變化。背景是投資人正從通膨、就業、GDP與央行官員表態推算下一步利率路徑，外匯、債息和股市會同步反應。
 - 連結：https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html
 
-### 3. Fed officials saw need for 加息 if 通膨 doesn't cool, minutes show，焦點是利率…
+### 11. Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI 資料中心 交易s…
 
-- 來源：US Top News and Analysis
-- 類別：宏觀經濟
-- 時間：2026-08-20 02:54
-- 摘要：US Top News and Analysis報導，Fed officials saw need for 加息 if 通膨 doesn't cool, mi。
-- 連結：https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html
+- 來源：Tech
+- 類別：AI
+- 時間：2026-08-19 22:25
+- 摘要：Tech報導，原文標題指出：Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI 資料中心 交易s boom in region。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+- 連結：https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html
 
-### 4. NVIDIA的 AI moat is shifting from 晶片 to capital
+### 12. NVIDIA的 AI moat is shifting from 晶片 to capital
 
 - 來源：Tech
 - 類別：半導體
 - 時間：2026-08-19 00:13
-- 摘要：Tech報導，原文標題指出：NVIDIA的 AI moat is shifting from 晶片 to capital。
+- 摘要：Tech報導，原文標題指出：NVIDIA的 AI moat is shifting from 晶片 to capital。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，事件把NVIDIA放回供應、需求、監管或商業化進度的核心位置。
 - 連結：https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html
 
-### 5. Where we stand on Broadcom after Marvell muscles in on its key custom…
+## C級新聞
 
-- 來源：US Top News and Analysis
-- 類別：美國科技股
-- 時間：2026-08-20 02:58
-- 摘要：US Top News and Analysis報導，原文標題指出：Where we stand on Broadcom after Marvell musc。
-- 連結：https://www.cnbc.com/2026/08/19/where-we-stand-on-broadcom-as-shares-dip-on-googles-deal-with-marvell.html
+### 1. Nvidia計劃China AI return with new specialized chip, report says
 
-### 6. Salesforce推出new Slackbot AI agent as it battles Microsoft and Google…
+- 來源：Investing.com
+- 類別：半導體
+- 時間：2026-08-21 01:25
+- 摘要：Investing.com報導，Nvidia計劃China AI return with new specialized chip, report says。
+- 連結：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbU55WnUwZG1RTkdKVUlWdGQ5eXBFaVdWQXJPLTNpR0poS2g3LXZEWEtyd1ByRjFyR3hwaEswM2ItVU9VOXdSa1lHazB4RnB5ZVRXTE1EajdWQzNpcWVhQVVQU3NDQ0c4YmpVal9hM04wSUxrYkNMWnlRYTVnbnJTcmFpNW15QnFjWGhOb1FIakN2Z1h0TFVzSVRRbUFwc2RPbHFickszU20yU0lTel93a2VZMlpIQnFDT3cwTHVBOWI?oc=5
+
+### 2. Salesforce推出new Slackbot AI agent as it battles Microsoft and Google…
 
 - 來源：AI | VentureBeat
 - 類別：美國科技股
@@ -194,23 +163,47 @@
 - 摘要：AI | VentureBeat報導，Salesforce推出new Slackbot AI agent as it battles Microsoft an。
 - 連結：https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and
 
-### 7. Target says its turnaround is picking up steam, with help from a big…
-
-- 來源：US Top News and Analysis
-- 類別：宏觀經濟
-- 時間：2026-08-20 04:00
-- 摘要：US Top News and Analysis報導，Target says its turnaround is picking up steam, with。
-- 連結：https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html
-
-### 8. AI晶片新創 Etched doubles valuation to $21 billion in under a month
+### 3. The new kingmakers: Crypto, AI and betting firms fuel record spending…
 
 - 來源：Reuters
 - 類別：AI
-- 時間：2026-08-18 23:13
-- 摘要：Reuters報導，原文標題指出：AI晶片新創 Etched doubles valuation to $21 billion in under a mont。
-- 連結：https://finance.yahoo.com/technology/ai/articles/ai-chip-startup-etched-valued-151318404.html
+- 時間：2026-08-21 06:46
+- 摘要：Reuters報導，原文標題指出：The new kingmakers: Crypto, AI and betting firms fuel record s。
+- 連結：https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeENQNnM1RGoxMUFwdGJ2c19GUDRnTUhiWVdieDZNZG1qX2QzN29SYVBqU0NBcnVaMjRISjB3ZFc5WTlRbXYwQ1FkallpcmdLeEcwWk1wcS1pbG9TbTB6WFQ4VENCa25wMTE1TmJMeGJ1dEFtY0xrX0hOb0ZURkZJWlRmM3lFcHFZaXpqTWFCYVhHdDc0UXJzNEpPTUo5LXdBYzlCcXppZklKbkN5cnc4NGFsU3p5U0xPNnJ1dGUxYWEzQVI0Y3ZqcA?oc=5
 
-### 9. Cramer likes this retailer ahead of 業績 — but sees trouble for one of…
+### 4. Oil prices 上升 after Treasury Secretary says U.S. will collapse Iran w…
+
+- 來源：CNBC
+- 類別：金融市場
+- 時間：2026-08-20 16:33
+- 摘要：CNBC報導，原文標題指出：Oil prices 上升 after Treasury Secretary says U.S. will collapse Ir。
+- 連結：https://news.google.com/rss/articles/CBMiekFVX3lxTFBGdnA4OVZkTmFweUtBR0JuVmRXLXp4N2NrWS1Ya19XdjRDUjVKSy10Sy1Rbk5TZVpwTHRNVXdZcFcxcllnVGpzLUR4WHdpWnk0RkFDemFwdlphZms4ZUluV1dzVWZoY3ota2ZrUkJpNTlXTGQ5cXJZQU5n0gF_QVVfeXFMT18yT3pMYTJVSkNEMk85aFdpSlVvcmlTeEh0TlBpbExnWUREYW80NDdtWG9ySnR2N2dFenFRVlBVaWZmME5OQzB2VmxoYndUWV9pQTJtVFRsYlpOYWc0Qm9MWTNpWXZQNFRZVGdIbklTMVlLSEk4R05wcWxHd0Q4Zw?oc=5
+
+### 5. U.S股價下跌或受壓，原因是Weak 業績 報導
+
+- 來源：WSJ
+- 類別：金融市場
+- 時間：2026-08-21 02:18
+- 摘要：WSJ報導，U.S股價下跌或受壓，原因是Weak 業績 報導。背景是資金在股、債、匯、商品之間重新配置，油價、美元、債息和大型股財報常會互相牽動。
+- 連結：https://news.google.com/rss/articles/CBMiswFBVV95cUxPblZ4TkNlLXdkaVh0UUV2LVlVTkt5QW9KSjFuN1M4Z1k1Ti13SHFxZVdyMXpvV1h2czlUZURJV253eWtRdW0yWkhIVEdIUEE3b1BLTld6T2toUkRSYUx1VjFQb21sMmpvUjBGV3NPSjAyYjlBQjUxTVJqeVFJX25zdkppUHFfTUFjX3pJSG5RWnduT2Y4WlN6RkJfTUdpYjJrSnlTTVRreXhRdlVwU285Y05GMA?oc=5
+
+### 6. Citi Turns Negative on Dollar After Warning on 美國 Buyback Risk
+
+- 來源：Bloomberg.com
+- 類別：金融市場
+- 時間：2026-08-21 00:48
+- 摘要：Bloomberg.com報導，原文標題指出：Citi Turns Negative on Dollar After Warning on 美國 Buybac。
+- 連結：https://news.google.com/rss/articles/CBMiswFBVV95cUxPTURBN1YxMWNmVXBIVkoyWTNNdmQzV2JXMk1nb3BULUN4eWMwT3dnOGJGbGt3RU5Hd2M2UGlUZGVBNnN4dTVqc29nLUpXTW1oeG9RRzl2TzVyWWlCV09xWkNqTlM5d280WjlIM013N2Q4ellGemprOWwxUzZ4Tmc5a1JvUGowb2hWWVEtZ09ucWtaNUtabVVxS3h6ajM4Vk5RVDhhS2ZpUzN4b0I5b0ZXSldlZw?oc=5
+
+### 7. 美國 appeals court revives Signature Bank collapse 訴訟 despite FDIC obje…
+
+- 來源：Reuters
+- 類別：其他
+- 時間：2026-08-20 00:23
+- 摘要：Reuters報導，美國 appeals court revives Signature Bank collapse 訴訟 despite FDIC obje。
+- 連結：https://finance.yahoo.com/markets/stocks/articles/us-appeals-court-revives-signature-161510082.html
+
+### 8. Cramer likes this retailer ahead of 業績 — but sees trouble for one of…
 
 - 來源：Tech
 - 類別：金融市場
@@ -218,53 +211,61 @@
 - 摘要：Tech報導，原文標題指出：Cramer likes this retailer ahead of 業績 — but sees trouble for one。
 - 連結：https://www.cnbc.com/2026/08/18/cramer-likes-tjx-ahead-of-earnings-but-sees-trouble-for-meta.html
 
-### 10. Amazon set to expand drone delivery of lightweight packages to 500 美國…
-
-- 來源：AP News
-- 類別：美國科技股
-- 時間：2026-08-20 03:29
-- 摘要：AP News報導，原文標題指出：Amazon set to expand drone delivery of lightweight packages to。
-- 連結：https://news.google.com/rss/articles/CBMioAFBVV95cUxQUkF6aWlCbW55blVKQW1vVHlGU0tJNTRBdUoyNjh3S2gxcWxCVGdKSGhQMlU2ZlFremRCbDFzZXNWbHZYZ1lIZHhVSERVNG5lZ3pFREd4a2JGWk5UYWJYRlVGZ3ZhdjQyMnduREVvVi1lSk5vNVRfNXNldzJCUEJHajdwZmF1V2tZWXV0X1NiMHJiNzhZM1JwaHpBVTE4LXRV?oc=5
-
-### 11. OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells…
+### 9. Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree fou…
 
 - 來源：CNBC
 - 類別：AI
-- 時間：2026-08-20 03:23
-- 摘要：CNBC報導，原文標題指出：OpenAI 'will be a public company in 2027' or sooner, CFO Friar te。
-- 連結：https://news.google.com/rss/articles/CBMidEFVX3lxTFBjVnJGYzVGcWt5c0F3WTY3elk5SkRrSUV3U3Y2OFdIV1dCRm4wVU5PZF8wV1VXT2Q4cVZZU3NZWlRFRTVhZTNYNTZNbEh2bmZ1aDJEWnFINFR6dlVqdGVsQ1RRSmhBV0dKYkFwcTZpQk56MGlZ0gF6QVVfeXFMTnhrRVAzUVl4M3FxY3gxcjdrZFhGODd4X2sxYzRpS1JTaHNJaXNxVEFuSExkOWlNVkYwZnJKX0xXV1hCOUxORnVjLWM1UEszb3BLa1gxMmZVa3dDQ2JNc3hyMERhMXFibThXczd5Y05BRFo5QlRONXdxQ3c?oc=5
+- 時間：2026-08-20 16:21
+- 摘要：CNBC報導，原文標題指出：Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree。
+- 連結：https://news.google.com/rss/articles/CBMigAFBVV95cUxOTy1WY2ZsN0tZSW5sYUpRdmNoeC1lc2tsM2xIZXlqelZSZUMzLTBUM29oNHFuU2ljNUxEelN3UlJnT1ZCS3AyWjRxd2FTemR2LVlTaFZqNjgxTERXOUdGeW9ac3pqWHlGeGdiTzBCSlhsQTdZTkJKeVhoZXBpSmxNb9IBhgFBVV95cUxNOXJaVm5kdzI1akwzd3hXdWtKclgzMWtBMmNMRnhzdURsNGF5UGYxUzlLdGRQX19HbHMxRm9Ud0Z6U1lNWXJueGVaVXF1bE5xeTdMY004Ml95N1FZSlFyZGlKLTI2bUZ5WURvYm5XVE5wM2gyTDdVeDVrS2JaTHl5ZEZ2Umlkdw?oc=5
 
-### 12. Alphabet上調或籌集$3.9 billion in inaugural Australian dollar bond
+### 10. Broadcom seeks more than $60 billion in latest AI debt 交易, Bloomberg…
 
 - 來源：Reuters
-- 類別：金融市場
-- 時間：2026-08-20 04:25
-- 摘要：Reuters報導，Alphabet上調或籌集$3.9 billion in inaugural Australian dollar bond。
-- 連結：https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWowTDhsUGNUOXVDQ1Q0STlaemFrQ2tRQUFsUVo0Z3VaYURVQnV3U1VhUV9oTmthdm9PM2xFaUhzRlhGQ2JyNGJYMjVIX1FrT0Z5R0RjXzhsWUVSMXRGWGg4eHd5VlhRQjUtTS1id0YzTXhpdE9GN2hCVHFVQi0wNkFsd3NBUFEyc0pyRVBZcnB1OTZBQ0RDdlpQSzk3NHVTdHRRVjB4T1FpeVJ0ODBQbjZn?oc=5
+- 類別：AI
+- 時間：2026-08-21 05:55
+- 摘要：Reuters報導，原文標題指出：Broadcom seeks more than $60 billion in latest AI debt 交易, Blo。
+- 連結：https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjl6el9aTXd3V2hKVng5WF9iUUJpOG9zdXBWZzJhQkt1aUtVWE5wWi1MRGVXX0hCU25sR0NXTE9ocGU5SVZqYUJlZmZFRF81MmdxLU1xcEtLaVZnMGg2ejluTjgyN0Fyb2I2bWxFZzlSM3N6N3VDbXpFR09FMGthQXFBSF9rNzRDTkxJbjk2aGsxQ3Nxb2JIcFhZTFozaExoVm50a1FBSnl2TEhoWXhreG1kWTFrRld1eEs2X0haTXA5aFU?oc=5
 
-### 13. Bessent moves to curb Treasury yields, putting new pressure on Warsh'…
+### 11. Warsh faces Fed independence test as Bessent moves in on central bank…
 
 - 來源：US Top News and Analysis
 - 類別：宏觀經濟
-- 時間：2026-08-20 04:02
-- 摘要：US Top News and Analysis報導，Bessent moves to curb Treasury yields, putting new p。
-- 連結：https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html
+- 時間：2026-08-21 05:53
+- 摘要：US Top News and Analysis報導，Warsh faces Fed independence test as Bessent moves i。
+- 連結：https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html
 
-### 14. Meta's legal troubles has options traders eyeing the 'jade lizard'
+### 12. How Micron's $50 billion Boise buildout is reshaping its hometown
 
 - 來源：US Top News and Analysis
-- 類別：美國科技股
-- 時間：2026-08-20 01:25
-- 摘要：US Top News and Analysis報導，原文標題指出：Meta's legal troubles has options traders eye。
-- 連結：https://www.cnbc.com/2026/08/19/metas-legal-troubles-has-options-traders-eyeing-the-jade-lizard.html
+- 類別：半導體
+- 時間：2026-08-21 00:07
+- 摘要：US Top News and Analysis報導，原文標題指出：How Micron's $50 billion Boise buildout is re。
+- 連結：https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html
 
-### 15. Apple changes fees for alternative app stores in EU
+### 13. Micron CEO pushes back on memory bear case. 3 key takeaways from Cram…
 
-- 來源：Reuters
-- 類別：美國科技股
-- 時間：2026-08-19 00:03
-- 摘要：Reuters報導，原文標題指出：Apple changes fees for alternative app stores in EU。
-- 連結：https://finance.yahoo.com/technology/articles/apple-changes-fees-alternative-app-160307437.html
+- 來源：US Top News and Analysis
+- 類別：半導體
+- 時間：2026-08-21 06:52
+- 摘要：US Top News and Analysis報導，原文標題指出：Micron CEO pushes back on memory bear case. 3。
+- 連結：https://www.cnbc.com/2026/08/20/micron-ceo-pushes-back-on-memory-bear-case-3-takeaways-from-cramers-interview.html
+
+### 14. Alibaba股價下跌或受壓5%，原因是AI spending drives 75% 下跌 in net income
+
+- 來源：US Top News and Analysis
+- 類別：AI
+- 時間：2026-08-20 21:42
+- 摘要：US Top News and Analysis報導，Alibaba股價下跌或受壓5%，原因是AI spending drives 75% 下跌 in net。
+- 連結：https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html
+
+### 15. OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells…
+
+- 來源：Tech
+- 類別：AI
+- 時間：2026-08-20 04:07
+- 摘要：Tech報導，原文標題指出：OpenAI 'will be a public company in 2027' or sooner, CFO Friar te。
+- 連結：https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html
 
 ### 16. Amazon to expand drone service to nearly 500 cities after targeting 1…
 
@@ -314,34 +315,34 @@
 - 摘要：Tech報導，原文標題指出：OpenAI's Brockman brushes off concerns about leadership changes i。
 - 連結：https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html
 
-### 22. Meta faces 'astronomical' consequences as legal fight reaches critica…
+### 22. The bond market swings back to worries and knocks 美國 股價 lower
 
-- 來源：Tech
+- 來源：AP News、Charleston Gazette-Mail
+- 類別：金融市場
+- 時間：2026-08-21 05:06
+- 摘要：AP News、Charleston Gazette-Mail報導，原文標題指出：The bond market swings back to worries。
+- 連結：https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0ZaR0FPdTIwcWpTRElWLTNTNTdqZEpYY3RPVnlQR21Cb2lZV056TkpGR0ctbUdzMnFwS0VydHdkdWZhSmhObElQY0dNcUN0SmpyRTBZX2U2U2dCUjF3NjRMNWI3TWtFWVJiWXNqbFFsWkNlRklBbzA3N3Iyb2gyUWUyUXl2U0VXeFVWeWd3WTlBTjZ1amJrQjlyX2xYR3c?oc=5
+
+### 23. Meta Has Quietly Become One of Microsoft's Largest AI Customers
+
+- 來源：Yahoo Finance
 - 類別：美國科技股
-- 時間：2026-08-18 00:06
-- 摘要：Tech報導，原文標題指出：Meta faces 'astronomical' consequences as legal fight reaches cri。
-- 連結：https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html
+- 時間：2026-08-20 19:00
+- 摘要：Yahoo Finance報導，原文標題指出：Meta Has Quietly Become One of Microsoft's Largest AI Cu。
+- 連結：https://news.google.com/rss/articles/CBMingFBVV95cUxPOFJzOTN6dkpqYWhtdkJDMjZkS2tsS2RzaXAzZ1JkdWVvckFmR1RKRDQwYzByU2JrWVM0YkIxRTNDdTlQZW4wZXpabjVrY2U0UGlSV0ZqUHp4bkxqdnFfYVdvWkpvQ3c4bkM1Ml9qQ2RVRTJPVXZFVkIxNHRwMVhvUU5iX2VUdVR5ZWdDbGt0WUV6VXZIUnVqdUVqQy1NZw?oc=5
 
-### 23. Anthropic 營收 reportedly 上升s to more than $11.5 billion in second quar…
+### 24. AMD 下跌s as Google Expands Its $120 Billion Custom-Chip Push
 
-- 來源：Tech
-- 類別：AI
-- 時間：2026-08-15 22:45
-- 摘要：Tech報導，原文標題指出：Anthropic 營收 reportedly 上升s to more than $11.5 billion in second。
-- 連結：https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html
+- 來源：Yahoo Finance
+- 類別：半導體
+- 時間：2026-08-21 03:21
+- 摘要：Yahoo Finance報導，原文標題指出：AMD 下跌s as Google Expands Its $120 Billion Custom-Chip P。
+- 連結：https://news.google.com/rss/articles/CBMikwFBVV95cUxOel9UR21PSXA4ejhFSXIydHZFUnMwYl9JVGgyV0VRSVRqMUZfYlJlZDZCNW5TTjZlZ29HalozRXp1M0Y2aWtlRFJQdTdUaHdWT29QZmtkV0RNTmpuSWRCUW16YXZYLVJHejkzb1JGRDdzQ3g4UWRNUXp1QU4zeHBUajNwRXF0N1U2eUJIN3QyQXJ1WTQ?oc=5
 
-### 24. I drove Tesla FSD, Rivian Autonomy+ 'hands-free' driving systems. Her…
+### 25. ASML 上升s as TSMC's Spending 預測 Hits $85 Billion
 
-- 來源：Tech
-- 類別：美國科技股
-- 時間：2026-08-18 03:14
-- 摘要：Tech報導，原文標題指出：I drove Tesla FSD, Rivian Autonomy+ 'hands-free' driving systems.。
-- 連結：https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html
-
-### 25. Google packs Search and Gemini with new AI study tools
-
-- 來源：TechCrunch
-- 類別：AI
-- 時間：2026-08-20 03:00
-- 摘要：TechCrunch報導，原文標題指出：Google packs Search and Gemini with new AI study tools。
-- 連結：https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3V6UVYwYVZlaHE2Y05hR1NRM2lDYzdZYnhEaVhUN0NSeTFpOHZnYlJxbnY3bFJ1bHNFZkRHQ2RCaG1YLU1jWmRyNlhENVJVTXQxa0JsRjNGUndHcmd6WUt3OG1KUVVuelZPdm9KNXVhMHZPTHd5LVJRcDJCelJhektBMm5RaVV3YzdoZ1l4LU1VWk5UeGtCS3M1S2g1eTFCSGxsazlrRQ?oc=5
+- 來源：Yahoo Finance UK
+- 類別：半導體
+- 時間：2026-08-21 03:07
+- 摘要：Yahoo Finance UK報導，原文標題指出：ASML 上升s as TSMC's Spending 預測 Hits $85 Billion。
+- 連結：https://news.google.com/rss/articles/CBMiiwFBVV95cUxObUJINHdQRU9HNEJ5dXZPb3BpNW9JOGdtalh3MUVLZjN2U1pOa3AxZzlpOGUtem9PbFdPOU5lYmZDd2VROGpySVJUdUYwQkFFV01Jd3g2UnhibzNLOWFrOXM4VEJvdXltelZXYzRtZl9fOEVXYVl0R2hvZXFORGxkclE3dUEyYk01ZGNR?oc=5
