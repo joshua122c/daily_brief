@@ -1,122 +1,122 @@
-# 分層式選題池 - 2026-09-09
+# 分層式選題池 - 2026-09-10
 
 以下新聞由RSS標題、來源權重、關鍵公司、政策與市場風險訊號自動篩選；未使用OpenAI API。
 
 ## 1. A級｜TSMC, Samsung commit to ASML's newest chipmaking tools as AI drives d…
 
+來源：Tech
+類別：半導體
+摘要：Tech報導，原文標題指出：TSMC, Samsung commit to ASML's newest chipmaking tools as AI drives demand。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，事件把TSMC、ASML、Samsung放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「TSMC, Samsung commit to ASML's newest chipmaking tools as AI drives demand」，涉及TSMC、ASML、Samsung；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://www.cnbc.com/2026/09/08/tsmc-samsung-asml-high-na-euv-machine-ai-chips.html
+
+## 2. A級｜Anthropic researcher resigns with warning about the dangers of AI dev…
+
+來源：AP News
+類別：AI
+摘要：AP News報導，原文標題指出：Anthropic researcher resigns with warning about the dangers of AI development。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Anthropic放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Anthropic researcher resigns with warning about the dangers of AI development」，涉及Anthropic；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmpkbnFlb1F3eEdNLTVkMjA0cEtGOTAzNGc4cVpoVnFsRGJKZGhuU3l4R1ViVDN2UExGLVVkUUZTRHNUNnltbkxKSmRPNjEtcXB5V0pyQV8xZUlMRHEzT1ZFX18zQmd2M25MX0lkRkV2Qkw3dzRqR3Jza1R6Q0dFSGtKYXEzM0lHd0ZNekZOckRpVzZHU2c?oc=5
+
+## 3. A級｜Nvidia teams up with Australian partners to build AI factory capacity
+
+來源：reuters.com、Investing.com
+類別：AI
+摘要：reuters.com、Investing.com報導，原文標題指出：Nvidia teams up with Australian partners to build AI factory capacity。同一事件亦見於2個來源，背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，交易或協議若落實，會改變NVIDIA的供應、客戶或收入來源；後續關鍵是金額、期限和交付時間。原文標題寫明「Nvidia teams up with Australian partners to build AI factory capacity」，涉及NVIDIA；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk5MZDBuUUItQ1c2dnBiWWJudnJhczJ4MUh1azQxTjBBNmhCZHJsWVNEcWFRLUtJX1p6WXFaLVFrZ0tPeHNWWEhYYXZYd3BwNU1XZ2lvSEgxOUdHLW1mZ1dJdkZFYUg5bjZIVm9SbWNHdmw2MjBnenIzekF3UkJJdG5DTnVjc1ZXazR6M3UwZzA0X3c4by1uSUE2Z0o2U2hwTTJRdURmQTRFTzBQSDZWeDUzSENMYjdMYzJ6VUx3?oc=5
+
+## 4. A級｜A20 Pro is Apple's first 2nm iPhone chip, touting better heat control…
+
+來源：CNBC
+類別：AI
+摘要：CNBC報導，原文標題指出：A20 Pro is Apple's first 2nm iPhone chip, touting better heat control and on-device AI。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Apple放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「A20 Pro is Apple's first 2nm iPhone chip, touting better heat control and on-device AI」，涉及Apple；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMirAFBVV95cUxQNlZLRk9qYlAwT1RoUG5KLWlBdHpYYXZscnlpdm8xcUpaek1YLU45Nm05TTh1ZlBwdUpTbXBCQTg3LUl0MzhJZHdXdFFlbXlRNEd6bzZBNUQwR2o4c2NNdHc1Q2RGZU1iWHJKekVNVE5BcnJDQ1FVcWRCYW8yQ2xCencwTjRGTmhZUHhfT3pvU014UjZ5M1NOUnhRODI2RUVRemozdXpNUXhjdmNJ?oc=5
+
+## 5. A級｜Google to投資record $15 billion in AI基礎設施 in the 'Texas of Europe'
+
+來源：US Top News and Analysis
+類別：AI
+摘要：US Top News and Analysis報導，Google to投資record $15 billion in AI基礎設施 in the 'Texas of Europe'。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Google放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Google to invest record $15 billion in AI基礎設施 in the 'Texas of Europe'」，涉及Google；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://www.cnbc.com/2026/09/09/google-finland-ai-infrastructure-investment.html
+
+## 6. B級｜Here are Wednesday's biggest analyst calls: Nvidia, Tesla, Dell, Firs…
+
 來源：CNBC
 類別：半導體
-摘要：CNBC報導，原文標題指出：TSMC, Samsung commit to ASML's newest chipmaking tools as AI drives demand。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，事件把TSMC、ASML、Samsung放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「TSMC, Samsung commit to ASML's newest chipmaking tools as AI drives demand」，涉及TSMC、ASML、Samsung；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTZlbzJBNE0xdmp2WGdfamJKY0NzUFBta2dOTS1XX1BtX1JsVXhldEx6YVozR0RVaVRrVW8zY2FWUjBlLTZWTGRfbzlOcUFRZTZfT3BMN2Q0bnZfNVcyTFlBWS1jbmppYlFlcW92b0ZDYktCM3RaY1hPUEpTZ09WSmU4all4OTN5RnVN0gGQAUFVX3lxTE5NOFJ1MmdnNlFmRm1TSnB4ZG5xbjEwTU92UFdCYl9RdUhmcXJjMWtCT0VkUjYxVWZ5NGRkWDNTY0ltS2RRYlBoNjI4MmQyMVJPNFg4LWc5OGhMMEhxclVGVHMtQkpzZVZUUkJTX0lWQUNXbi00U2x6cS1VWlpqZ2EteV9BbG5udlJFTC1ieldOSA?oc=5
+摘要：CNBC報導，原文標題指出：Here are Wednesday's biggest analyst calls: Nvidia, Tesla, Dell, First Solar, Affirm, Teva, Robinhood & more。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+連結：https://news.google.com/rss/articles/CBMipAFBVV95cUxNb05LTkJ5WEtSTzlpUml5REFoYjdub2UxM2VtczBZUWRKVElsejc1WnF3VGZZSzRsT1g1TGtQM19oT1hIakFUVDVzMEZ0WEFMN09rMkJCNUdVTk1SQUJrcndCWlBSVngtbEpBcVcwY2IteG41Q0tLY05xZ0Q3NmJreFpaMWVXSF9sZzI4NjZrdUpLOTdDeEVZMFU1UmRxNy03dUZnSA?oc=5
 
-## 2. A級｜Qualcomm strikes AI chip 交易 with Amazon, offers right to buy about $4…
-
-來源：Reuters
-類別：AI
-摘要：Reuters報導，原文標題指出：Qualcomm strikes AI chip 交易 with Amazon, offers right to buy about $4 billion in 股價。 RSS摘要補充，Reuters Qualcomm issues warrants to Amazon to acquire $4 billion worth of 晶片商's 股價 as part of AI基礎設施 交易 CNBC Qualcomm a。。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，Qualcomm、Amazon相關股價已對消息作出即時反應，下一步要看成交量、同業股價和期權定價是否確認這個方向。
-連結：https://news.google.com/rss/articles/CBMioAFBVV95cUxPZl80VFZ2VnoyVGhIdk1HaHpWdzVuTFZRNWdhdXBaU0JxMy1HY3d0aXV4bHZUNFIxSS1TMWVpVVM0UDZqWFlTY2VuZEFzaW40UzZmZGJ4d1d6emVGOHZ1em1ycUJSOUIxM05DN3NzNlJObXpmYTJaZ2JMOGp1bGNib20yZUZibDJTMjNvSnNvWVRseE5QT3o5OTVMV3NVUHFr?oc=5
-
-## 3. A級｜Watch Qualcomm CFO on Amazon AI Chip 交易, 資料中心 Strategy
-
-來源：Bloomberg.com
-類別：AI
-摘要：Bloomberg.com報導，原文標題指出：Watch Qualcomm CFO on Amazon AI Chip 交易, 資料中心 Strategy。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，交易或協議若落實，會改變Qualcomm、Amazon的供應、客戶或收入來源；後續關鍵是金額、期限和交付時間。原文標題寫明「Watch Qualcomm CFO on Amazon AI Chip 交易, 資料中心 Strategy」，涉及Qualcomm、Amazon；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUW5Mc1NodGpmcWRJVUFVVVNnSnJQUnFLWnZvMVlISHJidHQtU1A3b0JxUDdaNS1YZFVjeUZNTkY1VU9LdkFjNDZBdExvLUpWdXNQRXoxSldyQnNHLUtnSVo5aEtWT3R1bWhHc0tZaEpGMkpWQlczU0hTRmFwN3RsT2ZoT0tad1RQeWhzMkxvemVfLXhYOTFuVklkR2xTSmpTaU80djhFUUREZw?oc=5
-
-## 4. A級｜Back-to-school shopping brought to you by AI — how Amazon, Google are…
-
-來源：Tech
-類別：美國科技股
-摘要：Tech報導，原文標題指出：Back-to-school shopping brought to you by AI — how Amazon, Google are positioned to win。背景是大型科技公司正以AI、雲端、廣告、電商與硬件更新維持增長，管理層任命、產品發布和投資金額會影響盈利假設。市場含義在於，事件把Amazon、Google放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Back-to-school shopping brought to you by AI — how Amazon, Google are positioned to win」，涉及Amazon、Google；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://www.cnbc.com/2026/09/04/back-to-school-shopping-brought-to-you-by-ai-how-amazon-google-are-positioned-to-win.html
-
-## 5. A級｜Meta推出AI agent that can access other apps to send emails, make paymen…
-
-來源：Reuters
-類別：AI
-摘要：Reuters報導，Meta推出AI agent that can access other apps to send emails, make payments。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Meta放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Meta 推出es AI agent that can access other apps to send emails, make payments」，涉及Meta；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5
-
-## 6. B級｜Meta推出a Personal AI Agent Designed to Be Easy to Use
-
-來源：WSJ
-類別：AI
-摘要：WSJ報導，Meta推出a Personal AI Agent Designed to Be Easy to Use。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Meta放回供應、需求、監管或商業化進度的核心位置。
-連結：https://news.google.com/rss/articles/CBMingFBVV95cUxQSkdCc2Z4M2ZwdHUzYW54azRDb0ptT0NOQ29kdklZQkloR3lXaEFhWGUzQnRYXzQxbmVrTXBybUtQS3JxLUxoRDhzNGJNdXZrMWhDWmxYWTRfVEE5Y19qdDNldldEanl1NW5UbHE5a014bVlSUzdaSm1JSTBIUUdYZ2VsR2Jpd29BZDFyTnI0eVV6cndjdWp0Umg1bFkyQQ?oc=5
-
-## 7. B級｜Exclusive | Google Cloud, Accenture推出Unit to Put AI Engineers On-Site…
-
-來源：WSJ
-類別：AI
-摘要：WSJ報導，Exclusive | Google Cloud, Accenture推出Unit to Put AI Engineers On-Site With Customers。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMiugFBVV95cUxPdlp6U3FkM1JYbjNMN3FBbjJjUGt5eTJCaF9qSklnNzUtOFYtTk1taDJkQk1zUU5XelU2MGU3V2djQ0owbk92Y2YzQ3I4WkpqaWJGOGFRVWxQRldiTWpTYnpkZU9jazFKWnVISVVCc1NNVWIyV3NiR2dmWVVYMjNIOXdSbkFjbTBJcGFpU2pmMmN6b1B3aVZiYUNMbWk2U1k5Z0JVeUxwNGI4ZnRCbUEtbGxRVXhHRVFzTmc?oc=5
-
-## 8. B級｜OpenAI offers AI for chip design, touts cost advantage over open-sour…
-
-來源：Reuters
-類別：AI
-摘要：Reuters報導，原文標題指出：OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUJucVhXdkg2LXRFUWlWNDBaNm15VURrdEc5anpSaXNOVzJwTWJmQVE5Yms4aDlmRXhoU0RMSHN0dm5ZbF9qY19ZUUR2Y21fX3ZGZDhOTGgyVGpMS2s2UkxPNHVDZnZjRFppMzJQLUFsLXEzb1l1bWJPMWlnZm5XV21lYkt5STNRbGZuaTFzMXMxWGxIY2tGXzN6RDllSGc4a0dWcW15VlZiVENvOEJwY0JFcV9mWEJ1ZnVLb25IbUs?oc=5
-
-## 9. B級｜Why Amazon Is Diversifying Its AI Chip Supply
-
-來源：Bloomberg.com
-類別：AI
-摘要：Bloomberg.com報導，原文標題指出：Why Amazon Is Diversifying Its AI Chip Supply。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMivAFBVV95cUxNRXZwZjNkQ21OSDhBckw4QUFuNmVlZGJPbGZMSjNtQWFEVHdtUTJNbjluTjRuOFd0dHJ2WTJwTFdjYTViT3g1cFJISjFtUmtXcXF4YV9PeVZJUnpjdm1TWEFkRm5RYnViNWJPNlltcEMwb0JabmVuZnNnNDJRb3JIUnl5MVNCTXJpSTJaMk4tMXpPNlowaDBzZjdWOEh4cVJWeWZ1d3JwbTlBUEpxd3RwZHkyOV9YYlBuZU4wVg?oc=5
-
-## 10. B級｜Watch Why Amazon Is Diversifying Its AI Chip Supply
-
-來源：Bloomberg.com
-類別：AI
-摘要：Bloomberg.com報導，原文標題指出：Watch Why Amazon Is Diversifying Its AI Chip Supply。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMiogFBVV95cUxPcWc5TmhfdEM3RHZtX0J0Z3RBZGlOdjVOQ0labUwwamFWa1hfQUtsRHVOWnAwS3cxZWhBcDJnNE1GTFRrdkpsTGRlak1HSERWdjUwenJfaHlYRjZSLVVzcmpMRDJXY3dWd3g1akE5YXlZeW9sUE52U2l2SUoxbEpTVXNUY1NlLUJIM1hqTkpBSzZLa2ZCY3Yyd2xCTUJKNWExZlE?oc=5
-
-## 11. B級｜NVIDIA的 投資s grow to $99 billion as chip giant becomes major backer of…
-
-來源：Tech
-類別：半導體
-摘要：Tech報導，原文標題指出：NVIDIA的 投資s grow to $99 billion as chip giant becomes major backer of AI companies。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-連結：https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html
-
-## 12. B級｜OpenAI begins rolling out Astra model after warning of its advanced c…
-
-來源：Tech
-類別：AI
-摘要：Tech報導，原文標題指出：OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html
-
-## 13. B級｜Qualcomm issues warrants to Amazon to acquire $4 billion worth of 晶片商…
+## 7. B級｜Amazon adds cybersecurity veteran Kevin Mandia to board 2 years after…
 
 來源：US Top News and Analysis
+類別：美國科技股
+摘要：US Top News and Analysis報導，原文標題指出：Amazon adds cybersecurity veteran Kevin Mandia to board 2 years after he left Google。背景是大型科技公司正以AI、雲端、廣告、電商與硬件更新維持增長，管理層任命、產品發布和投資金額會影響盈利假設。
+連結：https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html
+
+## 8. B級｜Qualcomm issues warrants to Amazon to acquire $4 billion worth of 晶片商…
+
+來源：Tech
 類別：AI
-摘要：US Top News and Analysis報導，原文標題指出：Qualcomm issues warrants to Amazon to acquire $4 billion worth of 晶片商's 股價 as part of AI基礎設施 交易。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+摘要：Tech報導，原文標題指出：Qualcomm issues warrants to Amazon to acquire $4 billion worth of 晶片商's 股價 as part of AI基礎設施 交易。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
 連結：https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html
 
-## 14. B級｜ASML Wins Over TSMC, Samsung for New EUV Machines as AI Demand 急升s
-
-來源：Yahoo Finance、Taipei Times
-類別：半導體
-摘要：Yahoo Finance、Taipei Times報導，原文標題指出：ASML Wins Over TSMC, Samsung for New EUV Machines as AI Demand 急升s。同一事件亦見於2個來源，背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-連結：https://news.google.com/rss/articles/CBMilgFBVV95cUxONTh5bGl1azZ2eFd4cTNQOUtoQml0R1g5ajREcTdpcVlUYUN5Z3pkWUYyQVlwWkxyak1vWUJWOEYzZElfWURoYWFTQ1V2bXAyV2tiZ3JoTnVPaDhHZ2Q1RWtOMzVJT01pR0g5RlBXdW9EbG5ETW9SUHp3d056bUxCclIwUGx5MzJXdUc4YUR2bzJuSDhpQVE?oc=5
-
-## 15. B級｜Chinese giants Xiaomi, Huawei race to get ahead of Apple's rumored fo…
-
-來源：US Top News and Analysis
-類別：中國科技
-摘要：US Top News and Analysis報導，原文標題指出：Chinese giants Xiaomi, Huawei race to get ahead of Apple's rumored foldable iPhone。背景是中國平台公司在監管壓力和本土AI競爭下重新推產品、調資源，微信、電商和短影音入口仍是最重要流量戰場。
-連結：https://www.cnbc.com/2026/09/08/xiaomi-huawei-apple-foldable-iphone.html
-
-## 16. B級｜Zscaler beats 業績 expectations, issues upbeat 財測 but股價下跌或受壓
+## 9. B級｜Chinese giants Xiaomi, Huawei race to get ahead of Apple's rumored fo…
 
 來源：Tech
-類別：金融市場
-摘要：Tech報導，Zscaler beats 業績 expectations, issues upbeat 財測 but股價下跌或受壓。背景是資金在股、債、匯、商品之間重新配置，油價、美元、債息和大型股財報常會互相牽動。市場含義在於，金融市場相關股價已對消息作出即時反應，下一步要看成交量、同業股價和期權定價是否確認這個方向。
-連結：https://www.cnbc.com/2026/09/03/zscaler-zs-q4-earnings-2026.html
+類別：中國科技
+摘要：Tech報導，原文標題指出：Chinese giants Xiaomi, Huawei race to get ahead of Apple's rumored foldable iPhone。背景是中國平台公司在監管壓力和本土AI競爭下重新推產品、調資源，微信、電商和短影音入口仍是最重要流量戰場。
+連結：https://www.cnbc.com/2026/09/08/xiaomi-huawei-apple-foldable-iphone.html
 
-## 17. B級｜Exclusive | Anthropic Researcher Quits Over 'Out-of-Control' AI Fears
+## 10. B級｜Top 美國 official named to OpenAI non-利潤 board警告advanced AI could be 'd…
+
+來源：Financial Times
+類別：AI
+摘要：Financial Times報導，Top 美國 official named to OpenAI non-利潤 board警告advanced AI could be 'deadly'。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnQ4eTFvM0huQ3QtaGlscTlQNVNXRXBtTjM5V2hsclBHZmNfOFpURTB4RXNmejZZN0Fqc3BJbklrSHBWRC01b0MzM3BSTFRxU3pwYjVjWi1SZDY3X1g2c3VBZGN5MmNfWXV3S2F5WDZrd09XQzFhcTQzc0xsb0dSRjk5Wng?oc=5
+
+## 11. B級｜Exclusive | Anthropic Researcher Quits Over 'Out-of-Control' AI Fears
 
 來源：WSJ
 類別：AI
-摘要：WSJ報導，原文標題指出：Exclusive | Anthropic Researcher Quits Over 'Out-of-Control' AI Fears。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+摘要：WSJ報導，原文標題指出：Exclusive | Anthropic Researcher Quits Over 'Out-of-Control' AI Fears。 RSS摘要補充，Exclusive | Anthropic Researcher Quits Over 'Out-of-Control' AI Fears WSJ。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中。
 連結：https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5
+
+## 12. B級｜Star AI Researcher Is Leaving Meta
+
+來源：WSJ
+類別：AI
+摘要：WSJ報導，原文標題指出：Star AI Researcher Is Leaving Meta。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Meta放回供應、需求、監管或商業化進度的核心位置。
+連結：https://news.google.com/rss/articles/CBMie0FVX3lxTE5sMWpEemtXMER4MTJWdnl0V0tUQlh1VUpFc0dRdFBZWFM2SUk2NzEzdUstaXV5dmhkbXljWHNlMjdsUFhDNUF2MlJUSlhiUVVjQlprZ0RBOVFLUENfZnU4NTF3MWdldFgxa3M4ZkNmXzIzRC03M0xVNkhVVQ?oc=5
+
+## 13. B級｜Anthropic discloses fourth AI hacking incident missed in earlier revi…
+
+來源：reuters.com
+類別：AI
+摘要：reuters.com報導，原文標題指出：Anthropic discloses fourth AI hacking incident missed in earlier review。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMixAFBVV95cUxOaU1ZZ0ZRWnBaSnRlakoxVTU1SE9aZTEySkNZU2N2eU5XWG9remJKT29feUVoNlhhQVpfWnNFd1NKZ0xnb3lobTExTXE5dXZud0tCbGVLMzR4Y0NFRkRRUUlnWUllbjVTcXBWeHJzMDJVamFBQjJveC1PNThKSGUzNlRfUlVEVkJPbHhtendZdXdsSmdva0RvT3NidFdSb3BWSmd6R1lFb1NxYXdjR0xKeVVnZWY4c3JlbHlycFhkcXlmQ1Jv?oc=5
+
+## 14. B級｜OpenAI pushes for mandatory national AI safety requirements
+
+來源：reuters.com
+類別：AI
+摘要：reuters.com報導，原文標題指出：OpenAI pushes for mandatory national AI safety requirements。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMirAFBVV95cUxQM1BGN3ZBNTNDNW5DeGNuUmhNSnM3M1JfZ1NGaWF1ZFpvNHg3THdibUkzRkNrSkMwX2g2bDRzaUdmcklQNW9tNDZNTWREV2M0c0I1bXlFejQwZkFhTzRybzFjd1UzWS1BbFFyeWoxbzlWMXpyQTN3MF9ydzZxQ0ktYjhLY1dPRlM1alU1UUdGd0psUFBPOE5KU0VNSTdzNWs4RWFRYlpVaHJMd0Nt?oc=5
+
+## 15. B級｜Nvidia and CrowdStrike Develop New Cybersecurity AI Models | The Morn…
+
+來源：WSJ
+類別：AI
+摘要：WSJ報導，原文標題指出：Nvidia and CrowdStrike Develop New Cybersecurity AI Models | The Morning Download for Sept. 2。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMioAFBVV95cUxNa19QTkMyU3B3eUJFcXB3TmFIWVJ5RW5aNTN4LVhBby1oaVhaei12N2VmYW9kTUFPc0pPajNLSkhXWTFsOXF5RDRIWkhJNUoyN29HcGd1UUU3bDhLMUtvLWhvb2l1bUdTaHMwWUR4RDFrS21Xc1VRWXJ5c25nR0E1TVAxV2IxR3QyT0MzOC1GTFNxeDY0RDdxenA0bmQ4WFlZ?oc=5
+
+## 16. B級｜Meta pushes into personal AI agents as company faces public reckoning…
+
+來源：Tech
+類別：AI
+摘要：Tech報導，原文標題指出：Meta pushes into personal AI agents as company faces public reckoning over privacy and safety。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://www.cnbc.com/2026/09/08/meta-personal-ai-agents-public-reckoning-privacy-safety.html
+
+## 17. B級｜HPE Boosts Outlook as AI Demand Drives 急升 in Third-Quarter 利潤
+
+來源：WSJ
+類別：AI
+摘要：WSJ報導，原文標題指出：HPE Boosts Outlook as AI Demand Drives 急升 in Third-Quarter 利潤。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMitgFBVV95cUxPN21IOU5lZUlTZkxXWWhvUXRzRXA3c1V5SkdIV3p0Znh2YWwxY0FXWFpYY0NpTjNsZW5Dc1BWUU9kWjJYTlU2WEN2WUgtZTlCLWFCS3RQcmlHaFZ0SmdMMmVVLWd1ZkxwQVNoTmtuRVVQdmFjbU5YeW0zSUcyblFrbVJnS2IyVkhrNlFCSlNESXV5Z2had1FnU1liSXpxZlpsYVU0eWthNkVicy1lbWxoV3llMUR4UQ?oc=5
