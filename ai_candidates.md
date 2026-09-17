@@ -1,122 +1,122 @@
-# 分層式選題池 - 2026-09-16
+# 分層式選題池 - 2026-09-17
 
 以下新聞由RSS標題、來源權重、關鍵公司、政策與市場風險訊號自動篩選；未使用OpenAI API。
 
-## 1. A級｜OpenAI is working with Anthropic, Google on AI safety, Bloomberg News…
+## 1. A級｜Huawei Set to推出中國的 Best Answer to Nvidia AI Chip Reign
 
-來源：reuters.com、Bloomberg.com
-類別：AI
-摘要：reuters.com、Bloomberg.com報導，原文標題指出：OpenAI is working with Anthropic, Google on AI safety, Bloomberg News 報導。同一事件亦見於2個來源，背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Anthropic、Google放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「OpenAI is working with Anthropic, Google on AI safety, Bloomberg News 報導」，涉及OpenAI、Anthropic、Google；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaENkNHlJX1lkYlJtRzRtZ0NEaFpfbkxub0F1VkVUVHBvVTdMaHV1NjRDMnY5N09TTnIzRzFQZmFYcnY3ZkplMmxGQ1Y2OFRXT1kyTkNlWnZ0SjFsWHdHMWl6RklJeTFmMjVfYVN0ZTlidzhmR090TVdzRFRQd1ZmSFB2dXIyM1BLYVJDNlZMYy1PYnpTdTR0bHBYR2JwYWpMczAzSm5jU0JqYkJwb2V1SmhmMVJxSzRILXBZ?oc=5
-
-## 2. A級｜NVIDIA的 Huang diverges with CEOs of Anthropic, OpenAI on AI safety at…
-
-來源：CNBC
-類別：AI
-摘要：CNBC報導，原文標題指出：NVIDIA的 Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Anthropic、NVIDIA放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「NVIDIA的 Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce」，涉及OpenAI、Anthropic、NVIDIA；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMingFBVV95cUxNamhBSWgtcmZwTVRVOXlnbGZMN2R1bDFlMWEtV21wUXFmUGVoWW5vQWNVbU55OEE0T0lWMUFlMXFZVGdvNmN0TElFUGNkQUlwQ01hU09aUEZIZlBjd0lMbGJMOVJHbmhOSTNRaHU0cXBnNmRVQ2lTb21odDUzOGlRQ1phSTRDUDVucThHQjNncjI1Q1pMOVV0WlotdDVpUdIBowFBVV95cUxNQW5ST21vbGJyUWYzcHVFZFJOZUgzTEJ3TWFkS3Y4Nm9fQ2w3c3puMnJqaFBpbl9CVG5Gd1RSZUVGQmJqLVZaN0dBZ0dOWEZNb3IxMDBtaGhWNGllb29aZERqeGxibHhnakZJRDgxeF9oa1NDSGV2YzYwa3plQ0dhZU43aHJNb1MyUlZRRm1hb1BZRVpZRVF4LUd1OWNQXzJpZFpr?oc=5
-
-## 3. A級｜OpenAI, Google, Anthropic discussing collaboration on AI safety issues
-
-來源：CNBC
-類別：AI
-摘要：CNBC報導，原文標題指出：OpenAI, Google, Anthropic discussing collaboration on AI safety issues。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Anthropic、Google放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「OpenAI, Google, Anthropic discussing collaboration on AI safety issues」，涉及OpenAI、Anthropic、Google；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMid0FVX3lxTFBVX3pnQ1lXY2F2Y3MtZVNTUlZsb2hYeWQxaF9tSTB6aHZRUlR5azdFRkhLOV9EZDZWaHpGUWpqalo2SXVCb1pRQWgyVVNmamsweDJMUzBDeGtUWHBGZ1dRR3p4NHQwNG1CcG51ZWVBM252azBjMTNn0gF8QVVfeXFMUE0zU1ZReFVzWHBKMzliU2ZWbjRMaENCTUwzS3I0TlVwV1Q2dFRkQTNDbU5xelV1MVBWWjZ1NmFJTmNtZEVoc3pXYWRmTXpqUkVoUnlTTHpBbUlOb29aQmExb3NyeTQ2d05ta2VCb1dSaWZLclQ5OUhLSktrbA?oc=5
-
-## 4. A級｜Samsung投資Nvidia AI chip rival in $230 million funding round as GPU al…
-
-來源：Tech
+來源：Bloomberg
 類別：半導體
-摘要：Tech報導，Samsung投資Nvidia AI chip rival in $230 million funding round as GPU alternatives boom。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，事件把NVIDIA、Samsung放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom」，涉及NVIDIA、Samsung；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html
+摘要：Bloomberg報導，Huawei Set to推出中國的 Best Answer to Nvidia AI Chip Reign。 RSS摘要補充，Huawei Set to 發布 中國的 Best Answer to Nvidia AI Chip Reign Bloomberg。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，事件把NVIDIA、Huawei、中國放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Huawei Set to 發布 中國的 Best Answer to Nvidia AI Chip Reign」，涉及NVIDIA、Huawei、中國；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHJ3Q0EwbFRwV2xZcHF0XzNtMVV2X0U1cVZ2bU1SRHBwRm51RlA1cGc2UmxST0JNbThJcUoxclFZTTVzeGlfcEREbjI3TjR3MGFYU1M4ZnpfbFgya2ltY3JxYk0zdXNFUXBNQURsODIzanFJa05UbzJJYmVwbF95MGRKajVCSTJfekM5QmNmRTRQajNFbmlEMFRoblBXVUtXSWFwNUNkMXU1WVhLWGE3QmFnaFVsUQ?oc=5
 
-## 5. A級｜CrowdStrike CEO on Anthropic's AI safety warning: 'The genie's out of…
+## 2. A級｜OpenAI, Google, Anthropic discussing collaboration on AI safety issues
 
 來源：Tech
 類別：AI
-摘要：Tech報導，原文標題指出：CrowdStrike CEO on Anthropic's AI safety warning: 'The genie's out of the bottle'。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Anthropic放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「CrowdStrike CEO on Anthropic's AI safety warning: 'The genie's out of the bottle'」，涉及Anthropic；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://www.cnbc.com/2026/09/14/crowdstrike-ceo-anthropics-ai-safety-warning.html
+摘要：Tech報導，原文標題指出：OpenAI, Google, Anthropic discussing collaboration on AI safety issues。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Anthropic、Google放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「OpenAI, Google, Anthropic discussing collaboration on AI safety issues」，涉及OpenAI、Anthropic、Google；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html
 
-## 6. B級｜NVIDIA的 Huang rips Anthropic's proposal for AI safety antitrust waive…
+## 3. A級｜Microsoft AI chief calls out Anthropic's approach to AI consciousness
+
+來源：Reuters
+類別：AI
+摘要：Reuters報導，原文標題指出：Microsoft AI chief calls out Anthropic's approach to AI consciousness。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Anthropic、Microsoft放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Microsoft AI chief calls out Anthropic's approach to AI consciousness」，涉及Anthropic、Microsoft；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXVwcmwwcUVVMFVOeHFOZHdJQlJHMlhwdGNYUl9FeEhKVFZjWWNDV0pGUnh3dVNQZi1BSDhHZUszWmtpbVpYdGNLWU01clRZTngtT2VpQ1lPVkFhSkVwVGVVR1N6T2RaczBvX2NJTmc0aU5GWEhZTVBIYmIwbnVEc0hSRWxzeUF2d0hQQUZCcVl3cEw2MVBVdmU1MDNTbUhwQ0loRzFPSXJBY1lweWlV?oc=5
+
+## 4. A級｜Anthropic, OpenAI proposed new 'neutral' AI watchdogs. Why you should…
 
 來源：CNBC
 類別：AI
-摘要：CNBC報導，原文標題指出：NVIDIA的 Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMie0FVX3lxTE44RHpQWkxyODlqZFVxWEs5TjRrN2ZWMktZUGRyWERQMURrUEZSWk53QXRpRURxcmJtMVJvcmIzWTY5Unk3VVBlRThad2J0YVhJcFRkSVdOUlNvU3Jvbzh1anRPTGU3SGZnUXZOOE5GcWtQOXpPMldaR1hCTdIBgAFBVV95cUxNZ1VaYzZvQzNWOHQwX3Vfc1BraXpSRU91R2E5ZWVoSUhaZjNZQ1BfT1hUaFU5aEI5cF95UHE1V3VWX1ExcGpQR2NXc2JsSUJzWGFGRjU3TC1waW1hM0FmbTNRS2c2UlZVcWk3bmxudUNBbXBVYWJDVHRLRm9meG1zQg?oc=5
+摘要：CNBC報導，原文標題指出：Anthropic, OpenAI proposed new 'neutral' AI watchdogs. Why you should worry about the idea。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Anthropic放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Anthropic, OpenAI proposed new 'neutral' AI watchdogs. Why you should worry about the idea」，涉及OpenAI、Anthropic；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMifkFVX3lxTE82dGJtZmlDaGJtODJPSXBoY2xRRTFMdEtQMEFYMkpyMzJoUEdzRnc3bXg4b2F3cC1lRUJGRlMzQ0QxbEVfSU1DVktIUm4yMzBLVEhwQjJhd0V4bWZxdnVVallHSTJBOHNfaEUtLThSYmI2eFpUbmtiLWZRXzR5d9IBgwFBVV95cUxPUFRFd2huX0ZQQk9EWGowajZHZ05OcWU4ZGhOMm95SGxnOEttR2ZTV05sN2UtS2ZOVzBnZFphdE5lYmI4LWdrcVluc3drWE9ZTzJjQmIwemEtODNiZDdiTldJM2FqdXF1dVQxVDhGYmZELW9yWjJmdEZ4Qjc2VWk1YV8wOA?oc=5
 
-## 7. B級｜Anthropic's Amodei says China presents 'toughest dilemma' for his pro…
+## 5. A級｜AI bosses' safety push sparks rift inside OpenAI and Anthropic
 
-來源：Tech
+來源：Financial Times
 類別：AI
-摘要：Tech報導，原文標題指出：Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html
+摘要：Financial Times報導，原文標題指出：AI bosses' safety push sparks rift inside OpenAI and Anthropic。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Anthropic放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「AI bosses' safety push sparks rift inside OpenAI and Anthropic」，涉及OpenAI、Anthropic；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHd3YlVDTGFvVHQ3SXY4ZjBBREZ5d1N0YVp4UlBRaVZLRGZhek5kdFlDSlF4UWJXbEpqNVBVMC04RVMwLWZrLWoxaUZ3S0E5eGJLamtBSmdPXzVLU2haamN3YTZFSXc0bHdrcUhtU215aURzVXJMY2tmSW1RRTZhUTJhYW8?oc=5
 
-## 8. B級｜Palantir and Nvidia Are Restricting Anthropic's AI. Microsoft Could W…
-
-來源：Yahoo Finance
-類別：AI
-摘要：Yahoo Finance報導，原文標題指出：Palantir and Nvidia Are Restricting Anthropic's AI. Microsoft Could Win the Enterp上升 Trust War。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVRVNkI4ZU9iTkNsUXNGcjVFZjVvOUU5SC1wMzFvdS1JelNTU1k3eElISEZXQnd5UEo3cWN4QUl4aWZtMXo5c3pqdFR0cTZaYUVpbXZ0ZWVsdjNSbzhveG5vaGR5VkNDbF9zLVNFdmhqWENWWF9OaDhVNWpuVjgzN1JURzJqRjViZWFpd0FQMjhBeUlleF8xakJkb3FvUzd1bnZETmM0dw?oc=5
-
-## 9. B級｜Nvidia CEO Huang attending Trump's state dinner for 中國的 Xi: Source
+## 6. B級｜Intel, SK Hynix股價上升，原因是report they're discussing U.S. memory chip man…
 
 來源：CNBC
 類別：半導體
-摘要：CNBC報導，原文標題指出：Nvidia CEO Huang attending Trump's state dinner for 中國的 Xi: Source。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-連結：https://news.google.com/rss/articles/CBMic0FVX3lxTE9CeVJxT3M5b0dfbDBxdzJBNTZtTGdyc2h1V2wtSG5VUkZQQVMxRExYRm51U2NWWmpFYmNfVnZDaVF5TkdjZjZib3c2b1FkcUNOZVBidXRYQnU5UGd2TXl1bjY1bTZjbVYtbzRUbUVuY0lFRE3SAXhBVV95cUxOWUdvSkVyRmFDOHkzZ3VKU0kyeVN5SmxuZkdqVE9mRjdocWhhZzA3Q0VwQkVGOUl2dVlIV3cyQl9ua2dGTDcxZTlfOWpadkZVeWxaRHBHSVM1S1hsM3ZXMlVIbDFRcWRRbmF2UlltNl9RTEpTMVFUWjI?oc=5
+摘要：CNBC報導，Intel, SK Hynix股價上升，原因是report they're discussing U.S. memory chip manufacturing。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+連結：https://news.google.com/rss/articles/CBMidkFVX3lxTE55T19qVTR2OGlMZzBXYUNrM0U1dExRSkNINjA3LU9LcHlscXBvSGxIVUtSOFdmaGpFR0RZSWRIQVhMeXlpUlQ1ZmJWR1VkNTBwVTZqRG1aTzFxRWJhYjVTTmE5dFltNGJITThsMGs0TkJkOHF6SkHSAXtBVV95cUxPZW5KZmVLS2FIRlZkSlcxR25xcC1GU1N0YVBWaC1DNFRqM3dUSHJZLUczU1QxQnBNTWt1RU9vTUM1SG53ZkFuQ3dGaE1UYzBwYjFjcVZJdjI5cDJ5cHNrcEhyTEdreHRld01uSC1wb2JMS1A2bGsycG1XaXM?oc=5
 
-## 10. B級｜Broadcom CEO addresses Anthropic's slowdown push, says AI 營收 targets…
+## 7. B級｜Meta CEO Mark Zuckerberg sides with NVIDIA的 Huang on AI safety and sl…
 
 來源：Tech
 類別：AI
-摘要：Tech報導，原文標題指出：Broadcom CEO addresses Anthropic's slowdown push, says AI 營收 targets haven't changed。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html
+摘要：Tech報導，原文標題指出：Meta CEO Mark Zuckerberg sides with NVIDIA的 Huang on AI safety and slowdown debate。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html
 
-## 11. B級｜Nvidia CEO to attend Trump dinner for Xi, source says
+## 8. B級｜NVIDIA的 Huang rips Anthropic's proposal for AI safety antitrust waive…
 
-來源：reuters.com、Investing.com
+來源：Tech
+類別：AI
+摘要：Tech報導，原文標題指出：NVIDIA的 Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://www.cnbc.com/2026/09/15/nvidia-huang-ai-slowdown-antitrust.html
+
+## 9. B級｜Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud…
+
+來源：Reuters
+類別：AI
+摘要：Reuters報導，Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud venture, source says，涉及禁令、限制、出口管制或關稅措施。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMizgFBVV95cUxOQVBYUDM0azJaTVZjVHAzbUtkOVBWLWpZYnptZFZ4S0x0dHpkS1lXVFM2SnJtX0F0Ull5OXdJUkdiNXdUZTNQamM0S3NoeFRxdTdFVmFWWi00cVJ6YXQxTDFTQlBmc0FsS3l5SHJ5VnZpOVplcllLVk04dy1YS2cwUDdMWEY5RzZWN3JTU2luOXJ4NUt3NzkyREJSUVlMSFJBcFpMcHprUjVsM2J3WGg1NUI5NjZrZDBHUGZiNnJGZUtvZThlTk9jWmRSaVZpUQ?oc=5
+
+## 10. B級｜Apple's Cook, OpenAI CEO to Attend Trump Dinner With Xi
+
+來源：Bloomberg
+類別：AI
+摘要：Bloomberg報導，原文標題指出：Apple's Cook, OpenAI CEO to Attend Trump Dinner With Xi。 RSS摘要補充，Apple's Cook, OpenAI CEO to Attend Trump Dinner With Xi Bloomberg。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議。
+連結：https://news.google.com/rss/articles/CBMisgFBVV95cUxOUHRrS3BTTDhpRGRtY3hLOGhONGFEbEpjVTJ2ZlFQcHNyVncxb2hVd3JrbjFtM2o5ZWRQb0ZQZElRdVNNZlRjZlNlOENZUmwyemM2RzQ2Q2ZxZVFheUJORHNsVG9TempKTlYzd0RMZkpVNE56dl9SYUZiZlNCSFhMN1owal9VLWhhUEpoNU5ONjR6Ym5icVJ2RzhiaUpSamZNQjZUdXRkWE5wVzhiWHBaTndR?oc=5
+
+## 11. B級｜Apple weighs Nvidia technology for potential server market return, Th…
+
+來源：Reuters
 類別：半導體
-摘要：reuters.com、Investing.com報導，原文標題指出：Nvidia CEO to attend Trump dinner for Xi, source says。同一事件亦見於2個來源，背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-連結：https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNGcU9fWlg4SmVTNzN2UUF1dUduZHFPVXFESnRBbDV3d081endTWHFQd2hNZUx6UThibVBxWHdycmFmUlBWcUZmY0NZdlVLdFhETHk3bGZJaURIb3lSVzdHcjFjZEhSTi1qTzJEWGpyYmpXODdTWVRJX3c2dmpVQXBWWEN6dlZFUFhNTnctbFVwYjk4WFFuSjg0RVlMZDFOUkE?oc=5
+摘要：Reuters報導，原文標題指出：Apple weighs Nvidia technology for potential server market return, The Information 報導。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+連結：https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUItV2dPTnNzdl9Fd0RxZlFSWm5fTGwwMmpYc3hBYThTellLMWhESUprY3UyME5SdWtVNVBmWmpJbllMRkYyOGc4d3liVlYxdlgyX2JWYnRRWUluUWd0Tm1fY2ptd2w0MHNYNkZKS2FOR3ktSkxuc0FBUnYxc01sdGVXN1RfRVZ2Z1h1bzBPa0htT2tsYVRfVzV0a0F1Vnpua3RRT2FadUwwdnotaG5RcHItNlZadw?oc=5
 
-## 12. B級｜OpenAI, Anthropic, Google have been in talks on AI safety for weeks
+## 12. B級｜Apple Considers Return to Server Market, Has Talked With Nvidia to Us…
 
-來源：TechCrunch
+來源：The Information
+類別：半導體
+摘要：The Information報導，原文標題指出：Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+連結：https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdQT2Zxd0JVbjFqZzExRndyakw5Q0loY1cwYTR1dk9xNDRXMmdyWlh4bWNkQmFDTU5wUFhvZ3NmVlV2b285TXoyN1RMbGt4RXpwMllPSDFyWThld2RMWEdyTWpzN01ManE1UFpYTDZmeGhod3c0QXJTcE1KZ2VuNkZfTVlQYzlyUTdicFhVcHh0RnU2X0QtWUhDX1p1a1dSNnNKN0ZxOGdoa2s?oc=5
+
+## 13. B級｜Nvidia CEO Huang attending Trump's state dinner for 中國的 Xi: Source
+
+來源：Tech
+類別：半導體
+摘要：Tech報導，原文標題指出：Nvidia CEO Huang attending Trump's state dinner for 中國的 Xi: Source。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+連結：https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html
+
+## 14. B級｜Salesforce CEO Marc Benioff joins growing chorus of tech leaders warn…
+
+來源：Tech
 類別：AI
-摘要：TechCrunch報導，原文標題指出：OpenAI, Anthropic, Google have been in talks on AI safety for weeks。 RSS摘要補充，TechCrunch See more headlines & perspectives on Google News。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才。
-連結：https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEsxMFYwMkNyVXR5cjZjNERGREFUenN6YWNuOU5oTEpkZElOdlQxMVQ0Q0ZUMF9aNlFqSmNYWUVOZ2VHS0pBYmM3bnhFbjhHYXB1eUQ1TDg3NE55blEtdEU0eDZ2SXM2OVFWbHp3X05fdEtEazI0SmxhSmJ0R040WGRralJxTFZXQjlKV2tOT2pKamUtNmNmc1pFZTAxdzJRd3c?oc=5
+摘要：Tech報導，原文標題指出：Salesforce CEO Marc Benioff joins growing chorus of tech leaders warning about AI risks。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://www.cnbc.com/2026/09/15/salesforce-marc-benioff-ai-risks.html
 
-## 13. B級｜Salesforce CEO Marc Benioff joins growing chorus of tech leaders warn…
+## 15. B級｜U.S. Markets Sell Off After Fed's Warsh Says 通膨 Is Still 'Too High'，焦…
 
-來源：CNBC
+來源：WSJ
+類別：宏觀經濟
+摘要：WSJ報導，U.S. Markets Sell Off After Fed's Warsh Says 通膨 Is Still 'Too High'，焦點是利率、通膨或經濟數據變化。 RSS摘要補充，U.S. Markets Sell Off After Fed's Warsh Says 通膨 Is Still 'Too High' WSJ 股價 futures 上升 after Fed's 加息。
+連結：https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXpmRks3Sk0xbFZuU01XWVltWmRBU1pHbUFQdnhUQmlZNWNzR2J4Y2huaURKOWpJckkyMHY0ZkNxeU04Q0ZwaDJVd21sMFEtNHBBdS1CSFZ2QXdDNzc1elZwdERMdmliWkFobC15d2ltVlliaVBVZXpjU1RIVGhHWnMtQ1QxUk5KOGh1UFBiUkhudmNGNko3Tmd2QWd4NEt3MGllRjRGY09BM0JHeFJnVm1uWWdITUZq?oc=5
+
+## 16. B級｜As the world debates the risks of AI, China closes the technology gap…
+
+來源：AP News
 類別：AI
-摘要：CNBC報導，原文標題指出：Salesforce CEO Marc Benioff joins growing chorus of tech leaders warning about AI risks。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMieEFVX3lxTE9QMzNwN3p5dWZ4TXg0eFJuOFo3eXh4VGNEc0RtUG5QaFM2S3EyMndoOE90NF9pNEhyamN0eUd1VWNFeVR1YjdSNVBiUGNrMWZYT2xJbTBWb0tWMmFzdXRjWW13b1JKeUNDSThER04wSUk0dzFzcnBDQ9IBfkFVX3lxTE5GY0t4S2lPUXFVZ25tUi1fU2Z5MGQ2Xy10Tm4tV2NvWWpYZEtNR2prM09zWXlJY2F6T1NMV0xIaFdNWXh4NU01R3AwdFdTME5XcG5wUzlHTkFvZWoyX1BKVUoxSjcwbWlxX1pnc0c3SUMtS0h1bE1INUsxR0Nzdw?oc=5
-
-## 14. B級｜OpenAI CFO Sarah Friar tells CNBC she isn't worried about slowing AI…
-
-來源：CNBC
-類別：AI
-摘要：CNBC報導，原文標題指出：OpenAI CFO Sarah Friar tells CNBC she isn't worried about slowing AI development。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMicEFVX3lxTE1WZXBaS1dWX0RSVE5pNTNnM0d3WEsyaWNpWXowQUJoc1RCLTI4YS1GeEV1d290MkF0V3RUOGxWVEVCUmFOOHYwdlF5Nld4WU9vYlJjQXdSRFV2LVVvZXQzUXRnVUdBRXRlNks5WkpBOGfSAXZBVV95cUxOU0piVDV6c3hZVUZ1bWdjU2xCTEpxbDRPX0w5U2ROVUZlZzhGbjA3LXZNWXNDYUZMeTZzZDBoNFd1UjdwLTRPemo4N3ZmZG9EN0NOSmhxMTlRRGNQR21EV3dlMnp2MzVZS1NpMGlsYU5adlJUMWZB?oc=5
-
-## 15. B級｜Trump Advisers Meet With Anthropic Executive Over AI Safety
-
-來源：Bloomberg.com
-類別：AI
-摘要：Bloomberg.com報導，原文標題指出：Trump Advisers Meet With Anthropic Executive Over AI Safety。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMixAFBVV95cUxPcVJCd1JzOVZOSkZWSU5pYjZnZ1NRRWt2VW9LUmlOSXNuTW52X3RVZXRoVmlVQlM1QU5yNi1BQm41cnp2YTJUZ2Y1d3p2bUt0QWRuZlVEbHRHLUFQWDZqcmtWbHZhVDZnUTdUQ1hHYXdJWHN0Nm83cnlHSkJvQXVYMkZUZjRGY0t2QldvNzlES3A2UGdlaXJPM2d0VERvMmdPaXVzU1Z0RmtnXzg4eEdPdzdQaUdHR1dTSzdZV2lfOGFvTEFm?oc=5
-
-## 16. B級｜Meta Touts the Cost-Saving Benefits of Latest In-House AI 晶片
-
-來源：Bloomberg.com
-類別：AI
-摘要：Bloomberg.com報導，原文標題指出：Meta Touts the Cost-Saving Benefits of Latest In-House AI 晶片。 RSS摘要補充，Bloomberg.com META 股價 Alert: What to Know as Meta Platforms Plans Expanded Use of Proprietary 晶片 Barchart.。
-連結：https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUZCZk9JODh6eDF4RVB6Q3lGSkt5Ul9IOGRSVFROQ2lxTFAxY21rUmk3WHVsbnBYcTg2eHBuTTk4STNVRkliTEF5azVXZUs0M09yM0J4bW5ManFRMC1yckY1UTh4N2xEX2V6S3NFZ09UdTZnSm01a24xVDYzb3JRd1Zla1BUZDQtQ0JaTERnOVlQS3ZJSTRNamxtNnFFa2hKVmVxNnJicVFoNHBYSHltUlFLUEg?oc=5
+摘要：AP News報導，原文標題指出：As the world debates the risks of AI, China closes the technology gap with the 美國。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMimgFBVV95cUxQM3NlSUcxUzlYaVFjcDdaWS1NQUY2WUR6THkxamlKbFozMkRsNXUwbl90STl2dmtDZ0d2dXBhNG4wRVA1TXIwSDZJM1laZVJJRDFKV1dXU3gzX2loT0p2Tl94T2h2ZXhfdGJOX3h4MkpZSzZkeHVMTEpWM2pNdU1vSkx2Tk50YTJnNWcydVo2NzdnNGl3RzJ2ZXhB?oc=5
 
 ## 17. B級｜MediaTek推出new mobile chip using TSMC's most advanced technology
 
-來源：reuters.com
+來源：Reuters
 類別：半導體
-摘要：reuters.com報導，MediaTek推出new mobile chip using TSMC's most advanced technology。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+摘要：Reuters報導，MediaTek推出new mobile chip using TSMC's most advanced technology。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
 連結：https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVlcUMzUkQ4NXk1QVkxeFc0NTBCenZSWTExWDJkeS1CaE1hamtXNHZmbmZHc2tKVXZSUGhOSGdCUnVTSGdxMTJPWm1vcmVRazl3Vm1fR2RPSU1heVFtRjBtUm4zWTkxYk1tM1J3ZmpyRW5RRXFIT1BJU1djQzBUeExSeTRZNEhnck84ek1zYTVOb2l5R2JzVmhvU20tMXVROWpuRmFDYjhyWDVkbThtQXlfQW4yZWhGa1lOUkJXV0VlcVNvTXl0Xw?oc=5
