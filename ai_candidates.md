@@ -1,122 +1,122 @@
-# 分層式選題池 - 2026-09-23
+# 分層式選題池 - 2026-09-24
 
 以下新聞由RSS標題、來源權重、關鍵公司、政策與市場風險訊號自動篩選；未使用OpenAI API。
 
-## 1. A級｜With new Macs, Apple計劃take on Microsoft, Nvidia in a rush to lower AI…
-
-來源：Reuters
-類別：美國科技股
-摘要：Reuters報導，With new Macs, Apple計劃take on Microsoft, Nvidia in a rush to lower AI costs。背景是大型科技公司正以AI、雲端、廣告、電商與硬件更新維持增長，管理層任命、產品發布和投資金額會影響盈利假設。市場含義在於，事件把NVIDIA、Apple、Microsoft放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs」，涉及NVIDIA、Apple、Microsoft；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMixgFBVV95cUxPdW5hd1BKazlnZmctdWM5ZjA5QXFOZnVPYjE0dExZNXc0cDJiUWhjb0VzWUZ0QkdYb3dKaThfR20wMzlOVWRGaTc3SlZUYVdWOXB5bWV5NFE0ZGhsSC1xeG1NN2szdVpISklVdW1FcExXZ1Eya3JoekEwa0VJSHJzc2l5dW9PRWdLVzJ5MVYyNG15ZWFVRHMxNmdDRHpZd0xWY2ZaUGhLTWptZVJlSHBueWloeUFIcHhYTGhISC00c0pHQ2lBdVE?oc=5
-
-## 2. A級｜Meta's Muse AI agent downlo廣告 are surging. Here's how it compares to…
+## 1. A級｜Meta's Muse AI agent downlo廣告 are surging. Here's how it compares to…
 
 來源：Tech
 類別：AI
 摘要：Tech報導，原文標題指出：Meta's Muse AI agent downlo廣告 are surging. Here's how it compares to ChatGPT, Grok and Claude。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，這則消息直接涉及ChatGPT、Meta的變現能力或財務預期，投資人會把它放進上市、估值或財測模型。原文標題寫明「Meta's Muse AI agent downlo廣告 are surging. Here's how it compares to ChatGPT, Grok and Claude」，涉及ChatGPT、Meta；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
 連結：https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html
 
-## 3. A級｜Google的 Gemini becomes latest AI model to break out and hack computer…
+## 2. A級｜Apple's ChatGPT tools 'dramatically underperformed', OpenAI claims
 
-來源：Tech
+來源：Financial Times
 類別：AI
-摘要：Tech報導，原文標題指出：Google的 Gemini becomes latest AI model to break out and hack computer systems。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Gemini、Google放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Google的 Gemini becomes latest AI model to break out and hack computer systems」，涉及Gemini、Google；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html
+摘要：Financial Times報導，原文標題指出：Apple's ChatGPT tools 'dramatically underperformed', OpenAI claims。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、ChatGPT、Apple放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Apple's ChatGPT tools 'dramatically underperformed', OpenAI claims」，涉及OpenAI、ChatGPT、Apple；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0RBVWtrcjYxLUNKaEpsTDNmTE4xNFN4djRaRmx0eHR6VVB0Wm5oaVRzR19XaXZ5a0Jra3Byck12b1ZWTml6Q1Vranp1ZzYybTZXUkphRm5SbS1ZTzNGX2JKLXN2ZjR6S0lyTXd6Z2xibDJvVmo3V0ZFT0VYTW9BdV9WX1U?oc=5
 
-## 4. A級｜Wall Street expects Meta's AI agent to shape into a new 營收 engine
+## 3. A級｜OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump r…
 
-來源：Reuters
+來源：CNBC
 類別：AI
-摘要：Reuters報導，原文標題指出：Wall Street expects Meta's AI agent to shape into a new 營收 engine。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，這則消息直接涉及Meta的變現能力或財務預期，投資人會把它放進上市、估值或財測模型。原文標題寫明「Wall Street expects Meta's AI agent to shape into a new 營收 engine」，涉及Meta；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHZ3dUF2a3BDZVdNNW00Rm5jekRCZUlNeTdabXRaQUdNaHpqZG95QnlISWVGQTJYR3F0bWJ5MmkxUUZkYndqUkZsSG1EdXU4MFcwdE5taHp4UU1DTk16OWV0bWJDU0drdEVVb0FmMnJWUVdLbm5SRFdMdWtRMzd4NnRlUDB4bnVQd3d1Q1VmSmdVOFJQdlJtVTBQUExDeFVFdXRWbTRvVE9yTDFZdVE?oc=5
+摘要：CNBC報導，原文標題指出：OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Anthropic放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it」，涉及OpenAI、Anthropic；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和。
+連結：https://news.google.com/rss/articles/CBMicEFVX3lxTFBnYmxuWFJ2T3UxeFlEbFlOY3VvVjFzaHQ2U2Z2MHlPZ0Q5c01zQ19aQmlGNE1hcnBUQWk3WTlXSmk4cUI0ZFp3TTVndkNDa3Q1RFFWdjdjV1lZWDJVZkpmaldLdEowRXpkSEZid2piVUXSAXZBVV95cUxNMHZEbDdqaUUwYy1xbTYxQ1dSWTJBZGhRRS1BOThUWTVKQnpBSnl3aTktbkN3Vmx2WGR1clRVZExIdDF0TU5meWo2T0wzek1HZTNQZnQ1SjNhTm9PZTJOTkMxUkxiWVdjRnZ5R21ZR3dLTmZyeGRR?oc=5
 
-## 5. A級｜EXCLUSIVE: Meta testing a 'human concierge' for its new personal AI a…
+## 4. A級｜CXMT, SMIC power 620%股價上升，原因是in 利潤s in 中國的 chip industry
 
-來源：Reuters
-類別：AI
-摘要：Reuters報導，原文標題指出：EXCLUSIVE: Meta testing a 'human concierge' for its new personal AI agent, Muse。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Meta放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「EXCLUSIVE: Meta testing a 'human concierge' for its new personal AI agent, Muse」，涉及Meta；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMipwFBVV95cUxQRC1FTHlGVTZjNmVycUMzV3RjbnJycmN0cXo0eWd6RWM4WG9GZTJWLXBuLUJidnBxQ0p2SEpUeVZoSU9ibWZWSkNDd1NxTF9IYVFicDg3QWR1VWF6UkNweGlUSkRPdWxqLWpmVVZqbkkwa2w0Y2E5cEc2b016Z1N0bWc5cjBzQnd4Z25WV0FQclk4OHk5UWdPWG8zcFZ6VWRGWE8wVThaRQ?oc=5
-
-## 6. B級｜Meta's New AI Agent Is an Instant Hit—and the Backlash Has Already Be…
-
-來源：WSJ
-類別：AI
-摘要：WSJ報導，原文標題指出：Meta's New AI Agent Is an Instant Hit—and the Backlash Has Already Begun。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMic0FVX3lxTE00Ri03WHN1eHFSTkktU0lYVzNPZlB3R0VhSDNEN25KTDNYa0RPVmlzcXBscGlNUjBNYmRLd2dHNFZhaGpLblNPZHJEdDNmTHd2RUFiVkhLZ2k2d3lsZU1KeU5SZndZelNqRnFTbHhSdWZOVG8?oc=5
-
-## 7. B級｜NVIDIA的 股價 Is Flashing a Warning Sign as Valuation股價下跌或受壓
-
-來源：Bloomberg.com
+來源：Nikkei Asia
 類別：半導體
-摘要：Bloomberg.com報導，NVIDIA的 股價 Is Flashing a Warning Sign as Valuation股價下跌或受壓。 RSS摘要補充，NVIDIA的 股價 Is Flashing a Warning Sign as Valuation 下跌s Bloomberg.com。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產。
-連結：https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmZza3lFQmV4Y3NTNVlkOThiYTlkUWFGY1lPUWF1SEpPRkRNXy1GRnpNYWlDa1JqdEJRejYyVF9mSlQ2eldpbGR0dFRRM1dWVS1oY1RmMGNqRy1aVExud1duUXhTZHdZTW9SU2J6aVBrMTVUVmNubDlQc3F6TjNHem4zWTM1dlp6dWFtbzd6d3ZOOE43NDNXYkpGMzMwR1NqQ2VfT3FPVGMtbEJHdzFMNQ?oc=5
+摘要：Nikkei Asia報導，CXMT, SMIC power 620%股價上升，原因是in 利潤s in 中國的 chip industry。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，這則消息直接涉及SMIC、中國的變現能力或財務預期，投資人會把它放進上市、估值或財測模型。原文標題寫明「CXMT, SMIC power 620% 急升 in 利潤s in 中國的 chip industry」，涉及SMIC、中國；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVdJdlRmSDBLWGk5NDROajdtRF9mSWF5S2lfRGYxU0ZVa2NtcGNGS0pETlI3WEpmU2ZxcEJHYmxySjZGbTdIaHhseFU2NHNXd2thenlxMVN1T19VY21ScmtZNy1KUGY4MUhkMDVYNmo2Z0NoUVNtTV9SbkRWOVU2bG9aN1pqUWVETzdaQ1l6MGNHd1czVnViUzdxRDRQM2tjdy1sUWdLTDZQQmc1VkNkUFFWM1g?oc=5
 
-## 8. B級｜Trump discloses more than 1,100 July trades, including up to $25 mill…
+## 5. A級｜Meta's Muse rekindles fears over winners and losers as personal AI ag…
+
+來源：Reuters
+類別：AI
+摘要：Reuters報導，原文標題指出：Meta's Muse rekindles fears over winners and losers as personal AI agent emerges。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Meta放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Meta's Muse rekindles fears over winners and losers as personal AI agent emerges」，涉及Meta；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlVtTVRPc0JSamlpVlpnNHFRZ1FQWDE0OFpRN2JoTzhQZ2lXaDVJV2FkMjBGa0psQ2ZUWVpzbXIxbFVDS3M0eHVWWGI4aGxxZVotZGJXTHRocVhXZU9fbl9rX2xvbGFkSGIxazlPOXlVRlNISEVLTEFZNXlpRVI5V1JRS3k5N3JTLXZ3UEFnMXA5cktvaDEwa3V6dUhvTkZRTnotSnhKV2xRbDJjRTF4NW5Bd0VWcXVIZHJWbDgtLTM2M3c?oc=5
+
+## 6. B級｜Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant…
+
+來源：CNBC
+類別：AI
+摘要：CNBC報導，原文標題指出：Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMiigFBVV95cUxQZE4zZGJhTHNYbjFqTkFSQzctWEVRb1E0ZUZJVGVfZEdJSUpaSS1vOEpKdU9lenBqWGJUSEJ0eWhDS3lRTGZXelgyTkVjWlpxcTNZQnhVUDltWXh4RkE5VVlFNEMyc0N6dktNaEduUEN0ZzhPZUVjanY1UGszaTNTcVBOMHNIUUpaLUHSAY8BQVVfeXFMTXRHVmpoQXdRa2c1MjVscHM5WG5WVHpYa2pJRXphSnI3OVdLdE5lVEs2aGdxVE9uWXVlY1RueVlTU25nUFk4cnFIOG1hZTJ3azlxUVl0RHRoVmE4WXVrT0hBNHg5Y2JETzFRQ0EwenB5MzU5YU8wRzdZRHVtbDJIUUJ1d1lWbzlQVjJfZllGRGc?oc=5
+
+## 7. B級｜NEWSLETTER: Funding frenzy, chip wars, and robot dreams: Inside 中國的 A…
+
+來源：Reuters
+類別：AI
+摘要：Reuters報導，原文標題指出：NEWSLETTER: Funding frenzy, chip wars, and robot dreams: Inside 中國的 AI boom。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1hSZVA3UXRLNWE3RU8wUWRTN3Z5SGRTQWkzRGRScVVHdDhfWFliZXdLSXlDdzdoX3NhN3BjdzNEUTJ2NmJRMVYyN2RteUdidHd0ejNtS1hZSlFPUWw5Si1GblRRQktKM055MDQ3V2kzWlVuREpNSmJZelozbFZuVGU2MW1STXdqN09mUEJRa3hHUkNXbEdRUEhBV0gzVHg4RjRmQ0VRcExrNURXZnExcURyWmVheEQwSTVDTEhCODJGZUNWV09OSUFn?oc=5
+
+## 8. B級｜Meta's standoff with Amazon over Muse could be a sign of things to co…
 
 來源：CNBC
 類別：美國科技股
-摘要：CNBC報導，原文標題指出：Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon。背景是大型科技公司正以AI、雲端、廣告、電商與硬件更新維持增長，管理層任命、產品發布和投資金額會影響盈利假設。
-連結：https://news.google.com/rss/articles/CBMilwFBVV95cUxPRDhjQUdQbl9DazhqUEFYbklmaVhoVXhJOGQtNzEwZ2p1YnBfSXBXejctMWpxY3ltV1BPVElRQnhydm5xdm5vYmFydVVBeHFtcTJraUNFamVRUDFvb0tCMEtDZmtOaGcwWDhDYWQ0d1YycEVmNC1vZnh3VnNOQlFUaUlGLW0xR2FjWm5rWmRibFRhcm1LemZZ0gGcAUFVX3lxTE9YX0VmZjdHQXdGRjVnNFRWQnItRElCWGFFTTZWVWhOTVR6ZTdVR0hzU3dybFc4WXlSR3RSM3kzWVo5SGcyeTRpeFhWcmdXanVJWm9jX2d1bW9zalF1bXN6UEU1M1N6Q2JaSE5rQm9CWHpSM0RtS1hrMFNCaDhya0dneExYOEh1RVgtUzliN1daaU9zazJMQnppV3FkNQ?oc=5
+摘要：CNBC報導，原文標題指出：Meta's standoff with Amazon over Muse could be a sign of things to come。背景是大型科技公司正以AI、雲端、廣告、電商與硬件更新維持增長，管理層任命、產品發布和投資金額會影響盈利假設。
+連結：https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzBob3NLdG1HOHF2bGl6cmJRcTBwZzVyT0ZPQm9GUVNFdnJWc1lTRUZXSngtTXJES052ZUwzVGxPNVhkVnc1WS0zcHo1VjA0dlktM28wZU1uem4zRUJWMmJua29sRjVWQzNDak9NX1dyd0ZWQ3hOVW5XYTRoZXZqSEdWbTM5dG0yWENnZjhGdjg3VWdjbjJjODlKcnNKYWhJWHlZ0gGoAUFVX3lxTFB3OV8wTlhFOGhWMWRSZ1VhY292c0p1Nkc3Q0dVZVB1NHhZZm1WbjROQ3dfQ0N3eXVEc0labW11SVZVV3VXUlZxWnV5TEU0aGlvSTktOTNJcGZhX3B2OGlhems3aDhXMVM0VnJVSnlzeXppWEpSRmNBckxKUHJjLV81YThyUDBKdVJhSjBlQ1VvMUdwNC14emJYM1dvTHdPYUE1YVI3VGRVRg?oc=5
 
 ## 9. B級｜Anthropic and OpenAI roll out cheaper models in first推出since call for…
 
-來源：CNBC
+來源：Tech
 類別：AI
-摘要：CNBC報導，Anthropic and OpenAI roll out cheaper models in first推出since call for slowdown。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA?oc=5
+摘要：Tech報導，Anthropic and OpenAI roll out cheaper models in first推出since call for slowdown。 RSS摘要補充，OpenAI introduced GPT-6 Sol and GPT-6 Luna. Anthropic 發布ed Claude Opus 5.5。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件。
+連結：https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html
 
-## 10. B級｜Anthropic and OpenAI推出cheaper models as price war intensifies
+## 10. B級｜Trump discloses more than 1,100 July trades, including up to $25 mill…
 
-來源：ft.com
-類別：AI
-摘要：ft.com報導，Anthropic and OpenAI推出cheaper models as price war intensifies。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMihAFBVV95cUxOc0REaFI3OHIxNmtEdnB6Vy01bUZPaWxoMU0zVm9SZTEyVU04cm1tSWdRNjBLTGJpTnJRd0ZWbFg4RDhac1NCTG1fVms5OTNfd3dta290enpZeTlTTnRScjRPM0NvbzJBRTFrN0I0bkNES0NJRVM5TUwyeHRLaTB3WVY1Skg?oc=5
+來源：Tech
+類別：美國科技股
+摘要：Tech報導，原文標題指出：Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon。背景是大型科技公司正以AI、雲端、廣告、電商與硬件更新維持增長，管理層任命、產品發布和投資金額會影響盈利假設。
+連結：https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html
 
-## 11. B級｜A top chip 股價 analyst sees big things for Nvidia, Broadcom. How his c…
-
-來源：CNBC
-類別：半導體
-摘要：CNBC報導，原文標題指出：A top chip 股價 analyst sees big things for Nvidia, Broadcom. How his case aligns with ours。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-連結：https://news.google.com/rss/articles/CBMixgFBVV95cUxQbkRTODEyMWV2N1ZEVVFFVXJva2hkQ1h0NTJaSXJKTTZqZXJXV29QalFHNmtReWpQU3V4N01ramJoSFQ4QkRNZXlIMUkwYWJpV2RwV01KQXYxOXFwUFRPVzBKUThDYUttMTQ1bnBxWnpQN3NWWkszTmVBSTZaclM1Tm5raEp6SENQMVRVWE1qU2hwbzlkTTAxekhyWV9EWW1sT1hfR1U4ZmFYY1BacDU1YTlsdDE5YTZLeXNVYkJZWllULXZTaFE?oc=5
-
-## 12. B級｜Qualcomm推出Android chip built for AI as memory shortage weighs on smar…
+## 11. B級｜Market sees next Fed hike in October, following Barr comments and hot…
 
 來源：CNBC
-類別：AI
-摘要：CNBC報導，Qualcomm推出Android chip built for AI as memory shortage weighs on smartphone market。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzBlSVNtRVBBVmxmQm5EUngxUFBaY2Jxam51SzNuM2d5Yk9iOWNrNmxEb3EzXzhRbXdmVFhqODJuWDJvVHYyQ2JJVjhKTHl6ZkZpN2dDNTVmVWYteDFSTXptbTBtNGc5MW5fMl9TZmdCencyallHYUNvWUI2R0tIVGxYTFVHSmF2dUdJTjd3WllXYzJuUnRoUTlWNnFqNl9YVTZV?oc=5
+類別：宏觀經濟
+摘要：CNBC報導，Market sees next Fed hike in October, following Barr comments and hot 通膨 reading，焦點是利率、通膨或經濟數據變化。背景是投資人正從通膨、就業、GDP與央行官員表態推算下一步利率路徑，外匯、債息和股市會同步反應。
+連結：https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGhuemZBdUZiMlNRVVhMRG5uam9La1lFdmthTXQwX005MkdYWVNfTXN4cHBUUkFHXzJ0clNDZU9CQmdBNy00WGtsbVFCWWdYU3lrNkxwUXd0YnlGdS1wLUplb25xSWdLVTBRV1YzbEw5amZncm1CVE83N1lxaVdvYVNjMS13WFRfZzlUU2czRHJwTkhEMjRZdnhiVjN6OUZhdWZrSUZxOGozWWlyQ1g2LQ?oc=5
 
-## 13. B級｜Meta Shows AI Agents Aren't Just For Businesses Anymore
+## 12. B級｜Microsoft Is Preaching AI Transformation, Starting With Itself
 
 來源：WSJ
 類別：AI
-摘要：WSJ報導，原文標題指出：Meta Shows AI Agents Aren't Just For Businesses Anymore。 RSS摘要補充，Meta Shows AI Agents Aren't Just For Businesses Anymore WSJ。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2tJVmk4TXpveG52aC1XYWZkTWg4LUxpLTNPNlZacFJjWW81LUt6NS1zU3B2TXJTeWpZd2ZZRWN1dUNHLTNVU1hkWUxsYW84a1pLejFRV2p3VlkyRFRsaDQzZ2w4NHI4bWdaYnNvVDlmV2lBT0ttRmFzZFBRT3Zrc0l1ZEptc1NPMS11dVFhTDNmUFI1Z01kQXVldw?oc=5
+摘要：WSJ報導，原文標題指出：Microsoft Is Preaching AI Transformation, Starting With Itself。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMipAFBVV95cUxPWmNVclVYOFF3bmVWOUlzUVBLZUgzUDZFcmEwa2pZZ1hYN0htNzdkWXJhQlVJLWFfQ0xjOVQteU01SkwtdHNkLUkyR0I0cTZIYTRiaHlzS0I2MGp3b0M4bEoxRTFnWGdseDRuR3lQU2RFM1dISTBWVjE3c3NzV2o5enJSWWk2UWM5MVItWnp1Rk5xVzBDQ0QteHo0QV9KT1l5SmN2Xw?oc=5
 
-## 14. B級｜Ex-Google safety chief警告AI could harm children more than social media…
+## 13. B級｜Australia says OpenAI agent breached government health data portal
 
 來源：Reuters
 類別：AI
-摘要：Reuters報導，Ex-Google safety chief警告AI could harm children more than social media did。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3M3dS1XSU9ra3NOc2lNdURNcl9ReGRaRWJXMy01NnJzWHNJNWdYU2FYd2psVjhUSEV2dTNOTjlJZlFJUllzMThDM3RUR1M2VGVBYWw5dVNoaE92SzE3WC12RC1JcWNWNjFkWVJQdGltd01tRl9yb1Z4dzRoMk1zWlRUUUJnczdBQWp0YVBCNThKejZOYUpDUS1YR1gwZlZsZXN5VEhNdFB2Y0JmVjE5RTg4Y1VYSE83RERoM3VxbzI0RE5ZYmtuMndURQ?oc=5
+摘要：Reuters報導，原文標題指出：Australia says OpenAI agent breached government health data portal。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWZud0ZEMW9uYlUwVlpoRlBIbW82Tjc4Rjl3WW5jcWxVR25wSmZCTXlOdHkwR2VrQzdzZkUwX3lNMXBGUkZMZU1sYS13dzRRb1RMRzFOVjc5RmJIbXFfNy1ob1VZY1ItYS0tQW9XVHNLc3p3UEJwNy1QRWVSYVFjQnh0ellEX2JSZkpSdXlMYVI4UkV2VE05enVnZFJuV3BaS1pVczF5VE9vaTdZOGZyU2tjTk9oVVE5RVBjTnVWNGNUZzVEZDM0?oc=5
 
-## 15. B級｜Alibaba推出New AI Chip, Outlines Plan for Larger Model
+## 14. B級｜OpenAI 'agent' hacked an Australian health service website
+
+來源：Financial Times
+類別：AI
+摘要：Financial Times報導，原文標題指出：OpenAI 'agent' hacked an Australian health service website。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0YxZkxLQWRjekpSbGs3ekx2RW1rVkZSWDNud2c5VHBWd1Zpb1Z1M3M5TGxFNUZKNkd1enNRT1pzVFlTR3dRclFjcGZkZ0RfMEx6d0M5dlVjZF91OTYzT0loWUdkZlZpckxzY2trYS1WVTRqRU9ZQ3JWVVVqcU1mYzJGSUg?oc=5
+
+## 15. B級｜OpenAI Agent Hacked Australian Government Website
 
 來源：WSJ
 類別：AI
-摘要：WSJ報導，Alibaba推出New AI Chip, Outlines Plan for Larger Model。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Alibaba放回供應、需求、監管或商業化進度的核心位置。
-連結：https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXRfVUpoTkJpWlZoVDA3MVEzNFVFbW5KbDZTX1FYVW0xNzdCZXR2eHdfZUgtbDJwdzM3Z1A2amgteXZqTS0yVGQxaV9WVjNxay1LZllIMFlRTmtQbXdzclF1OEJnUVVZUkhLVGEtUGdZcUdKMFI1bzY0aDdkaVpXM3QxTnNnOW1PMWY3dEZRYzdVeXNrTVBTNlh5QQ?oc=5
+摘要：WSJ報導，原文標題指出：OpenAI Agent Hacked Australian Government Website。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMijwFBVV95cUxPdUxmdkdyV2FyMzMwZGk1MjUxalc5aVhsSXF2T0ZrSWcxZW5nSDJTS2Z3cVVRNDVUdmZ3MkhJMi1mV0tGQjZyTDktazVFYXBxV0J1NVdUMGJJVUVNcENMZ3RucTNlRzNpenZKam40TEdxN08xTjVvdTJxNElTNUJDYUpFOVg4dW9oV2s3cjk3WQ?oc=5
 
-## 16. B級｜Alibaba股價上升，原因是new AI chip, 資料中心 buildout plans 發布ed
+## 16. B級｜Amazon推出new agentic AI for third-party sellers
 
-來源：CNBC
+來源：Reuters
 類別：AI
-摘要：CNBC報導，Alibaba股價上升，原因是new AI chip, 資料中心 buildout plans 發布ed。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMifkFVX3lxTFBCcFVPdHlLbWVwQUxhZkFraXoza1JJNjhKTnBfb29EM0xCVUZzVU9WWVc5RGVKZGl4clhCYTR3TVZWVGExWUdDWDJYUEs4V21Pb1lUTmRiTllRLUNub1ZIcFEyVm13OFVjV1cyMndSV05ZcUlvRG5EUFR4MFVDQdIBgwFBVV95cUxPYlBPYTZDRm4tR2xtNlNmajZjQXNTWnh1R1pNMVhSNWZySmNkZldVRzc1N2lwNU40UlJKZHRTWlBPQWZqTU1JdVFIWDQzSm1XREhnQnBZUkltR1dGaVVsUDBUNnhSNjZzSWRGamdvSDJ1emhQUHpUVlIxazRJQi1GTU5NQQ?oc=5
+摘要：Reuters報導，Amazon推出new agentic AI for third-party sellers。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Amazon放回供應、需求、監管或商業化進度的核心位置。
+連結：https://news.google.com/rss/articles/CBMisgFBVV95cUxQNno1MXBaZ3JtY05ZWHpfU2RsV0JuU3Zlb3hlN2RiaExrSHdEbE5wNGZjZUhINUNJQkdBR0pTM0xQUFhHZjdMdmEwSGtOcDRVcjJ1dFJNU1ZqMWlzbFpDZFhUVTlGaDFpTENaRjhKSDk0YWFiX05VOUZNbVVqRGhSemt6MHpabV8xbHNHSkZwbGRWVy1XdFdGZlVUVS1iMEJCNUNkd2stYUU2TnZ6Ny1LSXZB?oc=5
 
-## 17. B級｜U.S股價下跌或受壓，原因是Fears AI Companies, Fed Will Slam the Brakes
+## 17. B級｜中國的 'Lipstick King' confronts slower growth, AI disruption in livestr…
 
-來源：WSJ
+來源：Reuters
 類別：AI
-摘要：WSJ報導，U.S股價下跌或受壓，原因是Fears AI Companies, Fed Will Slam the Brakes。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTgwc1ZDUmgtSE5MVld4WTdlWkFrWGhIbW5jRzFEY255a0U1VlhhRWF5MFhQdThhcUc1a3ZwUXc4RENjTVA2QzVYanFXdzlSNUQ2emRTc1h0ZEJWVmdxeWFuRi1VQS1ic3luaDZ4SkRHVTVXU0t1dGdUUXJ0S2FEOUZ4R1NZZGs5b1hhN2NPRU42NktFM3hMZEYzTWRsODBGMDd0RzhwUDl6TUppOWc?oc=5
+摘要：Reuters報導，原文標題指出：中國的 'Lipstick King' confronts slower growth, AI disruption in livestream shopping。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ1J5ZFB5RGFkQ3BLOFlwY3BZN0ZieUp0RlduUzlrU1JySzJZTkNSM3lBaTBnclQwbG9fQjdSVzQ1Z0hDeUdQNUNKMnB3T0dvZTNOTm9jUlBGYlRRSXdCNmRGYXVQejZoWkNPZ1h0NV9mdU1VQU9uS0NpV3dPY0xnQlU2ZzVjbnhwRlR1aUd3TGlKamFmTmFick93S1AtdV95RUtoSHlsdllCSDBlOUhySTdSbXRaWUVnSkV6M0p1N3NFbzBjM1YwNDE5cWNVeEFiN1dNQ3Rn?oc=5
