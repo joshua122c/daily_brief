@@ -1,4 +1,4 @@
-# 分層式選題池 - 2026-10-01
+# 分層式選題池 - 2026-10-02
 
 以下新聞由RSS標題、來源權重、關鍵公司、政策與市場風險訊號自動篩選；未使用OpenAI API。
 
@@ -9,114 +9,114 @@
 摘要：US Top News and Analysis報導，原文標題指出：Micron beats on 業績 and issues strong 財測 as 資料中心 營收 上升s 11-fold。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，這則消息直接涉及Micron的變現能力或財務預期，投資人會把它放進上市、估值或財測模型。原文標題寫明「Micron beats on 業績 and issues strong 財測 as 資料中心 營收 上升s 11-fold」，涉及Micron；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
 連結：https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html
 
-## 2. A級｜Google announces Gemini 4 flagship AI model after months of delays
+## 2. A級｜China Chip Smuggling Cases Expose NVIDIA的 Blind Spots
 
-來源：Reuters
-類別：AI
-摘要：Reuters報導，原文標題指出：Google announces Gemini 4 flagship AI model after months of delays。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Gemini、Google放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Google announces Gemini 4 flagship AI model after months of delays」，涉及Gemini、Google；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5
-
-## 3. A級｜FTC is investigating OpenAI, Anthropic and other AI companies over pr…
-
-來源：cnbc.com
-類別：AI
-摘要：cnbc.com報導，原文標題指出：FTC is investigating OpenAI, Anthropic and other AI companies over product risks。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Anthropic放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「FTC is investigating OpenAI, Anthropic and other AI companies over product risks」，涉及OpenAI、Anthropic；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMidEFVX3lxTFBaX3E1SXJOeEJHVWxxNEpSUDZxRmRJZFBTQ3hDU1R2Z3FLT0hOREVTZEQ4eXNQdmRKNkQwMExCXzA0blJRRE5kb3oxb2haU1h0eGFyQ3NrOGxJSjFNYzBIVU1DU1Z1SEhkWExyelZIeHh5amE40gF6QVVfeXFMUEI1a0NEa0xqMTNScWtrWXZjS3ppbE5xVHQyWXJjVWJMQUZDby1HNlE2bG1DNUtFOFgzdDlDXy00QW1VSHJ1RDFaZ1lnUE50b2VSdjI1YlJ6LTdMUktDaWtTdm9JUG5PbDF1dFVXOUNQSFhndHpmWjlMLVE?oc=5
-
-## 4. A級｜FTC opens probe into AI giants including Anthropic and OpenAI
-
-來源：Reuters
-類別：AI
-摘要：Reuters報導，原文標題指出：FTC opens probe into AI giants including Anthropic and OpenAI。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Anthropic放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「FTC opens probe into AI giants including Anthropic and OpenAI」，涉及OpenAI、Anthropic；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzYzcTVSY1JmRld3cFRBRlRaX0w0YVZHTjU3NWVvVG5BcXFIZGFwdXViLXBLNnhJQ3d0RS13T2VURWdNQ19ySkJuVXNlV2NWX0E3LUExYUZQaFBsTTVEaC1NMXJtR0RGYlllQVotQmM3VlRaVmd2em04YWdzTXFkMjhsUlQ0b1JlcVJBRENNRFFBT1NLcU00YUtqU0N5LUlJa0YxaEhzdU1mR1lkUTJ0MFhLMjA3a1FJVlQ5RXpMOEIxdw?oc=5
-
-## 5. A級｜OpenAI links 中國的 Moonshot AI to attempt to extract its models' reason…
-
-來源：cnbc.com
-類別：AI
-摘要：cnbc.com報導，原文標題指出：OpenAI links 中國的 Moonshot AI to attempt to extract its models' reasoning。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、中國放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「OpenAI links 中國的 Moonshot AI to attempt to extract its models' reasoning」，涉及OpenAI、中國；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-連結：https://news.google.com/rss/articles/CBMidkFVX3lxTE1kSmhrQ0lQOWwyV3JGWWpoclhLX1ZHYm9qX2tOTVRvcms5eUpOUjlrQ2RYdnhlVlJYTUNFelFRWjVkYXpJbVBPTU42amJ3QW5IMDdqYTZzcjVULWxuSjh0OUYyRTV6RG84ZlpLM2NlblNoWHJDdXfSAXtBVV95cUxQSTFoTHRwbXlLVFQtRXNCVlpLblVkRGNiMnN3RjgwVHE5anZvUW1aQlNzTGVGRXJISm9JUGdka1dWUnFEd0Nqc2s1N1d4UldwLUlTNWdCOWxJUFluSVZSTUJzZFhkM3VKNUNLd3cwNjJRa29QbWQ3d0hDN28?oc=5
-
-## 6. B級｜FTC Opens 調查 of Anthropic and OpenAI
-
-來源：wsj.com
-類別：AI
-摘要：wsj.com報導，原文標題指出：FTC Opens 調查 of Anthropic and OpenAI。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Anthropic放回供應、需求、監管或商業化進度的核心位置。
-連結：https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWNQa1A4UWxGdzZ4V1V5bzVpWTV5bVdWQnBFYkZpMHN4ZW14UGY1MlU2LWpNdUc4UHBnUUVUbXdhVWRjemQ4SEVUR2hPemVGZ0tQdVpwZ0dmWXVRNkRnTFYwSmNPSWJJZFZnZnFQekVGTzlOdExxcTJhazhocUVXZVBjWmpHZ1hUVWpjNg?oc=5
-
-## 7. B級｜Google推出Gemini 4 Argon, its most advanced AI model
-
-來源：cnbc.com
-類別：AI
-摘要：cnbc.com報導，Google推出Gemini 4 Argon, its most advanced AI model。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMibkFVX3lxTFA3RWVHRldQeDcwbUo2d1FlaUEza2FnMFJZX0xuRGtGZWFyamU4TTJfM09MWHhVeDB1X0o1Y2d2VzJzeFZiQi0zOThLZkdDX1VvWnNTUkxmLXFWa1U5bHotNEliUm83M1htWWNGcWR30gFzQVVfeXFMUDZ2SVZ0VVhMa01TVnJ4UXN2Yk9VQXBadXlobU5wY0hyUndwNzFBT19kNnVzTzZ6Z3JIa253TmdubVdSYXBoNU9hNHYwNDE4TzRkZXlOdzJ2OXRxc2hNSDB5TzFfRmNIR2tpbXBwb3psTHZ6RQ?oc=5
-
-## 8. B級｜Google推出most advanced Gemini AI model
-
-來源：Financial Times
-類別：AI
-摘要：Financial Times報導，Google推出most advanced Gemini AI model。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Gemini、Google放回供應、需求、監管或商業化進度的核心位置。
-連結：https://news.google.com/rss/articles/CBMihAFBVV95cUxONHZCTWxBOEZWZTVseDhUeFdNMTZoTTRqa242NDFQRWdrMEdWYlEtWVNwQkRjUXdmX1dzUEhkZlV2bDY2aTVPbnBfNGJhXzk5NWVPRWlqbTJKTkZDU0k2dTJENXo1N2dDRHVGdHYyWVJGNUxiWVczMlBnV0JRWC12d1llUVk?oc=5
-
-## 9. B級｜CScale上調或籌集$145 million for AI networking, with backing from Nvidia a…
-
-來源：Reuters
+來源：bloomberg.com
 類別：半導體
-摘要：Reuters報導，CScale上調或籌集$145 million for AI networking, with backing from Nvidia and Intel。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-連結：https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmllMmxkQV9WNjNPVmRwcWJXbThtVXpWZVFmWmlOY1dFUmczX3JWMkJQN3dmLS1naDVhN2JreURXZTVGM3o4dC1uVXJta1BSNFVaaThSV3NwYXA3WDIyUS1kNHplY1R0SWYxMnVobUp1WUFsTFdBQ2VPVXM5R280SkI3YS02MS11SzFsYkZBV0diU2ZvNURWQ2JidnNyR0taQWNvaGVRMVhfVW1PWVM5Z011dDJMU0kyejl2emlHZTFWZw?oc=5
+摘要：bloomberg.com報導，原文標題指出：China Chip Smuggling Cases Expose NVIDIA的 Blind Spots。 RSS摘要補充，China Chip Smuggling Cases Expose NVIDIA的 Blind Spots bloomberg.com。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，事件把NVIDIA、中國放回供應、需求、監管或商業化進度的核心位置。
+連結：https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnZqUE1kc1RPWjZZTkV6Rjl0NGlnQ0szamJ5YWFURzFpVWJYUThldVJ2Wm5vSEJBTnVGZjlvMEs3REpRVDJaeU5nMDV2bmEzOVV3cE9sYTdZa3g0c2FnNnlhNThXMnBDQTJjZFczaUtJZTZmT0tsMHc4cWZ0U3R6UzRUVUc4V2VNeUdWMS1oU2xDcllzZ05TakN1c1c4Zi1Vc2pQOTFHSVFSY1hI?oc=5
 
-## 10. B級｜AI spending will fuel wins for Micron, Nvidia, Intel, and other chip…
+## 3. A級｜Google推出Gemini 4 Argon, its most advanced AI model
 
-來源：Yahoo Finance
+來源：Tech
+類別：AI
+摘要：Tech報導，Google推出Gemini 4 Argon, its most advanced AI model。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Gemini、Google放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Google rolls out Gemini 4 Argon, its most advanced AI model」，涉及Gemini、Google；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html
+
+## 4. A級｜FTC is investigating OpenAI, Anthropic and other AI companies over pr…
+
+來源：Tech
+類別：AI
+摘要：Tech報導，原文標題指出：FTC is investigating OpenAI, Anthropic and other AI companies over product risks。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Anthropic放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「FTC is investigating OpenAI, Anthropic and other AI companies over product risks」，涉及OpenAI、Anthropic；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html
+
+## 5. A級｜OpenAI alerts more than 100 groups about rogue AI agent activity
+
+來源：Reuters
+類別：AI
+摘要：Reuters報導，原文標題指出：OpenAI alerts more than 100 groups about rogue AI agent activity。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「OpenAI alerts more than 100 groups about rogue AI agent activity」，涉及OpenAI；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+連結：https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5
+
+## 6. B級｜Google推出latest AI model, but Wall Street wants a breakout personal ag…
+
+來源：CNBC
+類別：AI
+摘要：CNBC報導，Google推出latest AI model, but Wall Street wants a breakout personal agent。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMiowFBVV95cUxNRnl0RGo0clZVWk13V2ttZGw4TlI2aTB0OTc5UzYyblgydGtBd2I4SWxqTUJ6VWtUcEhvbjdUUnRTUHJpMW0yaU5PX1VpUzRqMlVjc3RPVEQ5dk42UjJ6cDZDRE01Z2I5V1dManlFOW5DeVA3Q1VWS1Z5NzVtb1JJc2xDNmRfYWswYlRGczVXSFRxVzZyX1dJcVFXZ01xSGV6Qmpj?oc=5
+
+## 7. B級｜You think NVIDIA的 $235 billion buyback is big? Just wait and see what…
+
+來源：CNBC
 類別：半導體
-摘要：Yahoo Finance報導，原文標題指出：AI spending will fuel wins for Micron, Nvidia, Intel, and other chip 股價: BofA analyst。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-連結：https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWmQxcWsxc09xUUZBZ1JZQ1g3NGM2b0FKckc4cjVsLWxtczB3U29EdU50TE5vUDV5MUIwVjVQaE11YktsMWN6ZGl4ZlBXMzZUNHJjR3JfeTJFNEZmc29zRlBPU1ZQR2lCTF9vN21PZUFlWUE3blZueWNqQ2JlbnA2ajlfams1RFJBbjNSTUpvWmVEMU1KWHRETzdXVDhxRzNZcXpYQmxsRk5NUDBkQ3FuOEpTU3ZPNWFOTllnS1BlZlY0TTlEMnY3LWJxZV9hZHlLNnROdE13ZjNGWTFyTkk4a3JrNA?oc=5
+摘要：CNBC報導，原文標題指出：You think NVIDIA的 $235 billion buyback is big? Just wait and see what Micron might do。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+連結：https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2JhTnFqcnpPcDJNbTZGZmJUOUNSZ3FGNWw2cFpsOFE2UjZQSVA5TzJGald3RjA0SFh2NFQtLUF1dXVmY2JuMVVPdmp4TFkzNy12azEzU2FrSmhMWVpwb09iWklObGZkZEkySmZESkZzRTRhX1kwaUt6OG9tUkVRc0tGRVpnVUNIZ0E2U0g1elVLdTByMGQtZC1UNjlVeUhvQ3FUNXJzWkwzMERJMmJ2NVo1bVFlMUl3dnh3cA?oc=5
 
-## 11. B級｜EXCLUSIVE: Anthropic's IPO pitch embraces AI's promise and peril
+## 8. B級｜Man Charged by 美國 With Illegally Shipping Nvidia 晶片 to China
 
-來源：Reuters
-類別：AI
-摘要：Reuters報導，原文標題指出：EXCLUSIVE: Anthropic's IPO pitch embraces AI's promise and peril。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMilwFBVV95cUxQcDlCdU9Zek0tNW81WHEzdzdUU0FMa0hrWGVlaS13ZWMtVGRRTXNqYkZuaWV0WVZlSFR0Nm1vblBwd3h4ZFI3OWdXYnlJclNxM20wUHNORlB6T3lsV0k1R1pWSlpnVmozUTM4SjhqTlNHQ3B4VlJRNUdhNFoyUzV5MWZ0azM5YzR6b211N0hJMnVKdktaR2Rv?oc=5
-
-## 12. B級｜Synopsys, OpenAI strike 交易 to develop AI model for chip design work
-
-來源：Reuters
-類別：AI
-摘要：Reuters報導，原文標題指出：Synopsys, OpenAI strike 交易 to develop AI model for chip design work。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUQ2UF9xa0tYb2VKRTFLNVpwb04xbnJCMld6TWx3Wm1IYTA0V2lXRmFEZC1hRm5zUXNOV3djUUo2SmRHbEFNbWRpMzQ0TFAzUzZGenQ1bEV4eGtkWXdWUnF4bGZmZXprb0lvOHdCcWhZU080QzU1aTl1WVBfR0V3NmNpNFVBM1Z6cWNEaDFFYkQ0eU5MLVdmNjJJTkFCSDg4eElUSUZqZ0Ntdw?oc=5
-
-## 13. B級｜Micron's AI-fueled 營收 預測 blows past estimates, backlog swells
-
-來源：Reuters
-類別：AI
-摘要：Reuters報導，原文標題指出：Micron's AI-fueled 營收 預測 blows past estimates, backlog swells。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMimwFBVV95cUxOSGljZXdlMjRDc2xMM29UN0s3NmM2cXVLUjVmbEdWRHVpRUwyeWltZDRNVUU0VDlYenBNc3lnVVh2SHprdnFSN3RjTWhKR3JYRk4xWHRtSzg5Qi01c3RuaGJnWDl3emxPZDhzckpDVlpRLUxENWlENUpXYWliRmtLc2FfNkFoQ2g2bEZFbWpULVRhQllzX0NDTFJTZw?oc=5
-
-## 14. B級｜CNBC Daily Open: Potential diesel ban, Pentagon's warfare initiative…
-
-來源：cnbc.com
-類別：AI
-摘要：cnbc.com報導，CNBC Daily Open: Potential diesel ban, Pentagon's warfare initiative and Google的 latest AI model，涉及禁令、限制、出口管制或關稅措施。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-連結：https://news.google.com/rss/articles/CBMiywFBVV95cUxPeS12ckxPWnBLNm1NbGktbXphM0hpTEkwNlNFbzZYU09QR0Q0X2JWNm1URkRtRzY2ZFNOVlZ1OEpPdFBVVnhMY1haNXdlM1VLSm5NdzY0dzAtSjd4aWFUTXhmVWxDZjBnUmViNXlrLS1nZ3QxekJjV3BjQkpwNTdJQm5waFlEazQ4ZEU3MWpJbVJ2bWxvWEltV2EyQ2ZHM3RlNGYxenZ3MzFDemVJTmlUdmtFWnZrLUt1VHZGZXY0Qmdhc1hJbFNKVXRaTdIB0AFBVV95cUxNdUc4NHlzTjdTWUpxUGVDX0dLemRuYmpfWUVEU2J1YmdRSWZmR190SUlZN2ROVVBBTDh6ZklEdUxLYkdTWU5LdzMta3BLN19aNlQ2WkNxNHVDUE13Z0FuU0E3bVZzdUUwcHk4eVJVdnBDbTN5MHBFcWxMekd0VDJONkdILTVRck9FMkkxSU5KRmRFNVhaV3JEMDlRd2h2bjJ2VngyT21meXVxMHJSQVBNLXJyQ1dPaTI5WURsbk5uZzczeUw4cEtuRThUZE0wdlpk?oc=5
-
-## 15. B級｜Nvidia is approaching a breakout level. Plus, what we want to see fro…
-
-來源：cnbc.com
+來源：bloomberg.com
 類別：半導體
-摘要：cnbc.com報導，原文標題指出：Nvidia is approaching a breakout level. Plus, what we want to see from Micron。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-連結：https://news.google.com/rss/articles/CBMirAFBVV95cUxPc2lpVEVLNWktSkg3alZvRWFYM0lhT3F3WFJqWklma1Q3Sm1CektaRk0yMGlHYTlHQ0dvNVVSQ3RaelNTWFpZVkl6cFBsYVNxUDBxTExOc1NlYlVwSlZvQ3g0NS0wdUFNaUYyNjhGdjkycWNVbkFTZW03TkdlczcyRlpaVW82Z1VxXzRuNHBDNkZHOHlLQ3BTQl9INnhTX19GLWhHR1gtM25MdVg2?oc=5
+摘要：bloomberg.com報導，原文標題指出：Man Charged by 美國 With Illegally Shipping Nvidia 晶片 to China。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+連結：https://news.google.com/rss/articles/CBMitAFBVV95cUxNaG1Cb2o1VlRFTXR6eE14TFgtMVEwbXM5OEJLekFLSXBOUVh2dGwwa3dQc0RhR0d1VjZLb3Y4UVZQb1AwRnpJcV9XNDZkYUs2T0hSQWR0V3JVYVBDTUczNEFOTHhGRjdSazBqVVBCeEhTT1Fncmo3a3l5Q0MwSnlRZTVJcnRTTDY2VjUzNERxeVVmcElpVFhpQTZXWE5ENS1EdFIxV0kwTTVNTE5JUUkwSmJnTUk?oc=5
 
-## 16. B級｜Breakingviews - COMMENTARY: AMD takes an $8 bln leap at Nvidia
+## 9. B級｜股價 making the biggest moves premarket: Alphabet, Accenture, Rocket La…
 
-來源：Reuters
+來源：CNBC
 類別：半導體
-摘要：Reuters報導，原文標題指出：Breakingviews - COMMENTARY: AMD takes an $8 bln leap at Nvidia。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-連結：https://news.google.com/rss/articles/CBMilgFBVV95cUxNMXk0X0F0a2ROY3BaeXdyYTg2OE9rRHJmSmxuWnc2amNnOEp5ZVRGN0E3d0R3aUVJRnFyYjZ3bWRkQlJwZ1RBNTVqcWNqMjBzRDhiekx0SFEzYkFaa3VDVEp4eHVuN0lwS0hfRnlncDhEbWFpYnd4TGZZTFdQR2pXeXFoTm9JM09TYkduMUIzdGc5SFQxN3c?oc=5
+摘要：CNBC報導，原文標題指出：股價 making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+連結：https://news.google.com/rss/articles/CBMinAFBVV95cUxPLUtaYkxFY2tmUTBJMVlpeFBla1pUNjF1WlRKWnFtTk9EV1hwTlltMm16ZUh1S3R3cWs3UHljeTdNRWhScFg1OUxRSDA0bno4TFdTN0h1bzVRaUE3NDVOdFFpRmJUM2tsREZwUGhIRURTdndaRkFSWGZEY1FtTE42T2k4Sk9aUW9yQnhFVktJTGRRY3liQmtVMl9pVXI?oc=5
 
-## 17. B級｜OpenAI follows Meta into the red-hot market for personal agents. But…
+## 10. B級｜Nvidia is approaching a breakout level. Plus, what we want to see fro…
+
+來源：Tech
+類別：半導體
+摘要：Tech報導，原文標題指出：Nvidia is approaching a breakout level. Plus, what we want to see from Micron。 RSS摘要補充，The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET。背景是AI伺服器需求令GPU、HBM、先。
+連結：https://www.cnbc.com/2026/09/30/nvidia-approaches-a-breakout-level-plus-what-we-want-to-see-from-micron.html
+
+## 11. B級｜OpenAI follows Meta into the red-hot market for personal agents. But…
 
 來源：Tech
 類別：AI
 摘要：Tech報導，原文標題指出：OpenAI follows Meta into the red-hot market for personal agents. But will users pay?。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
 連結：https://www.cnbc.com/2026/09/30/openai-follows-meta-into-the-red-hot-market-for-personal-agents.html
+
+## 12. B級｜Anthropic Targets Mega-IPO Before Thanksgiving Holiday
+
+來源：bloomberg.com
+類別：AI
+摘要：bloomberg.com報導，原文標題指出：Anthropic Targets Mega-IPO Before Thanksgiving Holiday。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUlUbXBSYkVLUzFtY2ptTGZ6Nk5HSHBpdFJBZlF1QU1JbXU3VG1Nb2g3OW95elBUTHV1czlHRUNKUFRBV0Nsa3QtVndGNDh2U3dBWFdRenZhRlVEX3hGTm04bl9TcVpuMkxsRkJNQ2NJbzhmYTYzZ01uRTJIS3g1ek80QmRDdE9iaUxRNmhsbzBDci02bnVaS2dpNDJsZzVJb243b2ppUVk0OFpDTWVQLW5B?oc=5
+
+## 13. B級｜Google wins dismissal of Chegg, Penske Media 訴訟s over AI overviews
+
+來源：Reuters
+類別：AI
+摘要：Reuters報導，原文標題指出：Google wins dismissal of Chegg, Penske Media 訴訟s over AI overviews。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMivAFBVV95cUxOOVVNYnJ5VzhLWjQ5dFIxNmkwbUYtWWRCSUtGcDB1bDhVbS1lTkRrUklSWkRDcEd5dVZLT0dGb3hxRC01ZjAtMDI5NElKMzdaQWhsdmJQaEFrdVAtSXhkcUNraUhPTTZnandua2FNVWhkZE1GX1htWFpHOXBBel9aNklJelhLbDFtZ2dGX3J4WVdZN1lTX3hNcVUzYzFPaWVoSzBubVQ2SDhTZ3hOVnBMNkE3NEZZanBoMF9KUQ?oc=5
+
+## 14. B級｜Exclusive | OpenAI Fires Researchers for Allegedly Sharing Informatio…
+
+來源：WSJ
+類別：AI
+摘要：WSJ報導，原文標題指出：Exclusive | OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWJYd0owc0RKM3JUWFRMZHA5dVk4REotM1NxS2Z4NktpQ0RRZzh5NHVUaDdoOVMwWFBSRnkyNEtrUXlNQy1ZNTN5MnVxdHR5VFlQaG5GZDZKWDIwXzlyQWpNQXpTaWlFdnlzTUNxSlRQdzh4SDBBei1RR29seS1vTURiT1hWZHlxSDN4NlkzNWRlWFNwM0VWSHJrYmtWV1FzaXJyUWtPSkFNTEhkQ2N2OEYycUFRd0VB?oc=5
+
+## 15. B級｜NVIDIA的 bet that its 晶片 can finance the AI boom gets a Wall Street re…
+
+來源：Reuters
+類別：半導體
+摘要：Reuters報導，原文標題指出：NVIDIA的 bet that its 晶片 can finance the AI boom gets a Wall Street reality check。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+連結：https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWFtWW9YMHUyWmxwTUs1VmZnOHZNdnJBNzB6azNFSG84M0FtS2x1SE50TDZMS0ZNS25zQ1lEZnFRdnd3UFhDRXMwLUVXaDZWRW9RZHdfQXdhNjFBdEJSd243SHlselowdWpIZ3RycmRSdUhlaTlDLUVGNjV1a3UwY2llSXpiV0dvVDN2VU1tS3NmbmQzVFNXV2FZcDJzWEI5b05NRW4zRXFPOV9NZnZUMmE5M2sycEtKVUdpNjRkLW90bGtiZnY0LWtvTHRDQQ?oc=5
+
+## 16. B級｜California AG Bonta issues subpoena to OpenAI over AI cybersecurity r…
+
+來源：Reuters
+類別：AI
+摘要：Reuters報導，原文標題指出：California AG Bonta issues subpoena to OpenAI over AI cybersecurity risks。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1Kd2RTeEwzSTRhV20ybDh2VEs5b2pXWVgzWkNsRGV0aDJ6SkRrMUp4SDVESXBHaVBwTEVzZEpzd0ZCM25IM3pRQlp4UVpEaFp3OTAzZTNhWDRCUWJKQUppVTJMRGEzcmgza2pzdjJ4ak8xVjExWU1XUEhDZmhmNjN5TkNEVmdENmY0ZXVuWDVlMzVzY01SeUd6RERia25aTHdzRmFJMC1iSWNrR291X0UxWHdFN01w?oc=5
+
+## 17. B級｜SoftBank completes final phase of $30 billion 投資 in OpenAI
+
+來源：Reuters
+類別：AI
+摘要：Reuters報導，原文標題指出：SoftBank completes final phase of $30 billion 投資 in OpenAI。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+連結：https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ0ZDMDNNS0hZT0xNc01aV0RzMkxtS2lLaUZ6cnlZX19DQS1LajRmSHdrSzVoZ3J4bGNfYmFPbXJCTTBRX1dydEpYTlgxWXVRSmJOMHZ3VERsSVV4aGRYZS1oclNzQUVzb0ZxU2dtOWpNMGI2NHpQdkE5MUZ4TlhnbUoxRDQ1UGJmbHd4Y0MzOEZZTWxaQlprekZ3ZnJRNnJZdjJ2NV9OYjRhUEhpT0VUUlc1U0tldw?oc=5
