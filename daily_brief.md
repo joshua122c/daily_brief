@@ -1,201 +1,179 @@
-# Daily Research Brief - 2026-10-13
+# Daily Research Brief - 2026-10-14
 
 分層式市場晨報
 
-生成時間：2026-10-13 11:32（香港／台灣時間）
+生成時間：2026-10-14 09:53（香港／台灣時間）
 
 ## A級新聞
 
-### 1. Meta推出Muse Wonder AI models to challenge Anthropic and OpenAI
+### 1. NVIDIA的 China AI-chip share 下跌s as Huawei closes gap, report finds
 
 - 來源：Reuters
-- 類別：AI
-- 時間：2026-10-13 02:32
-- 摘要：Reuters報導，Meta推出Muse Wonder AI models to challenge Anthropic and OpenAI。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、Anthropic、Meta放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Meta 發布s Muse Wonder AI models to challenge Anthropic and OpenAI」，涉及OpenAI、Anthropic、Meta；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-- 連結：https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWVqemVLdThXMGhqbFNrdkZ1NDUtWjNkdEVfenp5RUp6RXNwNjhlV0JRS3BJcEl0eHl3ZVZBY09HSl80RVV2RHhueXZzTUZQUUlpWnlDVFFTNkZGa1BqQlBxQUl3WlNudDlwNVNFYjVJNFZ1ajRNUUMxODlrWmhTV3Nha3dGQnhSUzNtamNicDR3ekVHRmpRRnZEbDJhV1pHb1Y2TUdac0VtTUE?oc=5
+- 類別：半導體
+- 時間：2026-10-13 10:33
+- 摘要：Reuters報導，原文標題指出：NVIDIA的 China AI-chip share 下跌s as Huawei closes gap, report finds。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，NVIDIA、Huawei、中國相關股價已對消息作出即時反應，下一步要看成交量、同業股價和期權定價是否確認這個方向。原文標題寫明「NVIDIA的 China AI-chip share 下跌s as Huawei closes gap, report finds」，涉及NVIDIA、Huawei、中國；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+- 連結：https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2lCcTJZLWVsU3NJWjJRV2xZd0RXM1NtbWNnQUtfb1RsSjlNVmFEWnVxYVJ5Y0pXS0lWV284NlVCWkp2Qy1jbm5na2ZFeE5BYmNlWFVaVGttNElacjE1SGlaeVBOc1J5Z042bUlOS3JPbWpHcloxVDF5X3B2NG5hSEdCcHp0SGswU3d5VWNNWE02bE1KS0VyTVROTlJxUTRFUzNQM3hrbERWWWh5X21pSFg2ajBBOG02cXdzS1UyV09MY0k?oc=5
 
-### 2. OpenAI Makes Progress in Preventing AI-Driven ChatGPT Delusions
-
-- 來源：WSJ
-- 類別：AI
-- 時間：2026-10-13 08:01
-- 摘要：WSJ報導，原文標題指出：OpenAI Makes Progress in Preventing AI-Driven ChatGPT Delusions。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI、ChatGPT放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「OpenAI Makes Progress in Preventing AI-Driven ChatGPT Delusions」，涉及OpenAI、ChatGPT；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-- 連結：https://news.google.com/rss/articles/CBMiekFVX3lxTE1xQ0lVRVpfMENMYlZ2Ulg5LW0tTnNFQmxPZXVqdlQ5UEpGbVlKd2lvRS1GaXJqLTZGMkhteW1HRWl1XzBSdEZqS2tsYUFNa0c1ajlHYklwcHNtZ0ZVV0ZzYW85aHVCdVdtdmJfblJyRnJmUTZscXk3MVFR?oc=5
-
-### 3. Microsoft to rely more on homegrown AI 晶片, reducing dependence on Nvi…
+### 2. Here are Tuesday's biggest analyst calls: Nvidia, Apple, Netflix, Met…
 
 - 來源：CNBC
-- 類別：半導體
-- 時間：2026-10-12 21:00
-- 摘要：CNBC報導，原文標題指出：Microsoft to rely more on homegrown AI 晶片, reducing dependence on Nvidia。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，事件把NVIDIA、Microsoft放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Microsoft to rely more on homegrown AI 晶片, reducing dependence on Nvidia」，涉及NVIDIA、Microsoft；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-- 連結：https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXdvdGREcjRPNHptRzBRc0U2a3ZSZXQ5cHdDRG5HVkpyYnZCTmJKcVdJVnpGUnhua09PbmR4bXdXM0diYVptTWNmcHFaY3FTRmlJV2N6d2Vma183QnA3UnFjUTVNRjhEWWRFZDJNQTdGNkkzbFNNSzFvLTloQ25kQmlYRXFfcmRCSzVvdU9VdXhSUEx5d1ZqU3VB0gGfAUFVX3lxTFBYNlVqUHRKWk9zYWtJU1hCWEpKM2tRUDgxdDltRlV1aU52dmlieFIyWTNwOEt2VndRT01ERnVmVG1xaEt6YnptRDhJNW42bFgwQWM4QXJMTTE5SllPZFc5dUtoclhJamluZENjdXdzeGdDNDFzejZlSHRwbjBVX0VTbHh0ZDRPVlNfQVgyelJVUl9KZi1LQllkR29uRlg4NA?oc=5
+- 類別：美國科技股
+- 時間：2026-10-13 20:31
+- 摘要：CNBC報導，原文標題指出：Here are Tuesday's biggest analyst calls: Nvidia, Apple, Netflix, Meta, Galaxy, SoFi, Viking, AT&T & more。背景是大型科技公司正以AI、雲端、廣告、電商與硬件更新維持增長，管理層任命、產品發布和投資金額會影響盈利假設。市場含義在於，事件把NVIDIA、Apple、Meta放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Here are Tuesday's biggest analyst calls: Nvidia, Apple, Netflix, Meta, Galaxy, SoFi, Viking, AT&T & more」，涉及NVIDIA、Apple、Meta；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+- 連結：https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3ZjX1BUQ1ktZG9zdU1zdzB4Uk84aEQ3Y3ktUnNzblRmaE1NTkxBQUo0RUQ5ZWpkQnE3VnZBNGhQZ0VLa05ncm4xYjdwQS1McXlDS0phY1NpNnE5NkRFdVpvc1VHb29YMG15RDQ4Tzk3R09DT1g2NVlUcVNQdmNhWDJwRlp3eF9BWmJnT1dfUQ?oc=5
 
-### 4. Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smar…
+### 3. FBI arrests OpenAI employee accused of placing recording device in co…
 
-- 來源：WSJ
+- 來源：AP News、TechCrunch、Fortune
 - 類別：AI
-- 時間：2026-10-13 04:10
-- 摘要：WSJ報導，原文標題指出：Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Meta放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter」，涉及Meta；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-- 連結：https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVkxbnFYRFlRdVIwVm5MX2hxakc1a29XeFM2d3E2X1Z6YS15M21mSHB2LVBjVFRTaV9TYkhodklCcTc3R1ZQTk41NWc1LXR4TS1Gc1pzc1FtOFl3TlJRWnF2cm1DT1lWcnhUOG1IWi1YQkJTY3FyRl9SNUl3WnlVb2preFJFeHdhb3JDRkRtdDV1NkxkV3JhQWNJeUpVYjJpV09rWkhtZmVPOXpv?oc=5
+- 時間：2026-10-14 08:29
+- 摘要：AP News、TechCrunch、Fortune報導，原文標題指出：FBI arrests OpenAI employee accused of placing recording device in company conference room。同一事件亦見於3個來源，背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把OpenAI放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「FBI arrests OpenAI employee accused of placing recording device in company conference room」，涉及OpenAI；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+- 連結1：https://news.google.com/rss/articles/CBMijgFBVV95cUxONVl0SzhGa2IyTHliZXlVSl9jcFY4V1NmUG5YN1F3WWsyUG1jSzhlMzNwZ3M2V2hmZWhfWS1pcFFkYmwtc2RZeTdJLVpRTkwxMmE4YjZkdHV3bUlZenBxeUhUa0tIU0VGeGtyTktPSGt5Z3VnUVRudWZ0VlNzSHJjc3hsY0puM0RTanBmSkJ3?oc=5
+- 連結2：https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUFvbzdDZncxY1I4SXdvTEFiYWt4RC1vdjhKcXkxY3NmZ3dtS1hLZ2lVUUJTNzNoa2ZBeGduYWw2dkNfSHNUTk9LSDVRRG9VQ0dyVHpTM3Q0elh1RG5nczdrSUJMWG5MYVdXNFRLaEtXdHNEbV9nMzhrNF9rcW5fRkt2aHljRmo5SEFobDZlSW5lcDNjaU5CVHdHWjJOampfTWdDYTVaZGZXakFJbjc3R1VzdVVIUC03MjRESkdCWmhwYTg?oc=5
+- 連結3：https://news.google.com/rss/articles/CBMitwFBVV95cUxNQXRQaDdsVlBIdDY2ZVBJZFhYbUVGYUVTaEFsMVREQ1U5NnNaWnBrSTB0ZGloTVM0NUgwMDNaTk9JVHdMMlFEU2lNamVDR0V6dTdNWDQ0M3R3RWppQzFSVjlxcEtqTEJtTi1GZ0g5bjZuam5XU1BWQmdBMlFMY0NGTFd4eFN4T18tWWp3dEhNY1dHMXIxbjEtWEl4bDB0UllDeVhCOXd5eG5GRXFiTk1CRGNycEotNmc?oc=5
 
-### 5. AI boom bolstered growth in global trade, benefiting China and India,…
+### 4. Google推出flagship AI model Gemini 4 Argon for developers, businesses
 
 - 來源：Reuters
 - 類別：AI
-- 時間：2026-10-13 10:57
-- 摘要：Reuters報導，原文標題指出：AI boom bolstered growth in global trade, benefiting China and India, IMF says。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把中國放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「AI boom bolstered growth in global trade, benefiting China and India, IMF says」，涉及中國；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
-- 連結：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeVFzV2hGZjBlUUFETjhBYmxjM2pPNkFfS0dxTFlKUm5fRnJUQm9sYjBoNGhCNldSX2tlTGxwTWtRbG94cUdYVkhKZkZCZGRabTFtMWhyMHZfUFZmUjcwaUlTRzFCOE04MG81aWtjbHZfNGNsY1Q0M01oOFp3NFE4eFlodW1jd2tsaVNNYTgyUFlwX3d5b1hMaFU3Y19QVFVkYXZ6Q3YzMVYzZlYzV2NnLXNlZnQxREpOXzhVd1BPM2g3QQ?oc=5
+- 時間：2026-10-14 00:10
+- 摘要：Reuters報導，Google推出flagship AI model Gemini 4 Argon for developers, businesses。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。市場含義在於，事件把Gemini、Google放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Google 推出es flagship AI model Gemini 4 Argon for developers, businesses」，涉及Gemini、Google；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+- 連結：https://news.google.com/rss/articles/CBMitgFBVV95cUxQclhsaXp4NUtqeVJDQTNIUjVXQVdJcnNXYnpYZUFTZm4wY3UxcTM1SzJvdzRBNE9HaURlNG1obzFGQ0o3R0pWNVJfNGFDOUdFZnhfdEJxSkszQ2hZQlowMjdCbVliRE9uX3A5ak1CYkJHOEV1elBYRWgtUHBwdF9lcWEyUGdjbmhQb2JONkpNeWhLTHgzQzRhRFRnZTEwcDRCa3k3RkpxY0c5Z1RsSlFCSmQwNmRmQQ?oc=5
+
+### 5. Microsoft to rely more on homegrown AI 晶片, reducing dependence on Nvi…
+
+- 來源：Tech
+- 類別：半導體
+- 時間：2026-10-12 22:04
+- 摘要：Tech報導，原文標題指出：Microsoft to rely more on homegrown AI 晶片, reducing dependence on Nvidia。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。市場含義在於，事件把NVIDIA、Microsoft放回供應、需求、監管或商業化進度的核心位置。原文標題寫明「Microsoft to rely more on homegrown AI 晶片, reducing dependence on Nvidia」，涉及NVIDIA、Microsoft；目前RSS未提供完整內文，因此晨報保留可由標題確認的動作、對象和變化。
+- 連結：https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html
 
 ## B級新聞
 
-### 1. NVIDIA的 China AI-chip share 下跌s as Huawei closes gap, report finds By…
+### 1. Anthropic警告AI models could soon copy themselves across home devices
 
-- 來源：Investing.com、TradingView
-- 類別：半導體
-- 時間：2026-10-13 10:48
-- 摘要：Investing.com、TradingView報導，原文標題指出：NVIDIA的 China AI-chip share 下跌s as Huawei closes gap, report finds By Reuters。同一事件亦見於2個來源，背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-- 連結1：https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQXF1MHluc2FYbVA2T0JIY3pUY1plQl9OdVU3cWRKUFRObkZmaHlKeUZCMHp0MzNLNHZrOGE3Z1BwanR2ckFDR2Rnd2FFeURlenMtYVZzOEtVbFRuVjNEUTJkUHl1U1hoc3NpR09jTUlCdl9rZW54RlFJQURYWFU1WXZ3Z3JOTld6dGtScFNvY09kWkIxbTdMZS1PTW13Y2x5OUMwT0ZtWm1CTkNWQWkybkE1U0hxUkl3cy1hdTdhYjI?oc=5
-- 連結2：https://news.google.com/rss/articles/CBMi1AFBVV95cUxPODIyeHZRMnlTWFNoamF5X25xNFEyd2FqY0xWTFMwblJ4eG0tcmlfLVItVnRoRTRzaE5vaXZCRkFESWx6c1l0UGdCMG03LWxQUTdkWTd5QU1GU21FRzNqcFdueG01TlRxVGZ2aW9WaE9zWFY3cnpaU25mMFpwQ1JxVUVzbW5kUmoyWGp5NHdBbWh6NHdnTXExTFZRM0FIREhSdHJZNl9idWZVQXV1SlRFNE5CNGhkME8yTEo4ZmpoZ1h3UmJIVFAyV3docXpRMGJKemM2cA?oc=5
-
-### 2. Microsoft reveals Maia 300 AI chip as it works to reduce dependence o…
-
-- 來源：Yahoo Finance
-- 類別：半導體
-- 時間：2026-10-12 21:00
-- 摘要：Yahoo Finance報導，原文標題指出：Microsoft reveals Maia 300 AI chip as it works to reduce dependence on Nvidia, AMD。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-- 連結：https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdzlOWjZPREptdmhCandwSVY1VlRpbGZfbTFKalh1a29UT192S0FiVnpQSHZKb1ZiRjRWQnVMLW5LdTVxUjBWbWM5VXl4czJnLWM4aFpnWU1NYk80VW5KYjJxQUt5THB5QkpVZkFXU2hNQ28wdlIwWmhyRENSTWY0d2phRklOb05XdFVaQS1YRFNyZHE3blRsYk12X2hZS0MySlBSb0ZUUGJPYS1rNUR1N0NCczZneFcyVUk1cTVSaXZURWVwTXV6SGJ6RG5TNzFOd1p2TDhodGM?oc=5
-
-### 3. Nvidia, AMD, Google, and Meta team up on global blueprint for 資料中心 de…
-
-- 來源：Yahoo Finance
-- 類別：半導體
-- 時間：2026-10-12 23:00
-- 摘要：Yahoo Finance報導，原文標題指出：Nvidia, AMD, Google, and Meta team up on global blueprint for 資料中心 design。 RSS摘要補充，Yahoo Finance Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI。
-- 連結：https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdFN3R3NFLVVVZE40T3c5ZmVhdzFFQ24taFViMElfVC1STTkwSWlIMHJ5X1BCZWJWQ2Vkck1EWklDS2Z1cEktb3NyY2FNMzBST2ozM08wUU44VnUwc3hKQ0pwT2JtQlpsd1RrMzlPbWh1UVQxM2Z1ZzRNclhCbTFMdDd0LU56MmRIYTM3cGpBZl9zaklycS1VMmlycHNPTGpQN21lNUxEbDVzMXByMDBrazZfbmRCLXlialBEbFVaN1N5SFRnRlRFOThFUXA0Yl9jdjNN?oc=5
-
-### 4. Watch Microsoft, Musk Race to Reinvent the AI Chip
-
-- 來源：Bloomberg.com
+- 來源：CNBC、Breaking News, Latest News and Videos
 - 類別：AI
-- 時間：2026-10-13 02:25
-- 摘要：Bloomberg.com報導，原文標題指出：Watch Microsoft, Musk Race to Reinvent the AI Chip。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-- 連結：https://news.google.com/rss/articles/CBMihwFBVV95cUxQdGxtMGpfamQtQWhkN1BWU19MZDZXaXdnSUFJOWp3OS1PeHI4cE1EYkFxYnJHRmZVOUFiaS1PRmVRcjVvY2txUjFBY3p4TFZ4Sm4zYThNM0JZZGc3eFloeWVqQW84XzlPYzJUQjQ0eUdaMWVkd2JyMVJqelh6MERrVVZ0UkNiN00?oc=5
+- 時間：2026-10-13 16:27
+- 摘要：CNBC、Breaking News, Latest News and Videos報導，Anthropic警告AI models could soon copy themselves across home devices。同一事件亦見於2個來源，背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+- 連結1：https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWNyQzh5ak9WNUlLTW1wbWV4QkhuWGFqUHBocXhiZnllY0t2VGRXMWxiVTRpX05neGhMSlBXQml4VXlOZGRmazJ3VVhMRmlhVWRkd2JzNkd1Vm9RMlpWTDNUamZnQ3lJcXZJRDJDNGFBTDlhbDNOVEF5cUxiX1h3RG10bnM3OW9JQjRZN0R1OXTSAZYBQVVfeXFMTVRBTkdGclhPT1A4aEJuZW9Gdm1ndW14S1JoZGRZamN6Zlo3TFpQV0k5cjE5TEIxWnRBSFR4R1VkY1licnBqX0x2aGVJMC1vQzRLYXVYbkszcUxaSFdNMTZ2ZVZtYk5ZZ1BXQllBUTA5Z09BcGR2ZHYtUXB5WW52OXpTci1VcUtIbWhQanNXMUxEVXFIODl3?oc=5
+- 連結2：https://news.google.com/rss/articles/CBMijwFBVV95cUxOMHBQNEJ3X0lTUndEVGc5Zm9UWk9ELWFxSjUwLTcxSERrV2x6RkF0ZEJSNWJfUWd3RHduUlR5aFdjcm9HeVFOSjA3b3VLaVJqeC1jSU5LRGNKRUM2MWpaYzdLVVJuUWtwWllfWWNncDBtS2gtSkVFWEQ4TnRsWkJTenJnSFBrY2JKX21idkNmUdIBlAFBVV95cUxPZEllOUstbG5mZEJtd0dMVEJvSjQzeXh2MGhKbWVRc0lSaDJzRnVLdUFSUC1QeERyY0JzOElnT3BZOTVMcnlzU0hoUVB2bXFwbHpzSWk5QXh6SDVHSFM2MWhnS1ZMdVFTSWZLY0UxelNwRTBrRE9rdHd3SGJ4dE1BOEZTeDVDWWl5djUxdnBwMUtNbkdf?oc=5
+
+### 2. OpenAI Eyes 收購 That Could Boost Cybersecurity Business
+
+- 來源：The Information
+- 類別：AI
+- 時間：2026-10-14 06:07
+- 摘要：The Information報導，原文標題指出：OpenAI Eyes 收購 That Could Boost Cybersecurity Business。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+- 連結：https://news.google.com/rss/articles/CBMilAFBVV95cUxPOEx3Zy1mSzNfMW1VYzRzTXE2YUg4alU4N1hVUVJVNGNsR21wY3N4ckNhS1g4UGI4QkxHYWUxSjlpX0hobjJleVJSV096Uk1xRmIxVWMzWXY0NlQ0ZGlOSWxEREhnaHRBcWoyZjlFQXhxSm9RaEdYR1h0YmNndHZQcEp6bVpzREd1MWV5YUF4QU1LR0FH?oc=5
+
+### 3. Anthropic to disclose new 營收 numbers as AI lab financials become cent…
+
+- 來源：CNBC
+- 類別：AI
+- 時間：2026-10-13 22:50
+- 摘要：CNBC報導，原文標題指出：Anthropic to disclose new 營收 numbers as AI lab financials become central to tech trade。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+- 連結：https://news.google.com/rss/articles/CBMickFVX3lxTE9iTFZ0YmNOLXFxS3pxWDdPSGx0bjBrdDE2OXFTZmJELThrSU5LWHZlYXcxQ2swUmZUWHhNRjc4Znh1bDZQVU4xMjQ4ZTAySHNQMWRSZjRlaVF3T3F0MDRIU2l4T3A3V3NNYy1pdGJqZWR3Z9IBd0FVX3lxTE9UQjBLY1Jza0hRNlRoYXdYYmN6QU9jT01YUlUwTllZWUp3bGxpTC1RWmJzSlREX09xR0lzdkJVejlpV2FFWVdYRVNJZFV6cXM0Y0hyQ0kxdGhlcmd0Y0pTRE1qVTZXUVNJeHpVUVQyVVcwbUNvTXRz?oc=5
+
+### 4. 美國 chip 股價 extend slide as China memory report, AI spending jitters h…
+
+- 來源：Reuters
+- 類別：AI
+- 時間：2026-10-13 22:47
+- 摘要：Reuters報導，原文標題指出：美國 chip 股價 extend slide as China memory report, AI spending jitters hit sector。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+- 連結：https://news.google.com/rss/articles/CBMixAFBVV95cUxQdjlLc0J0QjMyZmZRZWM1SldodnE0RV8xUWN0S0EzdUtWX1VjNXRiTVRKdDJQQVNkNkNadU50bGFueTItd3V0Zk43aFRiV2xsMVdCS1lFbFh3TVI3b05yd253VjBLSWdlYmwyb3VIOFBLQm5VbFRlR1ZQczRlekUyWHNOMjUwdmhvMXA2MWl1UUp6aDFydkZRZWdjUzZnRUR2NXAteDNMZS1zdDNUWm1HRVBxYlo3TXh6ZGZKT1lNOXFHUjBp?oc=5
 
 ### 5. Intel, Broadcom CEOs警告capital crunch could become AI's biggest bottle…
 
-- 來源：CNBC
-- 類別：AI
-- 時間：2026-10-12 16:27
-- 摘要：CNBC報導，Intel, Broadcom CEOs警告capital crunch could become AI's biggest bottleneck。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-- 連結：https://news.google.com/rss/articles/CBMipgFBVV95cUxNSUlaRUJHQWVtcE9QajhJcGlUR29iN3VuTEhZajk3VXh0ejdrdnRBY3JYSjFkYjVMNFJaZW9Jc0tmSU53R3d3YkY5OFV4RXlnT29MMFVDaWYzazVac3dkV201cjg2SFZ1U19CSlo1aUpKYUQxdkNnMkJMNWdGM2h6STczemZfaVpSM2NkMXZHTlIzZkhIX0tLNHVXQm1CazhtTFRXVndB0gGrAUFVX3lxTE9oZHFvczdjeF8wNDB1MDJGMEItSFhEcVlvdkNvSi0xV0s0RVNJQl8xS0NzbUhwaUlsYV85dzcwMWxuRXhtWmQ1ZVF3bEZDekZaaDV6VTlkRk5QUGxfaXJOV3ZqdkZOanVmOUhyZWtHd0xNaEhHNXpqSGR5a19FbVJRLV9oSWs0VzdOSFlpWmtWYmk1X0IteWE4cFllOWdFQ3dJRzNJaUhhcVZwWQ?oc=5
-
-### 6. China faces uphill battle to wean tech firms off Nvidia 晶片
-
-- 來源：Financial Times
-- 類別：半導體
-- 時間：2026-10-13 08:15
-- 摘要：Financial Times報導，原文標題指出：China faces uphill battle to wean tech firms off Nvidia 晶片。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
-- 連結：https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXhEbjZpZnZxdThlX0h6OVZGSEZ4cUpMekJwOWVlUWZBTU5hZUwzSWh3Slp4UHZDN01faEtCTnZ6U3pxemd0SlVwTzdOYUtMNDd5emVZZF9JdG8yRzNWLXFnT0YzRjJRbk5lYTlZLWJhd2lVSjhxS21hSmN2amxsNTNmVHI?oc=5
-
-### 7. OpenAI and Anthropic poach Trump officials as industry fights for Was…
-
 - 來源：Tech
 - 類別：AI
-- 時間：2026-10-09 21:49
-- 摘要：Tech報導，原文標題指出：OpenAI and Anthropic poach Trump officials as industry fights for Washington's trust。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-- 連結：https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html
+- 時間：2026-10-12 21:04
+- 摘要：Tech報導，Intel, Broadcom CEOs警告capital crunch could become AI's biggest bottleneck。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+- 連結：https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html
 
-### 8. Asian 股價 dive on AI jitters ahead of 美國 bank 業績，涉及禁令、限制、出口管制或關稅措施
+### 6. Brutal session for chip 股價 shows AI trade is turning
 
 - 來源：Reuters
-- 類別：金融市場
-- 時間：2026-10-13 09:41
-- 摘要：Reuters報導，Asian 股價 dive on AI jitters ahead of 美國 bank 業績，涉及禁令、限制、出口管制或關稅措施。背景是資金在股、債、匯、商品之間重新配置，油價、美元、債息和大型股財報常會互相牽動。市場含義在於，金融市場相關股價已對消息作出即時反應，下一步要看成交量、同業股價和期權定價是否確認這個方向。
-- 連結：https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU?oc=5
-
-### 9. Chip 股價 slide as fears mount over scale of AI 投資
-
-- 來源：Financial Times
 - 類別：AI
-- 時間：2026-10-13 10:58
-- 摘要：Financial Times報導，原文標題指出：Chip 股價 slide as fears mount over scale of AI 投資。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-- 連結：https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEdnZjlUNktHX2ViUVRqZHd4ZmhjaXdkd0NMR3BVLUp6akpVOUFabEljcHk4N0wzRDloZXhuQklwaVUwWjNYSFJnYkhzQ0RQNzZFZXh6VFh2U0hEZ1FybXhxNUQ0WTVLbXZydHM4REVRLXVVbHpsd2Rnc0M1MnVMMlVJTVc?oc=5
+- 時間：2026-10-14 02:04
+- 摘要：Reuters報導，原文標題指出：Brutal session for chip 股價 shows AI trade is turning。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+- 連結：https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5
 
-### 10. Watch 業績 Season, AI & Oil Prices in Focus
+### 7. Failure of Australia's Largest IPO in Decades Sends Tremors Through A…
+
+- 來源：WSJ
+- 類別：AI
+- 時間：2026-10-14 09:00
+- 摘要：WSJ報導，原文標題指出：Failure of Australia's Largest IPO in Decades Sends Tremors Through AI Trade。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+- 連結：https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SUmYyXy1JaU0zSkNocVZBSkxSTzJrN045b3VsMFItazluQm50dFI5ZUtiMmdhYnVXcHBnc3BqTXlQQU1PbzMxLVNjWnJmSk5HXy1oVVhkUG5WMnRZM0tmelBWanVhblE?oc=5
+
+### 8. Apple bets on new screen gadget, Siri AI in home device push
+
+- 來源：Reuters
+- 類別：AI
+- 時間：2026-10-14 05:50
+- 摘要：Reuters報導，原文標題指出：Apple bets on new screen gadget, Siri AI in home device push。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+- 連結：https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNVpsSWNUUWZvOTRSMFEwZVRpLUhfbmZwdDkxbUI5b0RVeE5FZGpZTTd5QzNoWUdyLWY5YWRPY2ZVZ0F2RVVlUWhJUXRjOWJCLUFaQXJBOTFvQ3M2OE5tbzdlZXFPM0s1ZUhGaEVMZ0JvaWVIYW5GMFRYc0lPVVFvYWJSUGk2cGhTNG9uLVZNNC1yUzJiSVFEUXBRTjRBNjJ1RURVRVZtYVVWSExUei1MM1kxSE4wbG84d3oxbHdyZnZvQQ?oc=5
+
+### 9. Nvidia buys stakes in French tech startups Doctolib, Genesis AI
+
+- 來源：Reuters
+- 類別：AI
+- 時間：2026-10-14 02:56
+- 摘要：Reuters報導，原文標題指出：Nvidia buys stakes in French tech startups Doctolib, Genesis AI。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
+- 連結：https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI?oc=5
+
+### 10. Nvidia-Backed Firmus Scraps Australian IPO, Citing Market Conditions
+
+- 來源：WSJ
+- 類別：半導體
+- 時間：2026-10-14 06:58
+- 摘要：WSJ報導，原文標題指出：Nvidia-Backed Firmus Scraps Australian IPO, Citing Market Conditions。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+- 連結：https://news.google.com/rss/articles/CBMiowFBVV95cUxPbTJwSjBsUTZxRHdGdjFtdzhaaENOcTZlc3doaHVvdl9mWlJWWnNyLUFlQ2tIbk5IN0paQjVUZk9BTHNIclN0SDd4LXN1ZG9hWlREdDZjUXU2aFdBS016NFNtbTNGaDgxRFMxSmZCWXNLTS1DdVI0YjNjQUFVQWdPV0RLNTBpWnZ4UGZxRFZDUV80OGhlMFB1aEZYcXVLeGQ4NS1z?oc=5
+
+### 11. Watch Chip Selloff Spre廣告 Globally, Apple Makes Smart Home Push
 
 - 來源：Bloomberg.com
-- 類別：金融市場
-- 時間：2026-10-13 06:40
-- 摘要：Bloomberg.com報導，原文標題指出：Watch 業績 Season, AI & Oil Prices in Focus。背景是資金在股、債、匯、商品之間重新配置，油價、美元、債息和大型股財報常會互相牽動。市場含義在於，這則消息直接涉及金融市場的變現能力或財務預期，投資人會把它放進上市、估值或財測模型。
-- 連結：https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTZrWHpWMWR0SnRnVjJXQlM3el81MU5DWmMxQTVFSXhKRFRCM3VQZmFLbHl0eEg1cEFuMzQtUER0ZFRiVVhzRTJFTnVCRS1BaEZ4ZXUwS0JLa3hGTFhFa0EwMm02MW5ZdGctMzVuS2RwZm56REswd1EtbTlaTlVlOA?oc=5
+- 類別：半導體
+- 時間：2026-10-14 01:23
+- 摘要：Bloomberg.com報導，原文標題指出：Watch Chip Selloff Spre廣告 Globally, Apple Makes Smart Home Push。背景是AI伺服器需求令GPU、HBM、先進封裝和晶圓代工產能成為供應鏈瓶頸，任何合作、價格或產能消息都會被快速放大。
+- 連結：https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkJLX3BZZW5OblVhbWU4SWhReUE5QV9lN2RoRkhYNGJDMTE0akI4WlZTdXg3N2pLeko2QWlMWGRhSWFnVFdvRHU5dkY3TzRKTmF6TGhNSkRmcF9zYnQ2S0hJalUwVlpVMDVqQU1SX1lzdUNCdVpzc2tOQUFTNk1JN0w1QmpWc1E?oc=5
 
-### 11. Nasdaq ends lower as oil prices 急升 ahead of 業績, economic data
+### 12. NVIDIA的 Huang計劃$2 Billion in Europe AI 交易s in Next Week
 
-- 來源：Reuters
-- 類別：金融市場
-- 時間：2026-10-13 07:54
-- 摘要：Reuters報導，原文標題指出：Nasdaq ends lower as oil prices 急升 ahead of 業績, economic data。背景是資金在股、債、匯、商品之間重新配置，油價、美元、債息和大型股財報常會互相牽動。
-- 連結：https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84VXdPOXgtTHFlSHV2SklYT0VSSDBMUzdXT0Y0SXcxOW5zUWFVYUdUbWc0dExyamhBTGNjOThJLTNxYUR2eHV5MThySHpsOGZsSzVTUFhxaGd3MW4yTjJyS0JtX2FXZ3c?oc=5
-
-### 12. Microsoft計劃huge deployment of its own AI 晶片, with an eye on saving co…
-
-- 來源：Reuters
+- 來源：Bloomberg.com
 - 類別：AI
-- 時間：2026-10-13 04:22
-- 摘要：Reuters報導，Microsoft計劃huge deployment of its own AI 晶片, with an eye on saving costs。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流動和供應協議常直接反映商業化進度。
-- 連結：https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5
+- 時間：2026-10-14 00:07
+- 摘要：Bloomberg.com報導，NVIDIA的 Huang計劃$2 Billion in Europe AI 交易s in Next Week。 RSS摘要補充，NVIDIA的 Huang Plans $2 Billion in Europe AI 交易s in Next Week Bloomberg.com。背景是生成式AI公司正把模型能力延伸到廣告、搜尋、企業軟件、資料中心與內容製作，人才流。
+- 連結：https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTUyMWwxLUpnYVFUYlNzVS1YS0d5UkpaWXhsbmZ6U08xMmNKUTFSU01rSTRjN0Z4UF9hTG0tajg4TFZqZExYVS1oZkxJWlNFM0hBc2ctbUZBU1htclhwWVB6ajludXpVT3NDZ21YaEk3UExON3ZpZVF3YU1ycDI2MS0tVU1jelR5N3F2emRKT2JDcUE4V3hiUzlxY21SNXBXdHl1YzJWREFfY2I3cWhEa2Z0VQ?oc=5
 
 ## C級新聞
 
-### 1. Meta debuts Muse Wonder AI model in latest test of users' willingness…
-
-- 來源：CNBC
-- 類別：AI
-- 時間：2026-10-13 01:00
-- 摘要：CNBC報導，原文標題指出：Meta debuts Muse Wonder AI model in latest test of users' willing。
-- 連結：https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5
-
-### 2. Anthropic says new safeguards sharply reduce AI distillation attacks
-
-- 來源：Reuters
-- 類別：AI
-- 時間：2026-10-13 09:07
-- 摘要：Reuters報導，原文標題指出：Anthropic says new safeguards sharply reduce AI distillation a。
-- 連結：https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZuUXZob1BWeEV1WEZOdWIwRW9ucW92UFVueWd3clAxbHNSUHh1VXFuX1dTalVxLWgyX3Y5ZmZhYzIxc1BNRGN4Y3JUOXBIQjhZUUlDMlNyZ2Q1WW4zOThMbF85R1NGZ0RrWnRLVWMyNjdFWmswb2hrMmNlQWttOUZVOGFjUnRaUzduMDVKMnI1ODlUaWJuTkZ1M3U5N3haQWIzMzNyNzNNUUt1eW5ZVk5EV1pPczA?oc=5
-
-### 3. Meta Says New Muse Model Hits AI Frontier After Aggressive Push
+### 1. 中國的 Producer Prices Jolted by $100 Oil as 通膨 Rebounds，焦點是利率、通膨或經濟數據變化
 
 - 來源：Bloomberg.com
+- 類別：宏觀經濟
+- 時間：2026-10-14 09:32
+- 摘要：Bloomberg.com報導，中國的 Producer Prices Jolted by $100 Oil as 通膨 Rebounds，焦點是利率、通膨或。
+- 連結：https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1dERlVieFVVeXBPSzJJVHU0TXJETVlLU1VpUVFaMWV0SzBzWnJXaDVIZHZ1cU9xTnZIdzJYN3lpdG5OMFdOUUIxTTBUOVRnVGsxRmNvcTVqQWtmemtOR010TFh6YzVKeTlsWGQ0WG1BOTJhc25fYmMzUkFpUmRNNUdRMEFUNFZwUEt2SEVrbzl0c3RGU3pXTm5BbHZhNmEyTWY1dEJwRDlHMUJ1RHR3VGxEb2U?oc=5
+
+### 2. Apple推出HomeView smart home hub with screen as showcase for Siri AI
+
+- 來源：US Top News and Analysis
 - 類別：AI
-- 時間：2026-10-13 00:56
-- 摘要：Bloomberg.com報導，原文標題指出：Meta Says New Muse Model Hits AI Frontier After Aggressi。
-- 連結：https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEE0WWhsM19sbHp4eXRuUHJNeURDWkpQS2tSdE9scThXNUVrWGN0R19KdHZLdXJnZjJQNFJXRnRsNXNWS1RmeGhlSlR6bVFER0JsWjRraFVIeXpZZkZIblc5TmVaeExWYjRqamRnUUl4enVHb0hnN3B5NUdaV1UwVmlmMVE4QlpYWmhQeWlzVUs5X0dTZkVtSHZDdXJZTHNaLWtFQ3luM0puZk91QlQyeWdPTVg0Zw?oc=5
+- 時間：2026-10-14 03:23
+- 摘要：US Top News and Analysis報導，Apple推出HomeView smart home hub with screen as showca。
+- 連結：https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html
 
-### 4. Mark Zuckerberg says Meta has reached AI 'frontier'
+### 3. Meta debuts Muse Wonder AI model in latest test of users' willingness…
 
-- 來源：Financial Times
+- 來源：Tech
 - 類別：AI
-- 時間：2026-10-13 01:00
-- 摘要：Financial Times報導，原文標題指出：Mark Zuckerberg says Meta has reached AI 'frontier'。 R。
-- 連結：https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmEtcTdxem5KMG95LXRKM2VIcGF2X3FjLTdCVmNYQzhMODdzQ2plTW5EQ1F4SHZ6RThpUDllZWVpWVVpdmxCODZyMVEybm1oZ3pNX2pOb0VrTzllbXhDTkp0Q1ZmLUhJQklNR0hOUy1mRWlrdGV4cUxkUWthZUVUQkVUZzc?oc=5
+- 時間：2026-10-13 01:34
+- 摘要：Tech報導，原文標題指出：Meta debuts Muse Wonder AI model in latest test of users' willing。
+- 連結：https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html
 
-### 5. SK Hynix, SoftBank股價下跌或受壓，原因是tech 股價 in Asia track Wall Street chip s…
-
-- 來源：CNBC
-- 類別：半導體
-- 時間：2026-10-13 10:08
-- 摘要：CNBC報導，SK Hynix, SoftBank股價下跌或受壓，原因是tech 股價 in Asia track Wall Street chip sell。
-- 連結：https://news.google.com/rss/articles/CBMinwFBVV95cUxNckowaE5BVEtNWm9RQkFrSWVMc0MzVzNHNFBubU9hWlJQM0gteG50U1RFWjdsU2w4RnJYemd0ZnIxVUhUeWgzd0VFTi1wMkN4bjczYjlib0Q4RXRyMnhmd3FUT1BhaHRsZHhsdUFVRTZUVkNGMG50RDNxTDA1Sm8yQ0Etdk5weDFOcEd6elpMRWhzWlA2Qnp4aDJWNmRCMkHSAaQBQVVfeXFMTjFRUXlfM2otZ1AwbmQ2RDVLQUtnNUJxUGlDS2V2V2owSmc0WGxUVmJINTRrRzhWejBqc1N4S0dNNjlhbnFJSzcyZnpqYWpRcEZmai01QndvdW9sWXBTbXcyWEFzZHA1d0VzWVZVdU1yUE9uaDZBZjFjNGl6aGs1SGFtWmpYS1dTUDZDVWtIOFJNM2xOdng0TE9YTmhsTHhnTk9XTzg?oc=5
-
-### 6. Watch Cisco, Nvidia Tackle AI's Growing 資料中心 Bottleneck
-
-- 來源：Bloomberg.com
-- 類別：AI
-- 時間：2026-10-13 02:25
-- 摘要：Bloomberg.com報導，原文標題指出：Watch Cisco, Nvidia Tackle AI's Growing 資料中心 Bottleneck。
-- 連結：https://news.google.com/rss/articles/CBMirwFBVV95cUxQY3A0ZVhpdnpoV0UzVzdXMkxVb1dJcnV4S25HV2RXSnl1aTVDYWR1Z1g3X0k2NDdQWUNmU0F0VWlJYkpGQ2pQQXo2cmFVVGdsay1tWHZUbVIzZ2VEQjNpSU82ZmVIVFpHdTNlSVFfYVZoTGl5TTJib1AwdmRFQVdiRy10LUt0ajhQLWJKeUlGendvMEUwMzZ3akc1YVdOTmhrbDh1TVhpelM3TW4wTFBV?oc=5
-
-### 7. Microsoft's Nadella says AI needs an 'emergency brake' that humans co…
+### 4. Microsoft's Nadella says AI needs an 'emergency brake' that humans co…
 
 - 來源：Tech
 - 類別：AI
@@ -203,103 +181,71 @@
 - 摘要：Tech報導，原文標題指出：Microsoft's Nadella says AI needs an 'emergency brake' that human。
 - 連結：https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html
 
-### 8. Gold eases on firm dollar; spotlight on 美國 通膨 data，焦點是利率、通膨或經濟數據變化
+### 5. IMF上調或籌集its 預測 for world growth this year but warns of risks from AI…
 
-- 來源：Reuters、CNBC
+- 來源：AP News
+- 類別：AI
+- 時間：2026-10-14 01:15
+- 摘要：AP News報導，IMF上調或籌集its 預測 for world growth this year but warns of risks from AI。
+- 連結：https://news.google.com/rss/articles/CBMikwFBVV95cUxOMzZQN3BqRGdtMG5KMzFoQkx5V3BKcVdxcm1kNXVBXzRIYzJDVzRhdVF1eDl2ZWl2VkRncGc0dldHQVRjQ1pZQUFXWklGNlJOam8yUmVKNnVpdUJnUklDWlhra3ZVQ1NvS3M1enB1SEZiRmtDZGR3R0J3QlpObUJUVkNaSnRjRG55azN3VzBUaURBc1E?oc=5
+
+### 6. Nasdaq ends down as 晶片商s 下跌 and bank 業績 roll in，涉及禁令、限制、出口管制或關稅措施
+
+- 來源：Reuters
+- 類別：美國科技股
+- 時間：2026-10-14 07:25
+- 摘要：Reuters報導，Nasdaq ends down as 晶片商s 下跌 and bank 業績 roll in，涉及禁令、限制、出口管制或關稅措施。
+- 連結：https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkNncVkwQU9JeFhSRFFWQ1FhcW5SUk5hY1hQMkpocmdCRlZ5b04zOGJnZ184T1lONDh1cUQwZFY3RVJxUmJzZDhpUWZ0RlhsUGluV3hoVG1TV2JWNEZtUS12R1Z0VURRQmt3SjkyUU44UkZTcmF1RnFaTm9POE9LYW5TWjY3el9jNzQwV1lOVkhaOGFDTE9Wc1NrM0RYTzJ5UFM4eF92UWV3LW03SHJ1U1I5cHF4eDNFS1liNw?oc=5
+
+### 7. U.S. 股價 Tick Down as Bank 業績 Don't Excite，涉及禁令、限制、出口管制或關稅措施
+
+- 來源：WSJ
 - 類別：金融市場
-- 時間：2026-10-13 10:23
-- 摘要：Reuters、CNBC報導，Gold eases on firm dollar; spotlight on 美國 通膨 data，焦點是利率、通膨或經濟數據。
-- 連結：https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5
+- 時間：2026-10-14 05:07
+- 摘要：WSJ報導，U.S. 股價 Tick Down as Bank 業績 Don't Excite，涉及禁令、限制、出口管制或關稅措施。 RSS摘要補充，U.S.。
+- 連結：https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjc4TmVBTEFXWVpxaDF4SlNaZmdGTE5XMk1oeEhUQkRhQlJJeTZVN1RNWGRuR3NHajNfdkNqc2ZxTk15MEFOMkxCcXRZMGhlYmRURkVrTl8xRUcxSGpuVVN0Sks1a2JYZ3RjNEpPbVFUMk5EampnbFdRMnBaMElxakM0dHNPSnp1VjRieC1FRXZpcVlDT0xFRQ?oc=5
 
-### 9. 美國 股價 hover接近their latest record in mixed trading on Wall Street
+### 8. COMMENTARY: AI may be rocket fuel for 美國 股價, less so for GDP: McGeeve…
 
-- 來源：AP News、Los Angeles Times
+- 來源：Reuters
+- 類別：AI
+- 時間：2026-10-14 07:31
+- 摘要：Reuters報導，COMMENTARY: AI may be rocket fuel for 美國 股價, less so for GDP: McGeeve。
+- 連結：https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlJyck1aVU9nSC1wVDdMb2pNeVhfUVRtOFBUUXY1RmtiNGhIM0JGOTByY2VyLW5GeFpaLWVjZVpXeDRkRldaTDZjeDhseGJuNDZZVkdMUnQ1YU5aMmJqUWZZMHh0Z0kySV9fSzJBdmxsVHlNNVplNGt4YXcwN21XaGlJdk5uUE91NmdWWTRtSzlVWUtsdmZ4cGdRNE5MMHBnV0VhTVl4NklsSjdscE1WQklJMXRIYk0xQk9wblRB?oc=5
+
+### 9. Bank 業績 Look Strong, But Markets Shrug，涉及禁令、限制、出口管制或關稅措施
+
+- 來源：WSJ
 - 類別：金融市場
-- 時間：2026-10-13 02:24
-- 摘要：AP News、Los Angeles Times報導，美國 股價 hover接近their latest record in mixed trading o。
-- 連結：https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWs0OFJBbUxDSUJpUEhoaTEwSmlNRVdmWFgwX19pUnc2YWlrdnNTUUJ1VjZsUnNJQ3Vfc0lxMVhMNkdWVjVsdzJVbFlQaHhoRlNsOWtIUHBGVUVyMUxQcmEwLWp3dEZwZkt4aGEySmNmZS1XRVhhWHB1S0dZZlRkWlVDeEVtUm95cVZpanpxNGhsUWcyZU9NRQ?oc=5
+- 時間：2026-10-14 04:15
+- 摘要：WSJ報導，Bank 業績 Look Strong, But Markets Shrug，涉及禁令、限制、出口管制或關稅措施。
+- 連結：https://news.google.com/rss/articles/CBMikAFBVV95cUxPV2FSYmgwWjY0VnFaamhrUkk3OUp1WUlZMEdpWmxraGNWeFhGZFV3Y1pQYTM4cF90OXlkN0tfcm12QVpPdTJCYnk5VUxqQVRHNkJOSHVxZnF5T2lmN2RBd3VoOWRBcXZ0UUZLYmMwWGdOa0l6Ty0ydWp1LWhyOXhqTkE1d1h0QUVrWXFzeFd5OTQ?oc=5
 
-### 10. Meta's Muse AI agent brings back 73% of new users — nearly double Cha…
-
-- 來源：Yahoo Finance
-- 類別：AI
-- 時間：2026-10-13 00:45
-- 摘要：Yahoo Finance報導，原文標題指出：Meta's Muse AI agent brings back 73% of new users — near。
-- 連結：https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGxtUG55U1Frb2ZCbjhwWUFiMkpfV3cyaGtCV3YwNjByMkJWMnFiekZqa3RYY1RDd1gzcXhEUy1MTVlVdjU2ZjJXemUyTDFDR0VTWXM0dERxZ2F2QVFFaXZMRkdzZXlZOFdZN2ktZ1NtT0JwN0piY0VjaW84Nk91emxIazJXd3RhbnRKdlR0d192NUJFd1ZFQ1NvUjVfWWZla0w4LXpVZVF6akE2NWlRSTUyRkpCeEVrRllFOVVWV1JsbTdkNkZ0ZmkxRmhDdjJhM0E?oc=5
-
-### 11. Dow Jones Futures: Micron, Nvidia Lead AI Trade Lower; Apple, Meta Ra…
-
-- 來源：Investor's Business Daily
-- 類別：半導體
-- 時間：2026-10-13 11:03
-- 摘要：Investor's Business Daily報導，Dow Jones Futures: Micron, Nvidia Lead AI Trade Low。
-- 連結：https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlk0RnVxb1Y1NnB2cDJ0R0FtVlBhZ1dUV3JsenBRSUNxNW5xNGJySFd3M2MzekJBaXlhRzlObnNmaUZ4UlZSOVdqazFnc2VVVDJmYWJ4Rm1ROTJUNXMybXRfRm5VZ0JIWEZVNEpDZXVZM2VqWkFQR0Q5aV9IbGwwSnA5QjZvdXFId1pDa18xektnbThpN2pRbFRtWW52dHg3aGcw?oc=5
-
-### 12. SNDK, MU, INTC, AMD, SKHY: Chip 股價 Extend Slide As AI Funding Concern…
-
-- 來源：Yahoo Finance
-- 類別：半導體
-- 時間：2026-10-13 09:42
-- 摘要：Yahoo Finance報導，原文標題指出：SNDK, MU, INTC, AMD, SKHY: Chip 股價 Extend Slide As AI Fu。
-- 連結：https://news.google.com/rss/articles/CBMijwFBVV95cUxNSGpkbjZBYzUtM1ZpSzdHSGtQa0ozaGpQeUVJVDFWV3VsdDZQbU9nYXlXNHhaTXRpN0lmc0lZT3g4QWhHNEtNckpTV2g0d1JNZmlBT0twYWxRVzA4bFFLY2R6QVZHcU5UcGFNeXlWWjVRQ0pONHNrSHJWdHp1UUYyaDN3VkIzR0tncjZMSFZfOA?oc=5
-
-### 13. Intel計劃boost AI turnaround with new GPU 晶片 to take on Nvidia
-
-- 來源：Yahoo Finance
-- 類別：半導體
-- 時間：2026-10-13 03:29
-- 摘要：Yahoo Finance報導，Intel計劃boost AI turnaround with new GPU 晶片 to take on Nvidia。
-- 連結：https://news.google.com/rss/articles/CBMiygFBVV95cUxOR2VrWlNjQkNsTnQ0ekFBelpEWnlPZnYyeVE2X3hlUUI1b0ViRllhSlJscEtRWkZOcndkVHBuOFQ0ei14eGpHbjBYLTFaWHdmQUltcUdvNmFJZUcyTE9sR3UxRk11MkNmVUlHS1RUOXZrN1M5TkhRZlVCRGs0YmFMNlhxMGlhdDZWeGRGd0hPcmsyRi0yUXZWZDJuMmhaTXg5MFEwTlNzM002cmZzc1UxZlduNk1MWm11VVdvcU9wSU02YW9nY3FYWmpn?oc=5
-
-### 14. Microsoft's new AI chip makes it less reliant on NVIDIA的 GPUs
-
-- 來源：The Verge
-- 類別：半導體
-- 時間：2026-10-12 21:00
-- 摘要：The Verge報導，原文標題指出：Microsoft's new AI chip makes it less reliant on NVIDIA的 GPU。
-- 連結：https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFNMVlVUZmNza0NDelpIV21DellOcjRTcXFTUjQ5ZElIVUYxQ0I3SmJDa29wdldwUk1vYzZFUHE5aldoaXV6Y0dwb05WZ3RoV3VKUWxzaU1NY3dCSkMwRl92T1dBeTlUcklTUEJIYlpaQzJ4OW1kbU00VG5yc1pCaUQ2Q3RxekVsd0E?oc=5
-
-### 15. Nvidia (NVDA) vs. Broadcom (AVGO): Which AI 股價 Is a Better Buy After…
-
-- 來源：Yahoo Finance
-- 類別：AI
-- 時間：2026-10-13 04:41
-- 摘要：Yahoo Finance報導，原文標題指出：Nvidia (NVDA) vs. Broadcom (AVGO): Which AI 股價 Is a Bett。
-- 連結：https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWFZZl9HS0NyR1M3ejBYZFFIcEo2UTl5UE9Fb0pVa3V1SmlwZ0M5V1EyY2MwVGxxTmprdE1pRjFwSXpyM0tyNTBOZWtpX1hvanZ2X3E1aE80X2N1cVpGblA5YzNBc01HWm0yM3c0TDl0RkZrRlVIdWE3bTVDRlNoY1V1NEhOZERndTZBem9yRlFjUU44N2l3aQ?oc=5
-
-### 16. World Bank jobs council urges 'crisis-era' 就業 support measures as IMF…
-
-- 來源：CNBC
-- 類別：AI
-- 時間：2026-10-12 16:11
-- 摘要：CNBC報導，World Bank jobs council urges 'crisis-era' 就業 support measures as IMF警告o。
-- 連結：https://news.google.com/rss/articles/CBMiekFVX3lxTE9ReU51ZE0yMnJUSG41Q2xIQTdLSG9BOEJMMlVVNExsd0dYQU5QZmViQnA2eF93a2lQcUl0d29jN19TNkhfRDk3LVUwNG5La2plN0dGamNoTmpLamJHNUpiXzU1eDRnNnc0OThsNk4yenZaVjY1Q3VKX2R30gF_QVVfeXFMT3RBNEdmZUNVR1kwR0hIQWI2UFZnRUJoZUY3Nm5vOFpWTHBHVG1zY1JHbFdad29DZjdfc21teFMyOVFjUEc1azgxRDU3bmdwSXNIVTNiUTg4ZElXN3pweEhXeTdZa2RrT29LMlV3WnNPLVpNSDJGcWZqaGFJaTNmOA?oc=5
-
-### 17. Nasdaq 下跌s ahead of 業績, economic data while oil rallies
+### 10. 股價 end lower as 晶片商s股價下跌或受壓，原因是and bank 業績 roll in
 
 - 來源：Reuters
 - 類別：金融市場
-- 時間：2026-10-13 07:50
-- 摘要：Reuters報導，原文標題指出：Nasdaq 下跌s ahead of 業績, economic data while oil rallies。
-- 連結：https://news.google.com/rss/articles/CBMipAFBVV95cUxOck00LVRZX0lQNUw5SGlYU09FOWw1dUVTNjZTQ0p6YklVVUlRSms1eVZRcDd6VjRySF9rOEptM3Nrd19mSURMa1dmbTdIOE1VZjJKdThIR0tabGRTdjBiX0JCWkVndjJFNkZrT0w4NzZ2VWVibjlyeVZHRmszeXRraWRfT0p2SDhSQnFTY3QycG05eHpjQVVLYk9yRF9UYzZ0VmZ6Sw?oc=5
+- 時間：2026-10-14 07:24
+- 摘要：Reuters報導，股價 end lower as 晶片商s股價下跌或受壓，原因是and bank 業績 roll in。
+- 連結：https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yZWVTSDVBcDk2a2xmeVpicXdEdHJrQjk5U1lLQ0xSWFhiM21XZnNscENLWkdRWEZzYVh4bjdCS3hrcXlnOE5qRUx6aDdGVXlNaG1jSGdQOTVwTGFtMnUtVjFRV1lJRDg?oc=5
 
-### 18. 業績 beats are now the norm. What the 股價 market needs to keep rallying
-
-- 來源：US Top News and Analysis
-- 類別：金融市場
-- 時間：2026-10-13 04:35
-- 摘要：US Top News and Analysis報導，原文標題指出：業績 beats are now the norm. What the 股價 market。
-- 連結：https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html
-
-### 19. UnitedHealth 股價 are doing something unusual ahead of 業績
+### 11. The AI trade is cracking. Here's how to 利潤
 
 - 來源：US Top News and Analysis
-- 類別：金融市場
-- 時間：2026-10-13 00:42
-- 摘要：US Top News and Analysis報導，原文標題指出：UnitedHealth 股價 are doing something unusual a。
-- 連結：https://www.cnbc.com/2026/10/12/unitedhealth-shares-are-doing-something-unusual-ahead-of-earnings.html
+- 類別：AI
+- 時間：2026-10-14 00:44
+- 摘要：US Top News and Analysis報導，原文標題指出：The AI trade is cracking. Here's how to 利潤。
+- 連結：https://www.cnbc.com/2026/10/13/the-ai-trade-is-cracking-heres-how-to-profit.html
 
-### 20. 股價 saw new highs and big declines: How the volatile AI trade moved la…
+### 12. World Bank jobs council urges 'crisis-era' 就業 support measures as IMF…
+
+- 來源：Tech
+- 類別：AI
+- 時間：2026-10-13 21:09
+- 摘要：Tech報導，World Bank jobs council urges 'crisis-era' 就業 support measures as IMF警告o。
+- 連結：https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html
+
+### 13. 股價 saw new highs and big declines: How the volatile AI trade moved la…
 
 - 來源：Tech
 - 類別：AI
@@ -307,45 +253,101 @@
 - 摘要：Tech報導，原文標題指出：股價 saw new highs and big declines: How the volatile AI trade move。
 - 連結：https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html
 
-### 21. Cramer's week ahead: 業績 kick off as banks and 晶片商s face big 測試，涉及禁令、限…
+### 14. FBI arrests Saudi OpenAI engineer over covert recording device, DOJ s…
 
-- 來源：Tech
-- 類別：金融市場
-- 時間：2026-10-10 06:22
-- 摘要：Tech報導，Cramer's week ahead: 業績 kick off as banks and 晶片商s face big 測試，涉及禁令、限制、出。
-- 連結：https://www.cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html
+- 來源：Reuters
+- 類別：AI
+- 時間：2026-10-14 07:29
+- 摘要：Reuters報導，原文標題指出：FBI arrests Saudi OpenAI engineer over covert recording device。
+- 連結：https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5
 
-### 22. Korean Chip 股價 Sink on Chinese Rival Worry, Broadcom Remarks
-
-- 來源：Bloomberg.com
-- 類別：半導體
-- 時間：2026-10-13 08:28
-- 摘要：Bloomberg.com報導，原文標題指出：Korean Chip 股價 Sink on Chinese Rival Worry, Broadcom Rem。
-- 連結：https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFp4WmRxbkUtWXJISmNZVHZlcTljeWdlQmVfck9SUGdHckpwUDRQY1BjX1p5RW9GVGhqLUIzT1h0WERsTk1YakUtMFJvcjZIRlhRTm9hYlNrb0VYMmtYWThoMTBRd2hEalF4VDBUTWlfXzRzb0dzTTQ2TmMwdmFCbDZpZGxjdDlQMnY1c1p4VUFzZ0M5VnJYOVVlTW1VOXVRbEVCY3NhWm5SQUdtMDFkb2lHTzI?oc=5
-
-### 23. Higher rates could be needed to avoid '通膨ary mindset' taking hold, sa…
+### 15. Williams says Fed may not have to hike rates in 2027, at odds with tr…
 
 - 來源：CNBC
 - 類別：宏觀經濟
-- 時間：2026-10-13 01:08
-- 摘要：CNBC報導，Higher rates could be needed to avoid '通膨ary mindset' taking hold, says。
-- 連結：https://news.google.com/rss/articles/CBMiekFVX3lxTE9iRWdUXzU4TE1qSExlakQ2Nk9qM0ljX2tRaXg2d3ZhdG56Vmc4TTJqdGMyQmE2aFNQT3l1eHRlb0tWdWgtbWJOXzk2OXJoUlVfU05TaU5TRy1QOXlVQlNpcjAtdkFPRFFiajBIOU9DY3ZEcWUwMDJWdWx30gF_QVVfeXFMT0RHU1ZWNllmUG93MHhmemF0dzQ3VHRvX2JYcGV4RmxrMHNvRnotcEZZanBJYTdjemxLS1pnNDRLZEloYXpqeEp6ZHQ0X01ZQkN1a0JtWEpXdjNqUVdsZWE2X2M2Q1dwQjFsMk8wQUw1UzllTmJmNFZHcHFzQ01rVQ?oc=5
+- 時間：2026-10-14 03:46
+- 摘要：CNBC報導，Williams says Fed may not have to hike rates in 2027, at odds with trade。
+- 連結：https://news.google.com/rss/articles/CBMiekFVX3lxTE5VSndIVE1JX2VXdmZyMWVSRmFUMS1Senp5cWt3c1hocHY2dVVfbkNkbVhHQnYyZXpmUGIwQWRaY19CZFQ2RWpDYkRKZjFPZ18zdTVXV0k0V1IyeWs0ejRTMjYyQVl5TmMxQXBObWVSQTlEUG5fY1ZCQnF30gF_QVVfeXFMT0dnRDVFSGJQejktSTNBdS1xeGdpSU0weXp0UlJLVms4Z0lxcUVfV254RnNiWi1mcDdXM0prWFp2aV8tT2NDN1pZZV83Qk83TkVqS0FzWHNsTlBLUkdmeC1PTmhlSmg5SGEtbXA4SXFRT0l1bjJZS0lKSHNCQlRaZw?oc=5
 
-### 24. Tencent Kicks Off $5 Billion Bond Sale to Finance AI Spending
+### 16. John Ternus Takes Next Big Swing as Apple CEO With HomeView Tablet
 
-- 來源：Bloomberg.com
+- 來源：WSJ
+- 類別：美國科技股
+- 時間：2026-10-14 08:00
+- 摘要：WSJ報導，原文標題指出：John Ternus Takes Next Big Swing as Apple CEO With HomeView Tablet。
+- 連結：https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEdZMldycmpZdTcwUFh1WldpMDhBMlUyVDgtNlpWdkgwQkdiN0xvYklXUGRYdmI3Z0ZYX0VqN1RpR3B4d1NhTkJiQjJlbmxELTUzaUZQdEF0emZYTkZYTFNVNGpJSkxTazVhN3FzbzRKRENhZWFPWTVaaS1DODFhQU4zYUk0bk5wMUlXSDRBUjg4ck1YX0MxZ3RiRVlKTmVwZEE?oc=5
+
+### 17. FBI arrests Saudi OpenAI employee who allegedly planted recording dev…
+
+- 來源：CNBC
 - 類別：AI
-- 時間：2026-10-13 08:25
-- 摘要：Bloomberg.com報導，原文標題指出：Tencent Kicks Off $5 Billion Bond Sale to Finance AI Spe。
-- 連結：https://news.google.com/rss/articles/CBMisAFBVV95cUxNa0lnQ1hUbV9jVDNzOXVwYU5kd2ZreS1aYi1ublEyY1pxVWhWQ1prY2VkZ2lVcGJMdTZUTEUyMHpycFQtTHl6U1g2aXA1aTg1THZibnJ6UHhYNXBRb1pjcHZORDBvcmZ4RGpQYTFiUFpIbmVQYkpoSnluNnA2aU1ySFB4NDNmQmVHemhYdUliSnpRcEtCU1dkbDNlR0NmMkFoRk1naXdwMUtwbmRRZVlOQw?oc=5
+- 時間：2026-10-14 04:55
+- 摘要：CNBC報導，原文標題指出：FBI arrests Saudi OpenAI employee who allegedly planted recording。
+- 連結：https://news.google.com/rss/articles/CBMihAFBVV95cUxNckJQNWJCVWJZSzdEUVRzWHZyZ2I0amJxTVVqX1ltcmZtSGxKWkRUVUdEWnp4Wm9HSUctWlFGNk9mOTQwVXBVd3A4SzQ0YXB3WHFfaE9YaE1mX3ZUZ1BpWWU2dDhIRXd1NENRaTAxdHdaRTFYNm5tVEZxWFQ4anpvdXo2anrSAYoBQVVfeXFMTzdwQXJjWlRmTlVDNXhWSzhsOTBHbjJpVENKRXVsUzhOR28zMjhIbGJxRFNtMTVxQVpqZlFscXhFMmx5eFhJcHRiLXJuSkhiQkZRV0tqSENqdE5TMXpxNy02c1pZb1UxNldGUkIzc3lLNTJaN1Q1QzNfVF9MX1N6bzc3dkRkNGQ0WU53?oc=5
 
-### 25. CNBC's The China Connection newsletter: How a gold-buying spree helps…
+### 18. Scaleway to open Nvidia-powered computing site in Copenhagen
+
+- 來源：Reuters
+- 類別：半導體
+- 時間：2026-10-13 19:17
+- 摘要：Reuters報導，原文標題指出：Scaleway to open Nvidia-powered computing site in Copenhagen。
+- 連結：https://news.google.com/rss/articles/CBMiswFBVV95cUxPMndKTHg3Y01YZ2lPQ2QySW11UFI4OHNYalBlRDZtSUs0cnY4WmlKN3AyOXNwQWtQNEJ2MWZJVjJPMUlmQ1RjSXZYOXhJMFFZZDVwRC11czFtX1d4VmlwdWw1RVhuME5rV2VFLXVQaWc4aFJQQVdyQ3diZENlMzVhUDY4bVdDbUNSQjNUREJvN2xWbDlCRE1LZHpWN0JkdWctaXFCQ0xSSmpVWFY0OGRNb0E5NA?oc=5
+
+### 19. Dollar languishes as focus turns to CPI, Fed speakers，焦點是利率、通膨或經濟數據變化
+
+- 來源：Reuters
+- 類別：宏觀經濟
+- 時間：2026-10-14 09:18
+- 摘要：Reuters報導，Dollar languishes as focus turns to CPI, Fed speakers，焦點是利率、通膨或經濟數據變化。
+- 連結：https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTlXdFl1T0lRV3lDTk1HeDB5eEoyUkhIUERBWi02S1ZRU2tGX0hyQk9GdThWZUNUUFBKcUxqNEd1WkU4WFpyUHV6ZmU4VXl3MWRBSjN5UWM2WjVmbDl6RGhYYzV3SF8yTGwtTGJWTTR2OHN4LVVvVzlpTGs0RkFPX2dQWmNZTUF2MVFRMU5fWXZjbjlxd2NISDgyckdMQ3lYYTZv?oc=5
+
+### 20. Anthropic urges court in Washington, D.C. to rehear appeal of Pentago…
 
 - 來源：US Top News and Analysis
-- 類別：金融市場
-- 時間：2026-10-13 07:00
-- 摘要：US Top News and Analysis報導，原文標題指出：CNBC's The China Connection newsletter: How a。
-- 連結：https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html
+- 類別：AI
+- 時間：2026-10-14 09:35
+- 摘要：US Top News and Analysis報導，原文標題指出：Anthropic urges court in Washington, D.C. to。
+- 連結：https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html
+
+### 21. Micron sinks, other memory-linked任命或起用dip for a second day
+
+- 來源：US Top News and Analysis
+- 類別：半導體
+- 時間：2026-10-14 04:12
+- 摘要：US Top News and Analysis報導，Micron sinks, other memory-linked任命或起用dip for a seco。
+- 連結：https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html
+
+### 22. TikTok CEO sees major scientific breakthroughs from AI within three y…
+
+- 來源：Tech
+- 類別：AI
+- 時間：2026-10-12 12:24
+- 摘要：Tech報導，原文標題指出：TikTok CEO sees major scientific breakthroughs from AI within thr。
+- 連結：https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html
+
+### 23. Judge orders OpenAI to turn over hiring records in Apple trade secret…
+
+- 來源：TechCrunch
+- 類別：AI
+- 時間：2026-10-14 04:36
+- 摘要：TechCrunch報導，原文標題指出：Judge orders OpenAI to turn over hiring records in Apple tr。
+- 連結：https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2pNdU8wUjNoOEhxSVFkQzl1VXFFSUY0NU5rM0Vjb0dZejJCUkhoQUJFQkctLWVrZDlaVkN3SVhLeC1jYW1aWWZ4QWxkdTBiXzdqNzl3aXZKd1h6dHdyV0k0SG1SZFc2ZTBpTkowelBLZ0hDQ1lhaEppUWZSejh0dnI5WVJCUmdnRGRxalU0STdYU2FLVjJDWURucXRKa2xYQU9HTm9yQkdKd2pKdDBj?oc=5
+
+### 24. Nvidia (NVDA) or Apple (AAPL): Which Is the Better Bet on Dan Ives' $…
+
+- 來源：Yahoo Finance
+- 類別：AI
+- 時間：2026-10-14 02:41
+- 摘要：Yahoo Finance報導，原文標題指出：Nvidia (NVDA) or Apple (AAPL): Which Is the Better Bet o。
+- 連結：https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkZSTGlmbnBRSDQ4WnJCbHpldVBCQ3ZMTXBWbTktQk16MmtBWDA5elpFb3Q3RjFwVE5Fdjh3akhySnN1eV80b3JnQXROb0pLc21NRkFDZ2RRa1VpQmc2el9id0FGcHVIbnRSTWh4TzVSRk5uc2RLME1yYjJ4TW4tM0FYUUNtZ3htaFNfZ3V5RkNhRjZ4NU9EOA?oc=5
+
+### 25. Micron, SK Hynix 股價 tumble as chip sell-off deepens following South K…
+
+- 來源：Yahoo Finance
+- 類別：半導體
+- 時間：2026-10-13 22:55
+- 摘要：Yahoo Finance報導，原文標題指出：Micron, SK Hynix 股價 tumble as chip sell-off deepens foll。
+- 連結：https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRFpQS1QtTW5JUU55UndqdkwxSGY2Sl93MzZsSEVLT1NpZzBDVW9fLXYtTTRCa1pYRGtfVHVZa201VkdJVm1Ec1VCVmV5TU5WWUZETTNOeHVYYzQ0VlgyRUVERk1fMzZPRUVSdVRSRVVQajY5NDVublc4ejd4S1FUd2VrazlrRVptbFpmQ1luZjJoT2RWZmg4OWNGcjN2N1NsMkhlTXlRamNhbUVuSjlIdkY2ZUpwMlV6LVNadk50RGx2MkRHUmMtYzdCWURVNllGMlNEZXRsVXNTRmM5cDZqUDlIWkhPUmxz?oc=5
 
 ## 抓取狀態
 
